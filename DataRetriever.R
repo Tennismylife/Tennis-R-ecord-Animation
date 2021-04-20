@@ -1,7 +1,9 @@
 
 Retrieve <- function(){
   
-  stat <- unique(db[round == 'F' & tourney_level == 'G'])
+  category <- 'M'
+  
+  stat <- unique(db[round == 'F' & tourney_level == category])
   
   stat$year <- stringr::str_sub(stat$tourney_id, 0 ,4)
   
@@ -58,7 +60,7 @@ Retrieve <- function(){
     wins <- stat$wins
   }
   
-  res <- db[tourney_level == 'G' & round == 'F']
+  res <- db[tourney_level == category & round == 'F']
   officialName <- unique(res[, c('tourney_id', 'tourney_name')])
   
   stat2 <- left_join(stat2, officialName, by = "tourney_id")     
