@@ -44,3 +44,5 @@ If you prefer it's possibile also save the animation as an mp4 video
 
 anim_save("animation.mp4", animation = for_mp4 )
 ```
+
+![Alt Text](https://github.com/Tennismylife/Tennis-R-ecord-Animation/blob/main/Animation/gganim.gif)
