@@ -1,0 +1,4111 @@
+year,id,winner_name,wins,rank,wins_lbl
+Indian Wells Masters 1990,1,Stefan Edberg,1,1, 1
+Indian Wells Masters 1990,1,Andre Agassi,0,2, 0
+Indian Wells Masters 1990,1,Andrei Chesnokov,0,3, 0
+Indian Wells Masters 1990,1,Juan Aguilera,0,4, 0
+Indian Wells Masters 1990,1,Thomas Muster,0,5, 0
+Indian Wells Masters 1990,1,Michael Chang,0,6, 0
+Indian Wells Masters 1990,1,Boris Becker,0,7, 0
+Indian Wells Masters 1990,1,Jim Courier,0,8, 0
+Indian Wells Masters 1990,1,Sergi Bruguera,0,9, 0
+Indian Wells Masters 1990,1,Karel Novacek,0,10, 0
+Indian Wells Masters 1990,1,Emilio Sanchez,0,11, 0
+Indian Wells Masters 1990,1,Guy Forget,0,12, 0
+Indian Wells Masters 1990,1,Pete Sampras,0,13, 0
+Indian Wells Masters 1990,1,Goran Ivanisevic,0,14, 0
+Indian Wells Masters 1990,1,Michael Stich,0,15, 0
+Miami Masters 1990,2,Stefan Edberg,1,1, 1
+Miami Masters 1990,2,Andre Agassi,1,2, 1
+Miami Masters 1990,2,Andrei Chesnokov,0,3, 0
+Miami Masters 1990,2,Juan Aguilera,0,4, 0
+Miami Masters 1990,2,Thomas Muster,0,5, 0
+Miami Masters 1990,2,Michael Chang,0,6, 0
+Miami Masters 1990,2,Boris Becker,0,7, 0
+Miami Masters 1990,2,Jim Courier,0,8, 0
+Miami Masters 1990,2,Sergi Bruguera,0,9, 0
+Miami Masters 1990,2,Karel Novacek,0,10, 0
+Miami Masters 1990,2,Emilio Sanchez,0,11, 0
+Miami Masters 1990,2,Guy Forget,0,12, 0
+Miami Masters 1990,2,Pete Sampras,0,13, 0
+Miami Masters 1990,2,Goran Ivanisevic,0,14, 0
+Miami Masters 1990,2,Michael Stich,0,15, 0
+Monte Carlo Masters 1990,3,Stefan Edberg,1,1, 1
+Monte Carlo Masters 1990,3,Andre Agassi,1,2, 1
+Monte Carlo Masters 1990,3,Andrei Chesnokov,1,3, 1
+Monte Carlo Masters 1990,3,Juan Aguilera,0,4, 0
+Monte Carlo Masters 1990,3,Thomas Muster,0,5, 0
+Monte Carlo Masters 1990,3,Michael Chang,0,6, 0
+Monte Carlo Masters 1990,3,Boris Becker,0,7, 0
+Monte Carlo Masters 1990,3,Jim Courier,0,8, 0
+Monte Carlo Masters 1990,3,Sergi Bruguera,0,9, 0
+Monte Carlo Masters 1990,3,Karel Novacek,0,10, 0
+Monte Carlo Masters 1990,3,Emilio Sanchez,0,11, 0
+Monte Carlo Masters 1990,3,Guy Forget,0,12, 0
+Monte Carlo Masters 1990,3,Pete Sampras,0,13, 0
+Monte Carlo Masters 1990,3,Goran Ivanisevic,0,14, 0
+Monte Carlo Masters 1990,3,Michael Stich,0,15, 0
+Hamburg Masters 1990,4,Stefan Edberg,1,1, 1
+Hamburg Masters 1990,4,Andre Agassi,1,2, 1
+Hamburg Masters 1990,4,Andrei Chesnokov,1,3, 1
+Hamburg Masters 1990,4,Juan Aguilera,1,4, 1
+Hamburg Masters 1990,4,Thomas Muster,0,5, 0
+Hamburg Masters 1990,4,Michael Chang,0,6, 0
+Hamburg Masters 1990,4,Boris Becker,0,7, 0
+Hamburg Masters 1990,4,Jim Courier,0,8, 0
+Hamburg Masters 1990,4,Sergi Bruguera,0,9, 0
+Hamburg Masters 1990,4,Karel Novacek,0,10, 0
+Hamburg Masters 1990,4,Emilio Sanchez,0,11, 0
+Hamburg Masters 1990,4,Guy Forget,0,12, 0
+Hamburg Masters 1990,4,Pete Sampras,0,13, 0
+Hamburg Masters 1990,4,Goran Ivanisevic,0,14, 0
+Hamburg Masters 1990,4,Michael Stich,0,15, 0
+Rome Masters 1990,5,Stefan Edberg,1,1, 1
+Rome Masters 1990,5,Andre Agassi,1,2, 1
+Rome Masters 1990,5,Andrei Chesnokov,1,3, 1
+Rome Masters 1990,5,Juan Aguilera,1,4, 1
+Rome Masters 1990,5,Thomas Muster,1,5, 1
+Rome Masters 1990,5,Michael Chang,0,6, 0
+Rome Masters 1990,5,Boris Becker,0,7, 0
+Rome Masters 1990,5,Jim Courier,0,8, 0
+Rome Masters 1990,5,Sergi Bruguera,0,9, 0
+Rome Masters 1990,5,Karel Novacek,0,10, 0
+Rome Masters 1990,5,Emilio Sanchez,0,11, 0
+Rome Masters 1990,5,Guy Forget,0,12, 0
+Rome Masters 1990,5,Pete Sampras,0,13, 0
+Rome Masters 1990,5,Goran Ivanisevic,0,14, 0
+Rome Masters 1990,5,Michael Stich,0,15, 0
+Canada Masters 1990,6,Stefan Edberg,1,1, 1
+Canada Masters 1990,6,Andre Agassi,1,2, 1
+Canada Masters 1990,6,Andrei Chesnokov,1,3, 1
+Canada Masters 1990,6,Juan Aguilera,1,4, 1
+Canada Masters 1990,6,Thomas Muster,1,5, 1
+Canada Masters 1990,6,Michael Chang,1,6, 1
+Canada Masters 1990,6,Boris Becker,0,7, 0
+Canada Masters 1990,6,Jim Courier,0,8, 0
+Canada Masters 1990,6,Sergi Bruguera,0,9, 0
+Canada Masters 1990,6,Karel Novacek,0,10, 0
+Canada Masters 1990,6,Emilio Sanchez,0,11, 0
+Canada Masters 1990,6,Guy Forget,0,12, 0
+Canada Masters 1990,6,Pete Sampras,0,13, 0
+Canada Masters 1990,6,Goran Ivanisevic,0,14, 0
+Canada Masters 1990,6,Michael Stich,0,15, 0
+Cincinnati Masters 1990,7,Stefan Edberg,2,1, 2
+Cincinnati Masters 1990,7,Andre Agassi,1,2, 1
+Cincinnati Masters 1990,7,Andrei Chesnokov,1,3, 1
+Cincinnati Masters 1990,7,Juan Aguilera,1,4, 1
+Cincinnati Masters 1990,7,Thomas Muster,1,5, 1
+Cincinnati Masters 1990,7,Michael Chang,1,6, 1
+Cincinnati Masters 1990,7,Boris Becker,0,7, 0
+Cincinnati Masters 1990,7,Jim Courier,0,8, 0
+Cincinnati Masters 1990,7,Sergi Bruguera,0,9, 0
+Cincinnati Masters 1990,7,Karel Novacek,0,10, 0
+Cincinnati Masters 1990,7,Emilio Sanchez,0,11, 0
+Cincinnati Masters 1990,7,Guy Forget,0,12, 0
+Cincinnati Masters 1990,7,Pete Sampras,0,13, 0
+Cincinnati Masters 1990,7,Goran Ivanisevic,0,14, 0
+Cincinnati Masters 1990,7,Michael Stich,0,15, 0
+Stockholm Masters 1990,8,Stefan Edberg,2,1, 2
+Stockholm Masters 1990,8,Andre Agassi,1,2, 1
+Stockholm Masters 1990,8,Andrei Chesnokov,1,3, 1
+Stockholm Masters 1990,8,Juan Aguilera,1,4, 1
+Stockholm Masters 1990,8,Thomas Muster,1,5, 1
+Stockholm Masters 1990,8,Michael Chang,1,6, 1
+Stockholm Masters 1990,8,Boris Becker,1,7, 1
+Stockholm Masters 1990,8,Jim Courier,0,8, 0
+Stockholm Masters 1990,8,Sergi Bruguera,0,9, 0
+Stockholm Masters 1990,8,Karel Novacek,0,10, 0
+Stockholm Masters 1990,8,Emilio Sanchez,0,11, 0
+Stockholm Masters 1990,8,Guy Forget,0,12, 0
+Stockholm Masters 1990,8,Pete Sampras,0,13, 0
+Stockholm Masters 1990,8,Goran Ivanisevic,0,14, 0
+Stockholm Masters 1990,8,Michael Stich,0,15, 0
+Paris Masters 1990,9,Stefan Edberg,3,1, 3
+Paris Masters 1990,9,Andre Agassi,1,2, 1
+Paris Masters 1990,9,Andrei Chesnokov,1,3, 1
+Paris Masters 1990,9,Juan Aguilera,1,4, 1
+Paris Masters 1990,9,Thomas Muster,1,5, 1
+Paris Masters 1990,9,Michael Chang,1,6, 1
+Paris Masters 1990,9,Boris Becker,1,7, 1
+Paris Masters 1990,9,Jim Courier,0,8, 0
+Paris Masters 1990,9,Sergi Bruguera,0,9, 0
+Paris Masters 1990,9,Karel Novacek,0,10, 0
+Paris Masters 1990,9,Emilio Sanchez,0,11, 0
+Paris Masters 1990,9,Guy Forget,0,12, 0
+Paris Masters 1990,9,Pete Sampras,0,13, 0
+Paris Masters 1990,9,Goran Ivanisevic,0,14, 0
+Paris Masters 1990,9,Michael Stich,0,15, 0
+Indian Wells Masters 1991,10,Stefan Edberg,3,1, 3
+Indian Wells Masters 1991,10,Andre Agassi,1,2, 1
+Indian Wells Masters 1991,10,Andrei Chesnokov,1,3, 1
+Indian Wells Masters 1991,10,Juan Aguilera,1,4, 1
+Indian Wells Masters 1991,10,Thomas Muster,1,5, 1
+Indian Wells Masters 1991,10,Michael Chang,1,6, 1
+Indian Wells Masters 1991,10,Boris Becker,1,7, 1
+Indian Wells Masters 1991,10,Jim Courier,1,8, 1
+Indian Wells Masters 1991,10,Sergi Bruguera,0,9, 0
+Indian Wells Masters 1991,10,Karel Novacek,0,10, 0
+Indian Wells Masters 1991,10,Emilio Sanchez,0,11, 0
+Indian Wells Masters 1991,10,Guy Forget,0,12, 0
+Indian Wells Masters 1991,10,Pete Sampras,0,13, 0
+Indian Wells Masters 1991,10,Goran Ivanisevic,0,14, 0
+Indian Wells Masters 1991,10,Michael Stich,0,15, 0
+Miami Masters 1991,11,Stefan Edberg,3,1, 3
+Miami Masters 1991,11,Andre Agassi,1,3, 1
+Miami Masters 1991,11,Andrei Chesnokov,1,4, 1
+Miami Masters 1991,11,Juan Aguilera,1,5, 1
+Miami Masters 1991,11,Thomas Muster,1,6, 1
+Miami Masters 1991,11,Michael Chang,1,7, 1
+Miami Masters 1991,11,Boris Becker,1,8, 1
+Miami Masters 1991,11,Jim Courier,2,2, 2
+Miami Masters 1991,11,Sergi Bruguera,0,9, 0
+Miami Masters 1991,11,Karel Novacek,0,10, 0
+Miami Masters 1991,11,Emilio Sanchez,0,11, 0
+Miami Masters 1991,11,Guy Forget,0,12, 0
+Miami Masters 1991,11,Pete Sampras,0,13, 0
+Miami Masters 1991,11,Goran Ivanisevic,0,14, 0
+Miami Masters 1991,11,Michael Stich,0,15, 0
+Monte Carlo Masters 1991,12,Stefan Edberg,3,1, 3
+Monte Carlo Masters 1991,12,Andre Agassi,1,3, 1
+Monte Carlo Masters 1991,12,Andrei Chesnokov,1,4, 1
+Monte Carlo Masters 1991,12,Juan Aguilera,1,5, 1
+Monte Carlo Masters 1991,12,Thomas Muster,1,6, 1
+Monte Carlo Masters 1991,12,Michael Chang,1,7, 1
+Monte Carlo Masters 1991,12,Boris Becker,1,8, 1
+Monte Carlo Masters 1991,12,Jim Courier,2,2, 2
+Monte Carlo Masters 1991,12,Sergi Bruguera,1,9, 1
+Monte Carlo Masters 1991,12,Karel Novacek,0,10, 0
+Monte Carlo Masters 1991,12,Emilio Sanchez,0,11, 0
+Monte Carlo Masters 1991,12,Guy Forget,0,12, 0
+Monte Carlo Masters 1991,12,Pete Sampras,0,13, 0
+Monte Carlo Masters 1991,12,Goran Ivanisevic,0,14, 0
+Monte Carlo Masters 1991,12,Michael Stich,0,15, 0
+Hamburg Masters 1991,13,Stefan Edberg,3,1, 3
+Hamburg Masters 1991,13,Andre Agassi,1,3, 1
+Hamburg Masters 1991,13,Andrei Chesnokov,1,4, 1
+Hamburg Masters 1991,13,Juan Aguilera,1,5, 1
+Hamburg Masters 1991,13,Thomas Muster,1,6, 1
+Hamburg Masters 1991,13,Michael Chang,1,7, 1
+Hamburg Masters 1991,13,Boris Becker,1,8, 1
+Hamburg Masters 1991,13,Jim Courier,2,2, 2
+Hamburg Masters 1991,13,Sergi Bruguera,1,9, 1
+Hamburg Masters 1991,13,Karel Novacek,1,10, 1
+Hamburg Masters 1991,13,Emilio Sanchez,0,11, 0
+Hamburg Masters 1991,13,Guy Forget,0,12, 0
+Hamburg Masters 1991,13,Pete Sampras,0,13, 0
+Hamburg Masters 1991,13,Goran Ivanisevic,0,14, 0
+Hamburg Masters 1991,13,Michael Stich,0,15, 0
+Rome Masters 1991,14,Stefan Edberg,3,1, 3
+Rome Masters 1991,14,Andre Agassi,1,3, 1
+Rome Masters 1991,14,Andrei Chesnokov,1,4, 1
+Rome Masters 1991,14,Juan Aguilera,1,5, 1
+Rome Masters 1991,14,Thomas Muster,1,6, 1
+Rome Masters 1991,14,Michael Chang,1,7, 1
+Rome Masters 1991,14,Boris Becker,1,8, 1
+Rome Masters 1991,14,Jim Courier,2,2, 2
+Rome Masters 1991,14,Sergi Bruguera,1,9, 1
+Rome Masters 1991,14,Karel Novacek,1,10, 1
+Rome Masters 1991,14,Emilio Sanchez,1,11, 1
+Rome Masters 1991,14,Guy Forget,0,12, 0
+Rome Masters 1991,14,Pete Sampras,0,13, 0
+Rome Masters 1991,14,Goran Ivanisevic,0,14, 0
+Rome Masters 1991,14,Michael Stich,0,15, 0
+Canada Masters 1991,15,Stefan Edberg,3,1, 3
+Canada Masters 1991,15,Andre Agassi,1,4, 1
+Canada Masters 1991,15,Andrei Chesnokov,2,2, 2
+Canada Masters 1991,15,Juan Aguilera,1,5, 1
+Canada Masters 1991,15,Thomas Muster,1,6, 1
+Canada Masters 1991,15,Michael Chang,1,7, 1
+Canada Masters 1991,15,Boris Becker,1,8, 1
+Canada Masters 1991,15,Jim Courier,2,3, 2
+Canada Masters 1991,15,Sergi Bruguera,1,9, 1
+Canada Masters 1991,15,Karel Novacek,1,10, 1
+Canada Masters 1991,15,Emilio Sanchez,1,11, 1
+Canada Masters 1991,15,Guy Forget,0,12, 0
+Canada Masters 1991,15,Pete Sampras,0,13, 0
+Canada Masters 1991,15,Goran Ivanisevic,0,14, 0
+Canada Masters 1991,15,Michael Stich,0,15, 0
+Cincinnati Masters 1991,16,Stefan Edberg,3,1, 3
+Cincinnati Masters 1991,16,Andre Agassi,1,4, 1
+Cincinnati Masters 1991,16,Andrei Chesnokov,2,2, 2
+Cincinnati Masters 1991,16,Juan Aguilera,1,5, 1
+Cincinnati Masters 1991,16,Thomas Muster,1,6, 1
+Cincinnati Masters 1991,16,Michael Chang,1,7, 1
+Cincinnati Masters 1991,16,Boris Becker,1,8, 1
+Cincinnati Masters 1991,16,Jim Courier,2,3, 2
+Cincinnati Masters 1991,16,Sergi Bruguera,1,9, 1
+Cincinnati Masters 1991,16,Karel Novacek,1,10, 1
+Cincinnati Masters 1991,16,Emilio Sanchez,1,11, 1
+Cincinnati Masters 1991,16,Guy Forget,1,12, 1
+Cincinnati Masters 1991,16,Pete Sampras,0,13, 0
+Cincinnati Masters 1991,16,Goran Ivanisevic,0,14, 0
+Cincinnati Masters 1991,16,Michael Stich,0,15, 0
+Stockholm Masters 1991,17,Stefan Edberg,3,1, 3
+Stockholm Masters 1991,17,Andre Agassi,1,5, 1
+Stockholm Masters 1991,17,Andrei Chesnokov,2,2, 2
+Stockholm Masters 1991,17,Juan Aguilera,1,6, 1
+Stockholm Masters 1991,17,Thomas Muster,1,7, 1
+Stockholm Masters 1991,17,Michael Chang,1,8, 1
+Stockholm Masters 1991,17,Boris Becker,2,3, 2
+Stockholm Masters 1991,17,Jim Courier,2,4, 2
+Stockholm Masters 1991,17,Sergi Bruguera,1,9, 1
+Stockholm Masters 1991,17,Karel Novacek,1,10, 1
+Stockholm Masters 1991,17,Emilio Sanchez,1,11, 1
+Stockholm Masters 1991,17,Guy Forget,1,12, 1
+Stockholm Masters 1991,17,Pete Sampras,0,13, 0
+Stockholm Masters 1991,17,Goran Ivanisevic,0,14, 0
+Stockholm Masters 1991,17,Michael Stich,0,15, 0
+Paris Masters 1991,18,Stefan Edberg,3,1, 3
+Paris Masters 1991,18,Andre Agassi,1,6, 1
+Paris Masters 1991,18,Andrei Chesnokov,2,2, 2
+Paris Masters 1991,18,Juan Aguilera,1,7, 1
+Paris Masters 1991,18,Thomas Muster,1,8, 1
+Paris Masters 1991,18,Michael Chang,1,9, 1
+Paris Masters 1991,18,Boris Becker,2,3, 2
+Paris Masters 1991,18,Jim Courier,2,4, 2
+Paris Masters 1991,18,Sergi Bruguera,1,10, 1
+Paris Masters 1991,18,Karel Novacek,1,11, 1
+Paris Masters 1991,18,Emilio Sanchez,1,12, 1
+Paris Masters 1991,18,Guy Forget,2,5, 2
+Paris Masters 1991,18,Pete Sampras,0,13, 0
+Paris Masters 1991,18,Goran Ivanisevic,0,14, 0
+Paris Masters 1991,18,Michael Stich,0,15, 0
+Indian Wells Masters 1992,19,Stefan Edberg,3,1, 3
+Indian Wells Masters 1992,19,Andre Agassi,1,7, 1
+Indian Wells Masters 1992,19,Andrei Chesnokov,2,2, 2
+Indian Wells Masters 1992,19,Juan Aguilera,1,8, 1
+Indian Wells Masters 1992,19,Thomas Muster,1,9, 1
+Indian Wells Masters 1992,19,Michael Chang,2,3, 2
+Indian Wells Masters 1992,19,Boris Becker,2,4, 2
+Indian Wells Masters 1992,19,Jim Courier,2,5, 2
+Indian Wells Masters 1992,19,Sergi Bruguera,1,10, 1
+Indian Wells Masters 1992,19,Karel Novacek,1,11, 1
+Indian Wells Masters 1992,19,Emilio Sanchez,1,12, 1
+Indian Wells Masters 1992,19,Guy Forget,2,6, 2
+Indian Wells Masters 1992,19,Pete Sampras,0,13, 0
+Indian Wells Masters 1992,19,Goran Ivanisevic,0,14, 0
+Indian Wells Masters 1992,19,Michael Stich,0,15, 0
+Miami Masters 1992,20,Stefan Edberg,3,1, 3
+Miami Masters 1992,20,Andre Agassi,1,7, 1
+Miami Masters 1992,20,Andrei Chesnokov,2,3, 2
+Miami Masters 1992,20,Juan Aguilera,1,8, 1
+Miami Masters 1992,20,Thomas Muster,1,9, 1
+Miami Masters 1992,20,Michael Chang,3,2, 3
+Miami Masters 1992,20,Boris Becker,2,4, 2
+Miami Masters 1992,20,Jim Courier,2,5, 2
+Miami Masters 1992,20,Sergi Bruguera,1,10, 1
+Miami Masters 1992,20,Karel Novacek,1,11, 1
+Miami Masters 1992,20,Emilio Sanchez,1,12, 1
+Miami Masters 1992,20,Guy Forget,2,6, 2
+Miami Masters 1992,20,Pete Sampras,0,13, 0
+Miami Masters 1992,20,Goran Ivanisevic,0,14, 0
+Miami Masters 1992,20,Michael Stich,0,15, 0
+Monte Carlo Masters 1992,21,Stefan Edberg,3,1, 3
+Monte Carlo Masters 1992,21,Andre Agassi,1,8, 1
+Monte Carlo Masters 1992,21,Andrei Chesnokov,2,3, 2
+Monte Carlo Masters 1992,21,Juan Aguilera,1,9, 1
+Monte Carlo Masters 1992,21,Thomas Muster,2,4, 2
+Monte Carlo Masters 1992,21,Michael Chang,3,2, 3
+Monte Carlo Masters 1992,21,Boris Becker,2,5, 2
+Monte Carlo Masters 1992,21,Jim Courier,2,6, 2
+Monte Carlo Masters 1992,21,Sergi Bruguera,1,10, 1
+Monte Carlo Masters 1992,21,Karel Novacek,1,11, 1
+Monte Carlo Masters 1992,21,Emilio Sanchez,1,12, 1
+Monte Carlo Masters 1992,21,Guy Forget,2,7, 2
+Monte Carlo Masters 1992,21,Pete Sampras,0,13, 0
+Monte Carlo Masters 1992,21,Goran Ivanisevic,0,14, 0
+Monte Carlo Masters 1992,21,Michael Stich,0,15, 0
+Hamburg Masters 1992,22,Stefan Edberg,4,1, 4
+Hamburg Masters 1992,22,Andre Agassi,1,8, 1
+Hamburg Masters 1992,22,Andrei Chesnokov,2,3, 2
+Hamburg Masters 1992,22,Juan Aguilera,1,9, 1
+Hamburg Masters 1992,22,Thomas Muster,2,4, 2
+Hamburg Masters 1992,22,Michael Chang,3,2, 3
+Hamburg Masters 1992,22,Boris Becker,2,5, 2
+Hamburg Masters 1992,22,Jim Courier,2,6, 2
+Hamburg Masters 1992,22,Sergi Bruguera,1,10, 1
+Hamburg Masters 1992,22,Karel Novacek,1,11, 1
+Hamburg Masters 1992,22,Emilio Sanchez,1,12, 1
+Hamburg Masters 1992,22,Guy Forget,2,7, 2
+Hamburg Masters 1992,22,Pete Sampras,0,13, 0
+Hamburg Masters 1992,22,Goran Ivanisevic,0,14, 0
+Hamburg Masters 1992,22,Michael Stich,0,15, 0
+Rome Masters 1992,23,Stefan Edberg,4,1, 4
+Rome Masters 1992,23,Andre Agassi,1,8, 1
+Rome Masters 1992,23,Andrei Chesnokov,2,4, 2
+Rome Masters 1992,23,Juan Aguilera,1,9, 1
+Rome Masters 1992,23,Thomas Muster,2,5, 2
+Rome Masters 1992,23,Michael Chang,3,2, 3
+Rome Masters 1992,23,Boris Becker,2,6, 2
+Rome Masters 1992,23,Jim Courier,3,3, 3
+Rome Masters 1992,23,Sergi Bruguera,1,10, 1
+Rome Masters 1992,23,Karel Novacek,1,11, 1
+Rome Masters 1992,23,Emilio Sanchez,1,12, 1
+Rome Masters 1992,23,Guy Forget,2,7, 2
+Rome Masters 1992,23,Pete Sampras,0,13, 0
+Rome Masters 1992,23,Goran Ivanisevic,0,14, 0
+Rome Masters 1992,23,Michael Stich,0,15, 0
+Canada Masters 1992,24,Stefan Edberg,4,1, 4
+Canada Masters 1992,24,Andre Agassi,2,4, 2
+Canada Masters 1992,24,Andrei Chesnokov,2,5, 2
+Canada Masters 1992,24,Juan Aguilera,1,9, 1
+Canada Masters 1992,24,Thomas Muster,2,6, 2
+Canada Masters 1992,24,Michael Chang,3,2, 3
+Canada Masters 1992,24,Boris Becker,2,7, 2
+Canada Masters 1992,24,Jim Courier,3,3, 3
+Canada Masters 1992,24,Sergi Bruguera,1,10, 1
+Canada Masters 1992,24,Karel Novacek,1,11, 1
+Canada Masters 1992,24,Emilio Sanchez,1,12, 1
+Canada Masters 1992,24,Guy Forget,2,8, 2
+Canada Masters 1992,24,Pete Sampras,0,13, 0
+Canada Masters 1992,24,Goran Ivanisevic,0,14, 0
+Canada Masters 1992,24,Michael Stich,0,15, 0
+Cincinnati Masters 1992,25,Stefan Edberg,4,1, 4
+Cincinnati Masters 1992,25,Andre Agassi,2,4, 2
+Cincinnati Masters 1992,25,Andrei Chesnokov,2,5, 2
+Cincinnati Masters 1992,25,Juan Aguilera,1,9, 1
+Cincinnati Masters 1992,25,Thomas Muster,2,6, 2
+Cincinnati Masters 1992,25,Michael Chang,3,2, 3
+Cincinnati Masters 1992,25,Boris Becker,2,7, 2
+Cincinnati Masters 1992,25,Jim Courier,3,3, 3
+Cincinnati Masters 1992,25,Sergi Bruguera,1,10, 1
+Cincinnati Masters 1992,25,Karel Novacek,1,11, 1
+Cincinnati Masters 1992,25,Emilio Sanchez,1,12, 1
+Cincinnati Masters 1992,25,Guy Forget,2,8, 2
+Cincinnati Masters 1992,25,Pete Sampras,1,13, 1
+Cincinnati Masters 1992,25,Goran Ivanisevic,0,14, 0
+Cincinnati Masters 1992,25,Michael Stich,0,15, 0
+Stockholm Masters 1992,26,Stefan Edberg,4,1, 4
+Stockholm Masters 1992,26,Andre Agassi,2,4, 2
+Stockholm Masters 1992,26,Andrei Chesnokov,2,5, 2
+Stockholm Masters 1992,26,Juan Aguilera,1,9, 1
+Stockholm Masters 1992,26,Thomas Muster,2,6, 2
+Stockholm Masters 1992,26,Michael Chang,3,2, 3
+Stockholm Masters 1992,26,Boris Becker,2,7, 2
+Stockholm Masters 1992,26,Jim Courier,3,3, 3
+Stockholm Masters 1992,26,Sergi Bruguera,1,10, 1
+Stockholm Masters 1992,26,Karel Novacek,1,11, 1
+Stockholm Masters 1992,26,Emilio Sanchez,1,12, 1
+Stockholm Masters 1992,26,Guy Forget,2,8, 2
+Stockholm Masters 1992,26,Pete Sampras,1,13, 1
+Stockholm Masters 1992,26,Goran Ivanisevic,1,14, 1
+Stockholm Masters 1992,26,Michael Stich,0,15, 0
+Paris Masters 1992,27,Stefan Edberg,4,1, 4
+Paris Masters 1992,27,Andre Agassi,2,5, 2
+Paris Masters 1992,27,Andrei Chesnokov,2,6, 2
+Paris Masters 1992,27,Juan Aguilera,1,9, 1
+Paris Masters 1992,27,Thomas Muster,2,7, 2
+Paris Masters 1992,27,Michael Chang,3,2, 3
+Paris Masters 1992,27,Boris Becker,3,3, 3
+Paris Masters 1992,27,Jim Courier,3,4, 3
+Paris Masters 1992,27,Sergi Bruguera,1,10, 1
+Paris Masters 1992,27,Karel Novacek,1,11, 1
+Paris Masters 1992,27,Emilio Sanchez,1,12, 1
+Paris Masters 1992,27,Guy Forget,2,8, 2
+Paris Masters 1992,27,Pete Sampras,1,13, 1
+Paris Masters 1992,27,Goran Ivanisevic,1,14, 1
+Paris Masters 1992,27,Michael Stich,0,15, 0
+Indian Wells Masters 1993,28,Stefan Edberg,4,1, 4
+Indian Wells Masters 1993,28,Andre Agassi,2,5, 2
+Indian Wells Masters 1993,28,Andrei Chesnokov,2,6, 2
+Indian Wells Masters 1993,28,Juan Aguilera,1,9, 1
+Indian Wells Masters 1993,28,Thomas Muster,2,7, 2
+Indian Wells Masters 1993,28,Michael Chang,3,3, 3
+Indian Wells Masters 1993,28,Boris Becker,3,4, 3
+Indian Wells Masters 1993,28,Jim Courier,4,2, 4
+Indian Wells Masters 1993,28,Sergi Bruguera,1,10, 1
+Indian Wells Masters 1993,28,Karel Novacek,1,11, 1
+Indian Wells Masters 1993,28,Emilio Sanchez,1,12, 1
+Indian Wells Masters 1993,28,Guy Forget,2,8, 2
+Indian Wells Masters 1993,28,Pete Sampras,1,13, 1
+Indian Wells Masters 1993,28,Goran Ivanisevic,1,14, 1
+Indian Wells Masters 1993,28,Michael Stich,0,15, 0
+Miami Masters 1993,29,Stefan Edberg,4,1, 4
+Miami Masters 1993,29,Andre Agassi,2,5, 2
+Miami Masters 1993,29,Andrei Chesnokov,2,6, 2
+Miami Masters 1993,29,Juan Aguilera,1,10, 1
+Miami Masters 1993,29,Thomas Muster,2,7, 2
+Miami Masters 1993,29,Michael Chang,3,3, 3
+Miami Masters 1993,29,Boris Becker,3,4, 3
+Miami Masters 1993,29,Jim Courier,4,2, 4
+Miami Masters 1993,29,Sergi Bruguera,1,11, 1
+Miami Masters 1993,29,Karel Novacek,1,12, 1
+Miami Masters 1993,29,Emilio Sanchez,1,13, 1
+Miami Masters 1993,29,Guy Forget,2,8, 2
+Miami Masters 1993,29,Pete Sampras,2,9, 2
+Miami Masters 1993,29,Goran Ivanisevic,1,14, 1
+Miami Masters 1993,29,Michael Stich,0,15, 0
+Monte Carlo Masters 1993,30,Stefan Edberg,4,1, 4
+Monte Carlo Masters 1993,30,Andre Agassi,2,5, 2
+Monte Carlo Masters 1993,30,Andrei Chesnokov,2,6, 2
+Monte Carlo Masters 1993,30,Juan Aguilera,1,11, 1
+Monte Carlo Masters 1993,30,Thomas Muster,2,7, 2
+Monte Carlo Masters 1993,30,Michael Chang,3,3, 3
+Monte Carlo Masters 1993,30,Boris Becker,3,4, 3
+Monte Carlo Masters 1993,30,Jim Courier,4,2, 4
+Monte Carlo Masters 1993,30,Sergi Bruguera,2,8, 2
+Monte Carlo Masters 1993,30,Karel Novacek,1,12, 1
+Monte Carlo Masters 1993,30,Emilio Sanchez,1,13, 1
+Monte Carlo Masters 1993,30,Guy Forget,2,9, 2
+Monte Carlo Masters 1993,30,Pete Sampras,2,10, 2
+Monte Carlo Masters 1993,30,Goran Ivanisevic,1,14, 1
+Monte Carlo Masters 1993,30,Michael Stich,0,15, 0
+Hamburg Masters 1993,31,Stefan Edberg,4,1, 4
+Hamburg Masters 1993,31,Andre Agassi,2,5, 2
+Hamburg Masters 1993,31,Andrei Chesnokov,2,6, 2
+Hamburg Masters 1993,31,Juan Aguilera,1,11, 1
+Hamburg Masters 1993,31,Thomas Muster,2,7, 2
+Hamburg Masters 1993,31,Michael Chang,3,3, 3
+Hamburg Masters 1993,31,Boris Becker,3,4, 3
+Hamburg Masters 1993,31,Jim Courier,4,2, 4
+Hamburg Masters 1993,31,Sergi Bruguera,2,8, 2
+Hamburg Masters 1993,31,Karel Novacek,1,12, 1
+Hamburg Masters 1993,31,Emilio Sanchez,1,13, 1
+Hamburg Masters 1993,31,Guy Forget,2,9, 2
+Hamburg Masters 1993,31,Pete Sampras,2,10, 2
+Hamburg Masters 1993,31,Goran Ivanisevic,1,14, 1
+Hamburg Masters 1993,31,Michael Stich,1,15, 1
+Rome Masters 1993,32,Stefan Edberg,4,2, 4
+Rome Masters 1993,32,Andre Agassi,2,5, 2
+Rome Masters 1993,32,Andrei Chesnokov,2,6, 2
+Rome Masters 1993,32,Juan Aguilera,1,11, 1
+Rome Masters 1993,32,Thomas Muster,2,7, 2
+Rome Masters 1993,32,Michael Chang,3,3, 3
+Rome Masters 1993,32,Boris Becker,3,4, 3
+Rome Masters 1993,32,Jim Courier,5,1, 5
+Rome Masters 1993,32,Sergi Bruguera,2,8, 2
+Rome Masters 1993,32,Karel Novacek,1,12, 1
+Rome Masters 1993,32,Emilio Sanchez,1,13, 1
+Rome Masters 1993,32,Guy Forget,2,9, 2
+Rome Masters 1993,32,Pete Sampras,2,10, 2
+Rome Masters 1993,32,Goran Ivanisevic,1,14, 1
+Rome Masters 1993,32,Michael Stich,1,15, 1
+Canada Masters 1993,33,Stefan Edberg,4,2, 4
+Canada Masters 1993,33,Andre Agassi,2,5, 2
+Canada Masters 1993,33,Andrei Chesnokov,2,6, 2
+Canada Masters 1993,33,Juan Aguilera,1,11, 1
+Canada Masters 1993,33,Thomas Muster,2,7, 2
+Canada Masters 1993,33,Michael Chang,3,3, 3
+Canada Masters 1993,33,Boris Becker,3,4, 3
+Canada Masters 1993,33,Jim Courier,5,1, 5
+Canada Masters 1993,33,Sergi Bruguera,2,8, 2
+Canada Masters 1993,33,Karel Novacek,1,12, 1
+Canada Masters 1993,33,Emilio Sanchez,1,13, 1
+Canada Masters 1993,33,Guy Forget,2,9, 2
+Canada Masters 1993,33,Pete Sampras,2,10, 2
+Canada Masters 1993,33,Goran Ivanisevic,1,14, 1
+Canada Masters 1993,33,Michael Stich,1,15, 1
+Cincinnati Masters 1993,34,Stefan Edberg,4,2, 4
+Cincinnati Masters 1993,34,Andre Agassi,2,5, 2
+Cincinnati Masters 1993,34,Andrei Chesnokov,2,6, 2
+Cincinnati Masters 1993,34,Juan Aguilera,1,11, 1
+Cincinnati Masters 1993,34,Thomas Muster,2,7, 2
+Cincinnati Masters 1993,34,Michael Chang,4,3, 4
+Cincinnati Masters 1993,34,Boris Becker,3,4, 3
+Cincinnati Masters 1993,34,Jim Courier,5,1, 5
+Cincinnati Masters 1993,34,Sergi Bruguera,2,8, 2
+Cincinnati Masters 1993,34,Karel Novacek,1,12, 1
+Cincinnati Masters 1993,34,Emilio Sanchez,1,13, 1
+Cincinnati Masters 1993,34,Guy Forget,2,9, 2
+Cincinnati Masters 1993,34,Pete Sampras,2,10, 2
+Cincinnati Masters 1993,34,Goran Ivanisevic,1,14, 1
+Cincinnati Masters 1993,34,Michael Stich,1,15, 1
+Stockholm Masters 1993,35,Stefan Edberg,4,2, 4
+Stockholm Masters 1993,35,Andre Agassi,2,5, 2
+Stockholm Masters 1993,35,Andrei Chesnokov,2,6, 2
+Stockholm Masters 1993,35,Juan Aguilera,1,12, 1
+Stockholm Masters 1993,35,Thomas Muster,2,7, 2
+Stockholm Masters 1993,35,Michael Chang,4,3, 4
+Stockholm Masters 1993,35,Boris Becker,3,4, 3
+Stockholm Masters 1993,35,Jim Courier,5,1, 5
+Stockholm Masters 1993,35,Sergi Bruguera,2,8, 2
+Stockholm Masters 1993,35,Karel Novacek,1,13, 1
+Stockholm Masters 1993,35,Emilio Sanchez,1,14, 1
+Stockholm Masters 1993,35,Guy Forget,2,9, 2
+Stockholm Masters 1993,35,Pete Sampras,2,10, 2
+Stockholm Masters 1993,35,Goran Ivanisevic,1,15, 1
+Stockholm Masters 1993,35,Michael Stich,2,11, 2
+Paris Masters 1993,36,Stefan Edberg,4,2, 4
+Paris Masters 1993,36,Andre Agassi,2,5, 2
+Paris Masters 1993,36,Andrei Chesnokov,2,6, 2
+Paris Masters 1993,36,Juan Aguilera,1,13, 1
+Paris Masters 1993,36,Thomas Muster,2,7, 2
+Paris Masters 1993,36,Michael Chang,4,3, 4
+Paris Masters 1993,36,Boris Becker,3,4, 3
+Paris Masters 1993,36,Jim Courier,5,1, 5
+Paris Masters 1993,36,Sergi Bruguera,2,8, 2
+Paris Masters 1993,36,Karel Novacek,1,14, 1
+Paris Masters 1993,36,Emilio Sanchez,1,15, 1
+Paris Masters 1993,36,Guy Forget,2,9, 2
+Paris Masters 1993,36,Pete Sampras,2,10, 2
+Paris Masters 1993,36,Goran Ivanisevic,2,11, 2
+Paris Masters 1993,36,Michael Stich,2,12, 2
+Indian Wells Masters 1994,37,Stefan Edberg,4,2, 4
+Indian Wells Masters 1994,37,Andre Agassi,2,6, 2
+Indian Wells Masters 1994,37,Andrei Chesnokov,2,7, 2
+Indian Wells Masters 1994,37,Juan Aguilera,1,13, 1
+Indian Wells Masters 1994,37,Thomas Muster,2,8, 2
+Indian Wells Masters 1994,37,Michael Chang,4,3, 4
+Indian Wells Masters 1994,37,Boris Becker,3,4, 3
+Indian Wells Masters 1994,37,Jim Courier,5,1, 5
+Indian Wells Masters 1994,37,Sergi Bruguera,2,9, 2
+Indian Wells Masters 1994,37,Karel Novacek,1,14, 1
+Indian Wells Masters 1994,37,Emilio Sanchez,1,15, 1
+Indian Wells Masters 1994,37,Guy Forget,2,10, 2
+Indian Wells Masters 1994,37,Pete Sampras,3,5, 3
+Indian Wells Masters 1994,37,Goran Ivanisevic,2,11, 2
+Indian Wells Masters 1994,37,Michael Stich,2,12, 2
+Miami Masters 1994,38,Stefan Edberg,4,2, 4
+Miami Masters 1994,38,Andre Agassi,2,6, 2
+Miami Masters 1994,38,Andrei Chesnokov,2,7, 2
+Miami Masters 1994,38,Juan Aguilera,1,13, 1
+Miami Masters 1994,38,Thomas Muster,2,8, 2
+Miami Masters 1994,38,Michael Chang,4,3, 4
+Miami Masters 1994,38,Boris Becker,3,5, 3
+Miami Masters 1994,38,Jim Courier,5,1, 5
+Miami Masters 1994,38,Sergi Bruguera,2,9, 2
+Miami Masters 1994,38,Karel Novacek,1,14, 1
+Miami Masters 1994,38,Emilio Sanchez,1,15, 1
+Miami Masters 1994,38,Guy Forget,2,10, 2
+Miami Masters 1994,38,Pete Sampras,4,4, 4
+Miami Masters 1994,38,Goran Ivanisevic,2,11, 2
+Miami Masters 1994,38,Michael Stich,2,12, 2
+Monte Carlo Masters 1994,39,Stefan Edberg,4,2, 4
+Monte Carlo Masters 1994,39,Andre Agassi,2,6, 2
+Monte Carlo Masters 1994,39,Andrei Chesnokov,2,7, 2
+Monte Carlo Masters 1994,39,Juan Aguilera,1,13, 1
+Monte Carlo Masters 1994,39,Thomas Muster,2,8, 2
+Monte Carlo Masters 1994,39,Michael Chang,4,3, 4
+Monte Carlo Masters 1994,39,Boris Becker,3,5, 3
+Monte Carlo Masters 1994,39,Jim Courier,5,1, 5
+Monte Carlo Masters 1994,39,Sergi Bruguera,2,9, 2
+Monte Carlo Masters 1994,39,Karel Novacek,1,14, 1
+Monte Carlo Masters 1994,39,Emilio Sanchez,1,15, 1
+Monte Carlo Masters 1994,39,Guy Forget,2,10, 2
+Monte Carlo Masters 1994,39,Pete Sampras,4,4, 4
+Monte Carlo Masters 1994,39,Goran Ivanisevic,2,11, 2
+Monte Carlo Masters 1994,39,Michael Stich,2,12, 2
+Hamburg Masters 1994,40,Stefan Edberg,4,2, 4
+Hamburg Masters 1994,40,Andre Agassi,2,6, 2
+Hamburg Masters 1994,40,Andrei Chesnokov,2,7, 2
+Hamburg Masters 1994,40,Juan Aguilera,1,14, 1
+Hamburg Masters 1994,40,Thomas Muster,2,8, 2
+Hamburg Masters 1994,40,Michael Chang,4,3, 4
+Hamburg Masters 1994,40,Boris Becker,3,5, 3
+Hamburg Masters 1994,40,Jim Courier,5,1, 5
+Hamburg Masters 1994,40,Sergi Bruguera,2,9, 2
+Hamburg Masters 1994,40,Karel Novacek,1,15, 1
+Hamburg Masters 1994,40,Guy Forget,2,10, 2
+Hamburg Masters 1994,40,Pete Sampras,4,4, 4
+Hamburg Masters 1994,40,Goran Ivanisevic,2,11, 2
+Hamburg Masters 1994,40,Michael Stich,2,12, 2
+Hamburg Masters 1994,40,Andrei Medvedev,2,13, 2
+Rome Masters 1994,41,Stefan Edberg,4,3, 4
+Rome Masters 1994,41,Andre Agassi,2,6, 2
+Rome Masters 1994,41,Andrei Chesnokov,2,7, 2
+Rome Masters 1994,41,Juan Aguilera,1,14, 1
+Rome Masters 1994,41,Thomas Muster,2,8, 2
+Rome Masters 1994,41,Michael Chang,4,4, 4
+Rome Masters 1994,41,Boris Becker,3,5, 3
+Rome Masters 1994,41,Jim Courier,5,1, 5
+Rome Masters 1994,41,Sergi Bruguera,2,9, 2
+Rome Masters 1994,41,Karel Novacek,1,15, 1
+Rome Masters 1994,41,Guy Forget,2,10, 2
+Rome Masters 1994,41,Pete Sampras,5,2, 5
+Rome Masters 1994,41,Goran Ivanisevic,2,11, 2
+Rome Masters 1994,41,Michael Stich,2,12, 2
+Rome Masters 1994,41,Andrei Medvedev,2,13, 2
+Canada Masters 1994,42,Stefan Edberg,4,3, 4
+Canada Masters 1994,42,Andre Agassi,3,5, 3
+Canada Masters 1994,42,Andrei Chesnokov,2,7, 2
+Canada Masters 1994,42,Juan Aguilera,1,14, 1
+Canada Masters 1994,42,Thomas Muster,2,8, 2
+Canada Masters 1994,42,Michael Chang,4,4, 4
+Canada Masters 1994,42,Boris Becker,3,6, 3
+Canada Masters 1994,42,Jim Courier,5,1, 5
+Canada Masters 1994,42,Sergi Bruguera,2,9, 2
+Canada Masters 1994,42,Karel Novacek,1,15, 1
+Canada Masters 1994,42,Guy Forget,2,10, 2
+Canada Masters 1994,42,Pete Sampras,5,2, 5
+Canada Masters 1994,42,Goran Ivanisevic,2,11, 2
+Canada Masters 1994,42,Michael Stich,2,12, 2
+Canada Masters 1994,42,Andrei Medvedev,2,13, 2
+Cincinnati Masters 1994,43,Stefan Edberg,4,4, 4
+Cincinnati Masters 1994,43,Andre Agassi,3,5, 3
+Cincinnati Masters 1994,43,Andrei Chesnokov,2,7, 2
+Cincinnati Masters 1994,43,Juan Aguilera,1,14, 1
+Cincinnati Masters 1994,43,Thomas Muster,2,8, 2
+Cincinnati Masters 1994,43,Michael Chang,5,1, 5
+Cincinnati Masters 1994,43,Boris Becker,3,6, 3
+Cincinnati Masters 1994,43,Jim Courier,5,2, 5
+Cincinnati Masters 1994,43,Sergi Bruguera,2,9, 2
+Cincinnati Masters 1994,43,Karel Novacek,1,15, 1
+Cincinnati Masters 1994,43,Guy Forget,2,10, 2
+Cincinnati Masters 1994,43,Pete Sampras,5,3, 5
+Cincinnati Masters 1994,43,Goran Ivanisevic,2,11, 2
+Cincinnati Masters 1994,43,Michael Stich,2,12, 2
+Cincinnati Masters 1994,43,Andrei Medvedev,2,13, 2
+Stockholm Masters 1994,44,Stefan Edberg,4,4, 4
+Stockholm Masters 1994,44,Andre Agassi,3,6, 3
+Stockholm Masters 1994,44,Andrei Chesnokov,2,7, 2
+Stockholm Masters 1994,44,Juan Aguilera,1,14, 1
+Stockholm Masters 1994,44,Thomas Muster,2,8, 2
+Stockholm Masters 1994,44,Michael Chang,5,1, 5
+Stockholm Masters 1994,44,Boris Becker,4,5, 4
+Stockholm Masters 1994,44,Jim Courier,5,2, 5
+Stockholm Masters 1994,44,Sergi Bruguera,2,9, 2
+Stockholm Masters 1994,44,Karel Novacek,1,15, 1
+Stockholm Masters 1994,44,Guy Forget,2,10, 2
+Stockholm Masters 1994,44,Pete Sampras,5,3, 5
+Stockholm Masters 1994,44,Goran Ivanisevic,2,11, 2
+Stockholm Masters 1994,44,Michael Stich,2,12, 2
+Stockholm Masters 1994,44,Andrei Medvedev,2,13, 2
+Paris Masters 1994,45,Stefan Edberg,4,4, 4
+Paris Masters 1994,45,Andre Agassi,4,5, 4
+Paris Masters 1994,45,Andrei Chesnokov,2,7, 2
+Paris Masters 1994,45,Juan Aguilera,1,14, 1
+Paris Masters 1994,45,Thomas Muster,2,8, 2
+Paris Masters 1994,45,Michael Chang,5,1, 5
+Paris Masters 1994,45,Boris Becker,4,6, 4
+Paris Masters 1994,45,Jim Courier,5,2, 5
+Paris Masters 1994,45,Sergi Bruguera,2,9, 2
+Paris Masters 1994,45,Karel Novacek,1,15, 1
+Paris Masters 1994,45,Guy Forget,2,10, 2
+Paris Masters 1994,45,Pete Sampras,5,3, 5
+Paris Masters 1994,45,Goran Ivanisevic,2,11, 2
+Paris Masters 1994,45,Michael Stich,2,12, 2
+Paris Masters 1994,45,Andrei Medvedev,2,13, 2
+Indian Wells Masters 1995,46,Stefan Edberg,4,4, 4
+Indian Wells Masters 1995,46,Andre Agassi,4,5, 4
+Indian Wells Masters 1995,46,Andrei Chesnokov,2,7, 2
+Indian Wells Masters 1995,46,Juan Aguilera,1,14, 1
+Indian Wells Masters 1995,46,Thomas Muster,2,8, 2
+Indian Wells Masters 1995,46,Michael Chang,5,2, 5
+Indian Wells Masters 1995,46,Boris Becker,4,6, 4
+Indian Wells Masters 1995,46,Jim Courier,5,3, 5
+Indian Wells Masters 1995,46,Sergi Bruguera,2,9, 2
+Indian Wells Masters 1995,46,Karel Novacek,1,15, 1
+Indian Wells Masters 1995,46,Guy Forget,2,10, 2
+Indian Wells Masters 1995,46,Pete Sampras,6,1, 6
+Indian Wells Masters 1995,46,Goran Ivanisevic,2,11, 2
+Indian Wells Masters 1995,46,Michael Stich,2,12, 2
+Indian Wells Masters 1995,46,Andrei Medvedev,2,13, 2
+Miami Masters 1995,47,Stefan Edberg,4,5, 4
+Miami Masters 1995,47,Andre Agassi,5,2, 5
+Miami Masters 1995,47,Andrei Chesnokov,2,7, 2
+Miami Masters 1995,47,Juan Aguilera,1,14, 1
+Miami Masters 1995,47,Thomas Muster,2,8, 2
+Miami Masters 1995,47,Michael Chang,5,3, 5
+Miami Masters 1995,47,Boris Becker,4,6, 4
+Miami Masters 1995,47,Jim Courier,5,4, 5
+Miami Masters 1995,47,Sergi Bruguera,2,9, 2
+Miami Masters 1995,47,Karel Novacek,1,15, 1
+Miami Masters 1995,47,Guy Forget,2,10, 2
+Miami Masters 1995,47,Pete Sampras,6,1, 6
+Miami Masters 1995,47,Goran Ivanisevic,2,11, 2
+Miami Masters 1995,47,Michael Stich,2,12, 2
+Miami Masters 1995,47,Andrei Medvedev,2,13, 2
+Monte Carlo Masters 1995,48,Stefan Edberg,4,5, 4
+Monte Carlo Masters 1995,48,Andre Agassi,5,2, 5
+Monte Carlo Masters 1995,48,Andrei Chesnokov,2,8, 2
+Monte Carlo Masters 1995,48,Juan Aguilera,1,14, 1
+Monte Carlo Masters 1995,48,Thomas Muster,3,7, 3
+Monte Carlo Masters 1995,48,Michael Chang,5,3, 5
+Monte Carlo Masters 1995,48,Boris Becker,4,6, 4
+Monte Carlo Masters 1995,48,Jim Courier,5,4, 5
+Monte Carlo Masters 1995,48,Sergi Bruguera,2,9, 2
+Monte Carlo Masters 1995,48,Karel Novacek,1,15, 1
+Monte Carlo Masters 1995,48,Guy Forget,2,10, 2
+Monte Carlo Masters 1995,48,Pete Sampras,6,1, 6
+Monte Carlo Masters 1995,48,Goran Ivanisevic,2,11, 2
+Monte Carlo Masters 1995,48,Michael Stich,2,12, 2
+Monte Carlo Masters 1995,48,Andrei Medvedev,2,13, 2
+Hamburg Masters 1995,49,Stefan Edberg,4,5, 4
+Hamburg Masters 1995,49,Andre Agassi,5,2, 5
+Hamburg Masters 1995,49,Andrei Chesnokov,2,9, 2
+Hamburg Masters 1995,49,Juan Aguilera,1,14, 1
+Hamburg Masters 1995,49,Thomas Muster,3,7, 3
+Hamburg Masters 1995,49,Michael Chang,5,3, 5
+Hamburg Masters 1995,49,Boris Becker,4,6, 4
+Hamburg Masters 1995,49,Jim Courier,5,4, 5
+Hamburg Masters 1995,49,Sergi Bruguera,2,10, 2
+Hamburg Masters 1995,49,Karel Novacek,1,15, 1
+Hamburg Masters 1995,49,Guy Forget,2,11, 2
+Hamburg Masters 1995,49,Pete Sampras,6,1, 6
+Hamburg Masters 1995,49,Goran Ivanisevic,2,12, 2
+Hamburg Masters 1995,49,Michael Stich,2,13, 2
+Hamburg Masters 1995,49,Andrei Medvedev,3,8, 3
+Rome Masters 1995,50,Stefan Edberg,4,5, 4
+Rome Masters 1995,50,Andre Agassi,5,2, 5
+Rome Masters 1995,50,Andrei Chesnokov,2,9, 2
+Rome Masters 1995,50,Juan Aguilera,1,14, 1
+Rome Masters 1995,50,Thomas Muster,4,6, 4
+Rome Masters 1995,50,Michael Chang,5,3, 5
+Rome Masters 1995,50,Boris Becker,4,7, 4
+Rome Masters 1995,50,Jim Courier,5,4, 5
+Rome Masters 1995,50,Sergi Bruguera,2,10, 2
+Rome Masters 1995,50,Karel Novacek,1,15, 1
+Rome Masters 1995,50,Guy Forget,2,11, 2
+Rome Masters 1995,50,Pete Sampras,6,1, 6
+Rome Masters 1995,50,Goran Ivanisevic,2,12, 2
+Rome Masters 1995,50,Michael Stich,2,13, 2
+Rome Masters 1995,50,Andrei Medvedev,3,8, 3
+Canada Masters 1995,51,Stefan Edberg,4,5, 4
+Canada Masters 1995,51,Andre Agassi,6,1, 6
+Canada Masters 1995,51,Andrei Chesnokov,2,9, 2
+Canada Masters 1995,51,Juan Aguilera,1,14, 1
+Canada Masters 1995,51,Thomas Muster,4,6, 4
+Canada Masters 1995,51,Michael Chang,5,3, 5
+Canada Masters 1995,51,Boris Becker,4,7, 4
+Canada Masters 1995,51,Jim Courier,5,4, 5
+Canada Masters 1995,51,Sergi Bruguera,2,10, 2
+Canada Masters 1995,51,Karel Novacek,1,15, 1
+Canada Masters 1995,51,Guy Forget,2,11, 2
+Canada Masters 1995,51,Pete Sampras,6,2, 6
+Canada Masters 1995,51,Goran Ivanisevic,2,12, 2
+Canada Masters 1995,51,Michael Stich,2,13, 2
+Canada Masters 1995,51,Andrei Medvedev,3,8, 3
+Cincinnati Masters 1995,52,Stefan Edberg,4,5, 4
+Cincinnati Masters 1995,52,Andre Agassi,7,1, 7
+Cincinnati Masters 1995,52,Andrei Chesnokov,2,9, 2
+Cincinnati Masters 1995,52,Juan Aguilera,1,14, 1
+Cincinnati Masters 1995,52,Thomas Muster,4,6, 4
+Cincinnati Masters 1995,52,Michael Chang,5,3, 5
+Cincinnati Masters 1995,52,Boris Becker,4,7, 4
+Cincinnati Masters 1995,52,Jim Courier,5,4, 5
+Cincinnati Masters 1995,52,Sergi Bruguera,2,10, 2
+Cincinnati Masters 1995,52,Karel Novacek,1,15, 1
+Cincinnati Masters 1995,52,Guy Forget,2,11, 2
+Cincinnati Masters 1995,52,Pete Sampras,6,2, 6
+Cincinnati Masters 1995,52,Goran Ivanisevic,2,12, 2
+Cincinnati Masters 1995,52,Michael Stich,2,13, 2
+Cincinnati Masters 1995,52,Andrei Medvedev,3,8, 3
+Essen Masters 1995,53,Stefan Edberg,4,6, 4
+Essen Masters 1995,53,Andre Agassi,7,1, 7
+Essen Masters 1995,53,Andrei Chesnokov,2,9, 2
+Essen Masters 1995,53,Juan Aguilera,1,14, 1
+Essen Masters 1995,53,Thomas Muster,5,3, 5
+Essen Masters 1995,53,Michael Chang,5,4, 5
+Essen Masters 1995,53,Boris Becker,4,7, 4
+Essen Masters 1995,53,Jim Courier,5,5, 5
+Essen Masters 1995,53,Sergi Bruguera,2,10, 2
+Essen Masters 1995,53,Karel Novacek,1,15, 1
+Essen Masters 1995,53,Guy Forget,2,11, 2
+Essen Masters 1995,53,Pete Sampras,6,2, 6
+Essen Masters 1995,53,Goran Ivanisevic,2,12, 2
+Essen Masters 1995,53,Michael Stich,2,13, 2
+Essen Masters 1995,53,Andrei Medvedev,3,8, 3
+Paris Masters 1995,54,Stefan Edberg,4,6, 4
+Paris Masters 1995,54,Andre Agassi,7,1, 7
+Paris Masters 1995,54,Andrei Chesnokov,2,9, 2
+Paris Masters 1995,54,Juan Aguilera,1,14, 1
+Paris Masters 1995,54,Thomas Muster,5,3, 5
+Paris Masters 1995,54,Michael Chang,5,4, 5
+Paris Masters 1995,54,Boris Becker,4,7, 4
+Paris Masters 1995,54,Jim Courier,5,5, 5
+Paris Masters 1995,54,Sergi Bruguera,2,10, 2
+Paris Masters 1995,54,Karel Novacek,1,15, 1
+Paris Masters 1995,54,Guy Forget,2,11, 2
+Paris Masters 1995,54,Pete Sampras,7,2, 7
+Paris Masters 1995,54,Goran Ivanisevic,2,12, 2
+Paris Masters 1995,54,Michael Stich,2,13, 2
+Paris Masters 1995,54,Andrei Medvedev,3,8, 3
+Indian Wells Masters 1996,55,Stefan Edberg,4,6, 4
+Indian Wells Masters 1996,55,Andre Agassi,7,1, 7
+Indian Wells Masters 1996,55,Andrei Chesnokov,2,9, 2
+Indian Wells Masters 1996,55,Juan Aguilera,1,14, 1
+Indian Wells Masters 1996,55,Thomas Muster,5,4, 5
+Indian Wells Masters 1996,55,Michael Chang,6,3, 6
+Indian Wells Masters 1996,55,Boris Becker,4,7, 4
+Indian Wells Masters 1996,55,Jim Courier,5,5, 5
+Indian Wells Masters 1996,55,Sergi Bruguera,2,10, 2
+Indian Wells Masters 1996,55,Karel Novacek,1,15, 1
+Indian Wells Masters 1996,55,Guy Forget,2,11, 2
+Indian Wells Masters 1996,55,Pete Sampras,7,2, 7
+Indian Wells Masters 1996,55,Goran Ivanisevic,2,12, 2
+Indian Wells Masters 1996,55,Michael Stich,2,13, 2
+Indian Wells Masters 1996,55,Andrei Medvedev,3,8, 3
+Miami Masters 1996,56,Stefan Edberg,4,6, 4
+Miami Masters 1996,56,Andre Agassi,8,1, 8
+Miami Masters 1996,56,Andrei Chesnokov,2,9, 2
+Miami Masters 1996,56,Juan Aguilera,1,14, 1
+Miami Masters 1996,56,Thomas Muster,5,4, 5
+Miami Masters 1996,56,Michael Chang,6,3, 6
+Miami Masters 1996,56,Boris Becker,4,7, 4
+Miami Masters 1996,56,Jim Courier,5,5, 5
+Miami Masters 1996,56,Sergi Bruguera,2,10, 2
+Miami Masters 1996,56,Karel Novacek,1,15, 1
+Miami Masters 1996,56,Guy Forget,2,11, 2
+Miami Masters 1996,56,Pete Sampras,7,2, 7
+Miami Masters 1996,56,Goran Ivanisevic,2,12, 2
+Miami Masters 1996,56,Michael Stich,2,13, 2
+Miami Masters 1996,56,Andrei Medvedev,3,8, 3
+Monte Carlo Masters 1996,57,Stefan Edberg,4,6, 4
+Monte Carlo Masters 1996,57,Andre Agassi,8,1, 8
+Monte Carlo Masters 1996,57,Andrei Chesnokov,2,9, 2
+Monte Carlo Masters 1996,57,Juan Aguilera,1,14, 1
+Monte Carlo Masters 1996,57,Thomas Muster,6,3, 6
+Monte Carlo Masters 1996,57,Michael Chang,6,4, 6
+Monte Carlo Masters 1996,57,Boris Becker,4,7, 4
+Monte Carlo Masters 1996,57,Jim Courier,5,5, 5
+Monte Carlo Masters 1996,57,Sergi Bruguera,2,10, 2
+Monte Carlo Masters 1996,57,Karel Novacek,1,15, 1
+Monte Carlo Masters 1996,57,Guy Forget,2,11, 2
+Monte Carlo Masters 1996,57,Pete Sampras,7,2, 7
+Monte Carlo Masters 1996,57,Goran Ivanisevic,2,12, 2
+Monte Carlo Masters 1996,57,Michael Stich,2,13, 2
+Monte Carlo Masters 1996,57,Andrei Medvedev,3,8, 3
+Hamburg Masters 1996,58,Stefan Edberg,4,6, 4
+Hamburg Masters 1996,58,Andre Agassi,8,1, 8
+Hamburg Masters 1996,58,Andrei Chesnokov,2,9, 2
+Hamburg Masters 1996,58,Juan Aguilera,1,14, 1
+Hamburg Masters 1996,58,Thomas Muster,6,3, 6
+Hamburg Masters 1996,58,Michael Chang,6,4, 6
+Hamburg Masters 1996,58,Boris Becker,4,7, 4
+Hamburg Masters 1996,58,Jim Courier,5,5, 5
+Hamburg Masters 1996,58,Sergi Bruguera,2,10, 2
+Hamburg Masters 1996,58,Karel Novacek,1,15, 1
+Hamburg Masters 1996,58,Guy Forget,2,11, 2
+Hamburg Masters 1996,58,Pete Sampras,7,2, 7
+Hamburg Masters 1996,58,Goran Ivanisevic,2,12, 2
+Hamburg Masters 1996,58,Michael Stich,2,13, 2
+Hamburg Masters 1996,58,Andrei Medvedev,3,8, 3
+Rome Masters 1996,59,Stefan Edberg,4,6, 4
+Rome Masters 1996,59,Andre Agassi,8,1, 8
+Rome Masters 1996,59,Andrei Chesnokov,2,9, 2
+Rome Masters 1996,59,Juan Aguilera,1,14, 1
+Rome Masters 1996,59,Thomas Muster,7,2, 7
+Rome Masters 1996,59,Michael Chang,6,4, 6
+Rome Masters 1996,59,Boris Becker,4,7, 4
+Rome Masters 1996,59,Jim Courier,5,5, 5
+Rome Masters 1996,59,Sergi Bruguera,2,10, 2
+Rome Masters 1996,59,Karel Novacek,1,15, 1
+Rome Masters 1996,59,Guy Forget,2,11, 2
+Rome Masters 1996,59,Pete Sampras,7,3, 7
+Rome Masters 1996,59,Goran Ivanisevic,2,12, 2
+Rome Masters 1996,59,Michael Stich,2,13, 2
+Rome Masters 1996,59,Andrei Medvedev,3,8, 3
+Cincinnati Masters 1996,60,Stefan Edberg,4,6, 4
+Cincinnati Masters 1996,60,Andre Agassi,9,1, 9
+Cincinnati Masters 1996,60,Andrei Chesnokov,2,9, 2
+Cincinnati Masters 1996,60,Juan Aguilera,1,14, 1
+Cincinnati Masters 1996,60,Thomas Muster,7,2, 7
+Cincinnati Masters 1996,60,Michael Chang,6,4, 6
+Cincinnati Masters 1996,60,Boris Becker,4,7, 4
+Cincinnati Masters 1996,60,Jim Courier,5,5, 5
+Cincinnati Masters 1996,60,Sergi Bruguera,2,10, 2
+Cincinnati Masters 1996,60,Karel Novacek,1,15, 1
+Cincinnati Masters 1996,60,Guy Forget,2,11, 2
+Cincinnati Masters 1996,60,Pete Sampras,7,3, 7
+Cincinnati Masters 1996,60,Goran Ivanisevic,2,12, 2
+Cincinnati Masters 1996,60,Michael Stich,2,13, 2
+Cincinnati Masters 1996,60,Andrei Medvedev,3,8, 3
+Canada Masters 1996,61,Stefan Edberg,4,6, 4
+Canada Masters 1996,61,Andre Agassi,9,1, 9
+Canada Masters 1996,61,Andrei Chesnokov,2,9, 2
+Canada Masters 1996,61,Juan Aguilera,1,14, 1
+Canada Masters 1996,61,Thomas Muster,7,2, 7
+Canada Masters 1996,61,Michael Chang,6,4, 6
+Canada Masters 1996,61,Boris Becker,4,7, 4
+Canada Masters 1996,61,Jim Courier,5,5, 5
+Canada Masters 1996,61,Sergi Bruguera,2,10, 2
+Canada Masters 1996,61,Karel Novacek,1,15, 1
+Canada Masters 1996,61,Guy Forget,2,11, 2
+Canada Masters 1996,61,Pete Sampras,7,3, 7
+Canada Masters 1996,61,Goran Ivanisevic,2,12, 2
+Canada Masters 1996,61,Michael Stich,2,13, 2
+Canada Masters 1996,61,Andrei Medvedev,3,8, 3
+Stuttgart Masters 1996,62,Stefan Edberg,4,7, 4
+Stuttgart Masters 1996,62,Andre Agassi,9,1, 9
+Stuttgart Masters 1996,62,Andrei Chesnokov,2,9, 2
+Stuttgart Masters 1996,62,Juan Aguilera,1,14, 1
+Stuttgart Masters 1996,62,Thomas Muster,7,2, 7
+Stuttgart Masters 1996,62,Michael Chang,6,4, 6
+Stuttgart Masters 1996,62,Boris Becker,5,5, 5
+Stuttgart Masters 1996,62,Jim Courier,5,6, 5
+Stuttgart Masters 1996,62,Sergi Bruguera,2,10, 2
+Stuttgart Masters 1996,62,Karel Novacek,1,15, 1
+Stuttgart Masters 1996,62,Guy Forget,2,11, 2
+Stuttgart Masters 1996,62,Pete Sampras,7,3, 7
+Stuttgart Masters 1996,62,Goran Ivanisevic,2,12, 2
+Stuttgart Masters 1996,62,Michael Stich,2,13, 2
+Stuttgart Masters 1996,62,Andrei Medvedev,3,8, 3
+Paris Masters 1996,63,Stefan Edberg,4,7, 4
+Paris Masters 1996,63,Andre Agassi,9,1, 9
+Paris Masters 1996,63,Andrei Chesnokov,2,9, 2
+Paris Masters 1996,63,Juan Aguilera,1,14, 1
+Paris Masters 1996,63,Thomas Muster,7,2, 7
+Paris Masters 1996,63,Michael Chang,6,4, 6
+Paris Masters 1996,63,Boris Becker,5,5, 5
+Paris Masters 1996,63,Jim Courier,5,6, 5
+Paris Masters 1996,63,Sergi Bruguera,2,10, 2
+Paris Masters 1996,63,Karel Novacek,1,15, 1
+Paris Masters 1996,63,Guy Forget,2,11, 2
+Paris Masters 1996,63,Pete Sampras,7,3, 7
+Paris Masters 1996,63,Goran Ivanisevic,2,12, 2
+Paris Masters 1996,63,Michael Stich,2,13, 2
+Paris Masters 1996,63,Andrei Medvedev,3,8, 3
+Indian Wells Masters 1997,64,Stefan Edberg,4,7, 4
+Indian Wells Masters 1997,64,Andre Agassi,9,1, 9
+Indian Wells Masters 1997,64,Andrei Chesnokov,2,9, 2
+Indian Wells Masters 1997,64,Juan Aguilera,1,14, 1
+Indian Wells Masters 1997,64,Thomas Muster,7,2, 7
+Indian Wells Masters 1997,64,Michael Chang,7,3, 7
+Indian Wells Masters 1997,64,Boris Becker,5,5, 5
+Indian Wells Masters 1997,64,Jim Courier,5,6, 5
+Indian Wells Masters 1997,64,Sergi Bruguera,2,10, 2
+Indian Wells Masters 1997,64,Karel Novacek,1,15, 1
+Indian Wells Masters 1997,64,Guy Forget,2,11, 2
+Indian Wells Masters 1997,64,Pete Sampras,7,4, 7
+Indian Wells Masters 1997,64,Goran Ivanisevic,2,12, 2
+Indian Wells Masters 1997,64,Michael Stich,2,13, 2
+Indian Wells Masters 1997,64,Andrei Medvedev,3,8, 3
+Miami Masters 1997,65,Stefan Edberg,4,7, 4
+Miami Masters 1997,65,Andre Agassi,9,1, 9
+Miami Masters 1997,65,Andrei Chesnokov,2,9, 2
+Miami Masters 1997,65,Juan Aguilera,1,14, 1
+Miami Masters 1997,65,Thomas Muster,8,2, 8
+Miami Masters 1997,65,Michael Chang,7,3, 7
+Miami Masters 1997,65,Boris Becker,5,5, 5
+Miami Masters 1997,65,Jim Courier,5,6, 5
+Miami Masters 1997,65,Sergi Bruguera,2,10, 2
+Miami Masters 1997,65,Karel Novacek,1,15, 1
+Miami Masters 1997,65,Guy Forget,2,11, 2
+Miami Masters 1997,65,Pete Sampras,7,4, 7
+Miami Masters 1997,65,Goran Ivanisevic,2,12, 2
+Miami Masters 1997,65,Michael Stich,2,13, 2
+Miami Masters 1997,65,Andrei Medvedev,3,8, 3
+Monte Carlo Masters 1997,66,Stefan Edberg,4,7, 4
+Monte Carlo Masters 1997,66,Andre Agassi,9,1, 9
+Monte Carlo Masters 1997,66,Andrei Chesnokov,2,9, 2
+Monte Carlo Masters 1997,66,Juan Aguilera,1,14, 1
+Monte Carlo Masters 1997,66,Thomas Muster,8,2, 8
+Monte Carlo Masters 1997,66,Michael Chang,7,3, 7
+Monte Carlo Masters 1997,66,Boris Becker,5,5, 5
+Monte Carlo Masters 1997,66,Jim Courier,5,6, 5
+Monte Carlo Masters 1997,66,Sergi Bruguera,2,10, 2
+Monte Carlo Masters 1997,66,Karel Novacek,1,15, 1
+Monte Carlo Masters 1997,66,Guy Forget,2,11, 2
+Monte Carlo Masters 1997,66,Pete Sampras,7,4, 7
+Monte Carlo Masters 1997,66,Goran Ivanisevic,2,12, 2
+Monte Carlo Masters 1997,66,Michael Stich,2,13, 2
+Monte Carlo Masters 1997,66,Andrei Medvedev,3,8, 3
+Hamburg Masters 1997,67,Stefan Edberg,4,7, 4
+Hamburg Masters 1997,67,Andre Agassi,9,1, 9
+Hamburg Masters 1997,67,Andrei Chesnokov,2,9, 2
+Hamburg Masters 1997,67,Juan Aguilera,1,14, 1
+Hamburg Masters 1997,67,Thomas Muster,8,2, 8
+Hamburg Masters 1997,67,Michael Chang,7,3, 7
+Hamburg Masters 1997,67,Boris Becker,5,5, 5
+Hamburg Masters 1997,67,Jim Courier,5,6, 5
+Hamburg Masters 1997,67,Sergi Bruguera,2,10, 2
+Hamburg Masters 1997,67,Karel Novacek,1,15, 1
+Hamburg Masters 1997,67,Guy Forget,2,11, 2
+Hamburg Masters 1997,67,Pete Sampras,7,4, 7
+Hamburg Masters 1997,67,Goran Ivanisevic,2,12, 2
+Hamburg Masters 1997,67,Michael Stich,2,13, 2
+Hamburg Masters 1997,67,Andrei Medvedev,4,8, 4
+Rome Masters 1997,68,Stefan Edberg,4,7, 4
+Rome Masters 1997,68,Andre Agassi,9,1, 9
+Rome Masters 1997,68,Andrei Chesnokov,2,9, 2
+Rome Masters 1997,68,Juan Aguilera,1,14, 1
+Rome Masters 1997,68,Thomas Muster,8,2, 8
+Rome Masters 1997,68,Michael Chang,7,3, 7
+Rome Masters 1997,68,Boris Becker,5,5, 5
+Rome Masters 1997,68,Jim Courier,5,6, 5
+Rome Masters 1997,68,Sergi Bruguera,2,10, 2
+Rome Masters 1997,68,Karel Novacek,1,15, 1
+Rome Masters 1997,68,Guy Forget,2,11, 2
+Rome Masters 1997,68,Pete Sampras,7,4, 7
+Rome Masters 1997,68,Goran Ivanisevic,2,12, 2
+Rome Masters 1997,68,Michael Stich,2,13, 2
+Rome Masters 1997,68,Andrei Medvedev,4,8, 4
+Canada Masters 1997,69,Stefan Edberg,4,7, 4
+Canada Masters 1997,69,Andre Agassi,9,1, 9
+Canada Masters 1997,69,Andrei Chesnokov,2,9, 2
+Canada Masters 1997,69,Juan Aguilera,1,14, 1
+Canada Masters 1997,69,Thomas Muster,8,2, 8
+Canada Masters 1997,69,Michael Chang,7,3, 7
+Canada Masters 1997,69,Boris Becker,5,5, 5
+Canada Masters 1997,69,Jim Courier,5,6, 5
+Canada Masters 1997,69,Sergi Bruguera,2,10, 2
+Canada Masters 1997,69,Karel Novacek,1,15, 1
+Canada Masters 1997,69,Guy Forget,2,11, 2
+Canada Masters 1997,69,Pete Sampras,7,4, 7
+Canada Masters 1997,69,Goran Ivanisevic,2,12, 2
+Canada Masters 1997,69,Michael Stich,2,13, 2
+Canada Masters 1997,69,Andrei Medvedev,4,8, 4
+Cincinnati Masters 1997,70,Stefan Edberg,4,7, 4
+Cincinnati Masters 1997,70,Andre Agassi,9,1, 9
+Cincinnati Masters 1997,70,Andrei Chesnokov,2,9, 2
+Cincinnati Masters 1997,70,Juan Aguilera,1,14, 1
+Cincinnati Masters 1997,70,Thomas Muster,8,2, 8
+Cincinnati Masters 1997,70,Michael Chang,7,4, 7
+Cincinnati Masters 1997,70,Boris Becker,5,5, 5
+Cincinnati Masters 1997,70,Jim Courier,5,6, 5
+Cincinnati Masters 1997,70,Sergi Bruguera,2,10, 2
+Cincinnati Masters 1997,70,Karel Novacek,1,15, 1
+Cincinnati Masters 1997,70,Guy Forget,2,11, 2
+Cincinnati Masters 1997,70,Pete Sampras,8,3, 8
+Cincinnati Masters 1997,70,Goran Ivanisevic,2,12, 2
+Cincinnati Masters 1997,70,Michael Stich,2,13, 2
+Cincinnati Masters 1997,70,Andrei Medvedev,4,8, 4
+Stuttgart Masters 1997,71,Stefan Edberg,4,7, 4
+Stuttgart Masters 1997,71,Andre Agassi,9,1, 9
+Stuttgart Masters 1997,71,Andrei Chesnokov,2,9, 2
+Stuttgart Masters 1997,71,Juan Aguilera,1,14, 1
+Stuttgart Masters 1997,71,Thomas Muster,8,2, 8
+Stuttgart Masters 1997,71,Michael Chang,7,4, 7
+Stuttgart Masters 1997,71,Boris Becker,5,5, 5
+Stuttgart Masters 1997,71,Jim Courier,5,6, 5
+Stuttgart Masters 1997,71,Sergi Bruguera,2,10, 2
+Stuttgart Masters 1997,71,Karel Novacek,1,15, 1
+Stuttgart Masters 1997,71,Guy Forget,2,11, 2
+Stuttgart Masters 1997,71,Pete Sampras,8,3, 8
+Stuttgart Masters 1997,71,Goran Ivanisevic,2,12, 2
+Stuttgart Masters 1997,71,Michael Stich,2,13, 2
+Stuttgart Masters 1997,71,Andrei Medvedev,4,8, 4
+Paris Masters 1997,72,Stefan Edberg,4,7, 4
+Paris Masters 1997,72,Andre Agassi,9,1, 9
+Paris Masters 1997,72,Andrei Chesnokov,2,9, 2
+Paris Masters 1997,72,Juan Aguilera,1,14, 1
+Paris Masters 1997,72,Thomas Muster,8,3, 8
+Paris Masters 1997,72,Michael Chang,7,4, 7
+Paris Masters 1997,72,Boris Becker,5,5, 5
+Paris Masters 1997,72,Jim Courier,5,6, 5
+Paris Masters 1997,72,Sergi Bruguera,2,10, 2
+Paris Masters 1997,72,Karel Novacek,1,15, 1
+Paris Masters 1997,72,Guy Forget,2,11, 2
+Paris Masters 1997,72,Pete Sampras,9,2, 9
+Paris Masters 1997,72,Goran Ivanisevic,2,12, 2
+Paris Masters 1997,72,Michael Stich,2,13, 2
+Paris Masters 1997,72,Andrei Medvedev,4,8, 4
+Indian Wells Masters 1998,73,Stefan Edberg,4,7, 4
+Indian Wells Masters 1998,73,Andre Agassi,9,1, 9
+Indian Wells Masters 1998,73,Andrei Chesnokov,2,9, 2
+Indian Wells Masters 1998,73,Juan Aguilera,1,15, 1
+Indian Wells Masters 1998,73,Thomas Muster,8,3, 8
+Indian Wells Masters 1998,73,Michael Chang,7,4, 7
+Indian Wells Masters 1998,73,Boris Becker,5,5, 5
+Indian Wells Masters 1998,73,Jim Courier,5,6, 5
+Indian Wells Masters 1998,73,Sergi Bruguera,2,10, 2
+Indian Wells Masters 1998,73,Guy Forget,2,11, 2
+Indian Wells Masters 1998,73,Pete Sampras,9,2, 9
+Indian Wells Masters 1998,73,Goran Ivanisevic,2,12, 2
+Indian Wells Masters 1998,73,Michael Stich,2,13, 2
+Indian Wells Masters 1998,73,Andrei Medvedev,4,8, 4
+Indian Wells Masters 1998,73,Marcelo Rios,2,14, 2
+Miami Masters 1998,74,Stefan Edberg,4,7, 4
+Miami Masters 1998,74,Andre Agassi,9,1, 9
+Miami Masters 1998,74,Andrei Chesnokov,2,10, 2
+Miami Masters 1998,74,Juan Aguilera,1,15, 1
+Miami Masters 1998,74,Thomas Muster,8,3, 8
+Miami Masters 1998,74,Michael Chang,7,4, 7
+Miami Masters 1998,74,Boris Becker,5,5, 5
+Miami Masters 1998,74,Jim Courier,5,6, 5
+Miami Masters 1998,74,Sergi Bruguera,2,11, 2
+Miami Masters 1998,74,Guy Forget,2,12, 2
+Miami Masters 1998,74,Pete Sampras,9,2, 9
+Miami Masters 1998,74,Goran Ivanisevic,2,13, 2
+Miami Masters 1998,74,Michael Stich,2,14, 2
+Miami Masters 1998,74,Andrei Medvedev,4,8, 4
+Miami Masters 1998,74,Marcelo Rios,3,9, 3
+Monte Carlo Masters 1998,75,Stefan Edberg,4,7, 4
+Monte Carlo Masters 1998,75,Andre Agassi,9,1, 9
+Monte Carlo Masters 1998,75,Andrei Chesnokov,2,10, 2
+Monte Carlo Masters 1998,75,Juan Aguilera,1,15, 1
+Monte Carlo Masters 1998,75,Thomas Muster,8,3, 8
+Monte Carlo Masters 1998,75,Michael Chang,7,4, 7
+Monte Carlo Masters 1998,75,Boris Becker,5,5, 5
+Monte Carlo Masters 1998,75,Jim Courier,5,6, 5
+Monte Carlo Masters 1998,75,Sergi Bruguera,2,11, 2
+Monte Carlo Masters 1998,75,Guy Forget,2,12, 2
+Monte Carlo Masters 1998,75,Pete Sampras,9,2, 9
+Monte Carlo Masters 1998,75,Goran Ivanisevic,2,13, 2
+Monte Carlo Masters 1998,75,Michael Stich,2,14, 2
+Monte Carlo Masters 1998,75,Andrei Medvedev,4,8, 4
+Monte Carlo Masters 1998,75,Marcelo Rios,3,9, 3
+Hamburg Masters 1998,76,Stefan Edberg,4,7, 4
+Hamburg Masters 1998,76,Andre Agassi,9,1, 9
+Hamburg Masters 1998,76,Andrei Chesnokov,2,10, 2
+Hamburg Masters 1998,76,Juan Aguilera,1,15, 1
+Hamburg Masters 1998,76,Thomas Muster,8,3, 8
+Hamburg Masters 1998,76,Michael Chang,7,4, 7
+Hamburg Masters 1998,76,Boris Becker,5,5, 5
+Hamburg Masters 1998,76,Jim Courier,5,6, 5
+Hamburg Masters 1998,76,Sergi Bruguera,2,11, 2
+Hamburg Masters 1998,76,Guy Forget,2,12, 2
+Hamburg Masters 1998,76,Pete Sampras,9,2, 9
+Hamburg Masters 1998,76,Goran Ivanisevic,2,13, 2
+Hamburg Masters 1998,76,Michael Stich,2,14, 2
+Hamburg Masters 1998,76,Andrei Medvedev,4,8, 4
+Hamburg Masters 1998,76,Marcelo Rios,3,9, 3
+Rome Masters 1998,77,Stefan Edberg,4,7, 4
+Rome Masters 1998,77,Andre Agassi,9,1, 9
+Rome Masters 1998,77,Andrei Chesnokov,2,10, 2
+Rome Masters 1998,77,Juan Aguilera,1,15, 1
+Rome Masters 1998,77,Thomas Muster,8,3, 8
+Rome Masters 1998,77,Michael Chang,7,4, 7
+Rome Masters 1998,77,Boris Becker,5,5, 5
+Rome Masters 1998,77,Jim Courier,5,6, 5
+Rome Masters 1998,77,Sergi Bruguera,2,11, 2
+Rome Masters 1998,77,Guy Forget,2,12, 2
+Rome Masters 1998,77,Pete Sampras,9,2, 9
+Rome Masters 1998,77,Goran Ivanisevic,2,13, 2
+Rome Masters 1998,77,Michael Stich,2,14, 2
+Rome Masters 1998,77,Andrei Medvedev,4,8, 4
+Rome Masters 1998,77,Marcelo Rios,4,9, 4
+Canada Masters 1998,78,Stefan Edberg,4,7, 4
+Canada Masters 1998,78,Andre Agassi,9,1, 9
+Canada Masters 1998,78,Andrei Chesnokov,2,10, 2
+Canada Masters 1998,78,Juan Aguilera,1,15, 1
+Canada Masters 1998,78,Thomas Muster,8,3, 8
+Canada Masters 1998,78,Michael Chang,7,4, 7
+Canada Masters 1998,78,Boris Becker,5,5, 5
+Canada Masters 1998,78,Jim Courier,5,6, 5
+Canada Masters 1998,78,Sergi Bruguera,2,11, 2
+Canada Masters 1998,78,Guy Forget,2,12, 2
+Canada Masters 1998,78,Pete Sampras,9,2, 9
+Canada Masters 1998,78,Goran Ivanisevic,2,13, 2
+Canada Masters 1998,78,Michael Stich,2,14, 2
+Canada Masters 1998,78,Andrei Medvedev,4,8, 4
+Canada Masters 1998,78,Marcelo Rios,4,9, 4
+Cincinnati Masters 1998,79,Stefan Edberg,4,7, 4
+Cincinnati Masters 1998,79,Andre Agassi,9,1, 9
+Cincinnati Masters 1998,79,Andrei Chesnokov,2,10, 2
+Cincinnati Masters 1998,79,Thomas Muster,8,3, 8
+Cincinnati Masters 1998,79,Michael Chang,7,4, 7
+Cincinnati Masters 1998,79,Boris Becker,5,5, 5
+Cincinnati Masters 1998,79,Jim Courier,5,6, 5
+Cincinnati Masters 1998,79,Sergi Bruguera,2,11, 2
+Cincinnati Masters 1998,79,Guy Forget,2,12, 2
+Cincinnati Masters 1998,79,Pete Sampras,9,2, 9
+Cincinnati Masters 1998,79,Goran Ivanisevic,2,13, 2
+Cincinnati Masters 1998,79,Michael Stich,2,14, 2
+Cincinnati Masters 1998,79,Andrei Medvedev,4,8, 4
+Cincinnati Masters 1998,79,Marcelo Rios,4,9, 4
+Cincinnati Masters 1998,79,Patrick Rafter,2,15, 2
+Stuttgart Masters 1998,80,Stefan Edberg,4,7, 4
+Stuttgart Masters 1998,80,Andre Agassi,9,1, 9
+Stuttgart Masters 1998,80,Andrei Chesnokov,2,10, 2
+Stuttgart Masters 1998,80,Thomas Muster,8,3, 8
+Stuttgart Masters 1998,80,Michael Chang,7,4, 7
+Stuttgart Masters 1998,80,Boris Becker,5,5, 5
+Stuttgart Masters 1998,80,Jim Courier,5,6, 5
+Stuttgart Masters 1998,80,Sergi Bruguera,2,11, 2
+Stuttgart Masters 1998,80,Guy Forget,2,12, 2
+Stuttgart Masters 1998,80,Pete Sampras,9,2, 9
+Stuttgart Masters 1998,80,Goran Ivanisevic,2,13, 2
+Stuttgart Masters 1998,80,Michael Stich,2,14, 2
+Stuttgart Masters 1998,80,Andrei Medvedev,4,8, 4
+Stuttgart Masters 1998,80,Marcelo Rios,4,9, 4
+Stuttgart Masters 1998,80,Patrick Rafter,2,15, 2
+Paris Masters 1998,81,Stefan Edberg,4,7, 4
+Paris Masters 1998,81,Andre Agassi,9,1, 9
+Paris Masters 1998,81,Andrei Chesnokov,2,10, 2
+Paris Masters 1998,81,Thomas Muster,8,3, 8
+Paris Masters 1998,81,Michael Chang,7,4, 7
+Paris Masters 1998,81,Boris Becker,5,5, 5
+Paris Masters 1998,81,Jim Courier,5,6, 5
+Paris Masters 1998,81,Sergi Bruguera,2,11, 2
+Paris Masters 1998,81,Guy Forget,2,12, 2
+Paris Masters 1998,81,Pete Sampras,9,2, 9
+Paris Masters 1998,81,Goran Ivanisevic,2,13, 2
+Paris Masters 1998,81,Michael Stich,2,14, 2
+Paris Masters 1998,81,Andrei Medvedev,4,8, 4
+Paris Masters 1998,81,Marcelo Rios,4,9, 4
+Paris Masters 1998,81,Patrick Rafter,2,15, 2
+Indian Wells Masters 1999,82,Stefan Edberg,4,7, 4
+Indian Wells Masters 1999,82,Andre Agassi,9,1, 9
+Indian Wells Masters 1999,82,Andrei Chesnokov,2,10, 2
+Indian Wells Masters 1999,82,Thomas Muster,8,3, 8
+Indian Wells Masters 1999,82,Michael Chang,7,4, 7
+Indian Wells Masters 1999,82,Boris Becker,5,5, 5
+Indian Wells Masters 1999,82,Jim Courier,5,6, 5
+Indian Wells Masters 1999,82,Sergi Bruguera,2,11, 2
+Indian Wells Masters 1999,82,Guy Forget,2,12, 2
+Indian Wells Masters 1999,82,Pete Sampras,9,2, 9
+Indian Wells Masters 1999,82,Goran Ivanisevic,2,13, 2
+Indian Wells Masters 1999,82,Michael Stich,2,14, 2
+Indian Wells Masters 1999,82,Andrei Medvedev,4,8, 4
+Indian Wells Masters 1999,82,Marcelo Rios,4,9, 4
+Indian Wells Masters 1999,82,Patrick Rafter,2,15, 2
+Miami Masters 1999,83,Stefan Edberg,4,7, 4
+Miami Masters 1999,83,Andre Agassi,9,1, 9
+Miami Masters 1999,83,Andrei Chesnokov,2,10, 2
+Miami Masters 1999,83,Thomas Muster,8,3, 8
+Miami Masters 1999,83,Michael Chang,7,4, 7
+Miami Masters 1999,83,Boris Becker,5,5, 5
+Miami Masters 1999,83,Jim Courier,5,6, 5
+Miami Masters 1999,83,Sergi Bruguera,2,11, 2
+Miami Masters 1999,83,Guy Forget,2,12, 2
+Miami Masters 1999,83,Pete Sampras,9,2, 9
+Miami Masters 1999,83,Goran Ivanisevic,2,13, 2
+Miami Masters 1999,83,Michael Stich,2,14, 2
+Miami Masters 1999,83,Andrei Medvedev,4,8, 4
+Miami Masters 1999,83,Marcelo Rios,4,9, 4
+Miami Masters 1999,83,Patrick Rafter,2,15, 2
+Monte Carlo Masters 1999,84,Stefan Edberg,4,7, 4
+Monte Carlo Masters 1999,84,Andre Agassi,9,1, 9
+Monte Carlo Masters 1999,84,Andrei Chesnokov,2,10, 2
+Monte Carlo Masters 1999,84,Thomas Muster,8,3, 8
+Monte Carlo Masters 1999,84,Michael Chang,7,4, 7
+Monte Carlo Masters 1999,84,Boris Becker,5,5, 5
+Monte Carlo Masters 1999,84,Jim Courier,5,6, 5
+Monte Carlo Masters 1999,84,Sergi Bruguera,2,11, 2
+Monte Carlo Masters 1999,84,Guy Forget,2,12, 2
+Monte Carlo Masters 1999,84,Pete Sampras,9,2, 9
+Monte Carlo Masters 1999,84,Goran Ivanisevic,2,13, 2
+Monte Carlo Masters 1999,84,Michael Stich,2,14, 2
+Monte Carlo Masters 1999,84,Andrei Medvedev,4,8, 4
+Monte Carlo Masters 1999,84,Marcelo Rios,4,9, 4
+Monte Carlo Masters 1999,84,Patrick Rafter,2,15, 2
+Hamburg Masters 1999,85,Stefan Edberg,4,8, 4
+Hamburg Masters 1999,85,Andre Agassi,9,1, 9
+Hamburg Masters 1999,85,Andrei Chesnokov,2,10, 2
+Hamburg Masters 1999,85,Thomas Muster,8,3, 8
+Hamburg Masters 1999,85,Michael Chang,7,4, 7
+Hamburg Masters 1999,85,Boris Becker,5,5, 5
+Hamburg Masters 1999,85,Jim Courier,5,6, 5
+Hamburg Masters 1999,85,Sergi Bruguera,2,11, 2
+Hamburg Masters 1999,85,Guy Forget,2,12, 2
+Hamburg Masters 1999,85,Pete Sampras,9,2, 9
+Hamburg Masters 1999,85,Goran Ivanisevic,2,13, 2
+Hamburg Masters 1999,85,Michael Stich,2,14, 2
+Hamburg Masters 1999,85,Andrei Medvedev,4,9, 4
+Hamburg Masters 1999,85,Marcelo Rios,5,7, 5
+Hamburg Masters 1999,85,Patrick Rafter,2,15, 2
+Rome Masters 1999,86,Stefan Edberg,4,8, 4
+Rome Masters 1999,86,Andre Agassi,9,1, 9
+Rome Masters 1999,86,Andrei Chesnokov,2,10, 2
+Rome Masters 1999,86,Thomas Muster,8,3, 8
+Rome Masters 1999,86,Michael Chang,7,4, 7
+Rome Masters 1999,86,Boris Becker,5,5, 5
+Rome Masters 1999,86,Jim Courier,5,6, 5
+Rome Masters 1999,86,Sergi Bruguera,2,11, 2
+Rome Masters 1999,86,Guy Forget,2,12, 2
+Rome Masters 1999,86,Pete Sampras,9,2, 9
+Rome Masters 1999,86,Goran Ivanisevic,2,13, 2
+Rome Masters 1999,86,Michael Stich,2,14, 2
+Rome Masters 1999,86,Andrei Medvedev,4,9, 4
+Rome Masters 1999,86,Marcelo Rios,5,7, 5
+Rome Masters 1999,86,Patrick Rafter,2,15, 2
+Canada Masters 1999,87,Stefan Edberg,4,8, 4
+Canada Masters 1999,87,Andre Agassi,9,1, 9
+Canada Masters 1999,87,Andrei Chesnokov,2,10, 2
+Canada Masters 1999,87,Thomas Muster,8,3, 8
+Canada Masters 1999,87,Michael Chang,7,4, 7
+Canada Masters 1999,87,Boris Becker,5,5, 5
+Canada Masters 1999,87,Jim Courier,5,6, 5
+Canada Masters 1999,87,Sergi Bruguera,2,11, 2
+Canada Masters 1999,87,Guy Forget,2,12, 2
+Canada Masters 1999,87,Pete Sampras,9,2, 9
+Canada Masters 1999,87,Goran Ivanisevic,2,13, 2
+Canada Masters 1999,87,Michael Stich,2,14, 2
+Canada Masters 1999,87,Andrei Medvedev,4,9, 4
+Canada Masters 1999,87,Marcelo Rios,5,7, 5
+Canada Masters 1999,87,Patrick Rafter,2,15, 2
+Cincinnati Masters 1999,88,Stefan Edberg,4,8, 4
+Cincinnati Masters 1999,88,Andre Agassi,9,2, 9
+Cincinnati Masters 1999,88,Andrei Chesnokov,2,10, 2
+Cincinnati Masters 1999,88,Thomas Muster,8,3, 8
+Cincinnati Masters 1999,88,Michael Chang,7,4, 7
+Cincinnati Masters 1999,88,Boris Becker,5,5, 5
+Cincinnati Masters 1999,88,Jim Courier,5,6, 5
+Cincinnati Masters 1999,88,Sergi Bruguera,2,11, 2
+Cincinnati Masters 1999,88,Guy Forget,2,12, 2
+Cincinnati Masters 1999,88,Pete Sampras,10,1, 10
+Cincinnati Masters 1999,88,Goran Ivanisevic,2,13, 2
+Cincinnati Masters 1999,88,Michael Stich,2,14, 2
+Cincinnati Masters 1999,88,Andrei Medvedev,4,9, 4
+Cincinnati Masters 1999,88,Marcelo Rios,5,7, 5
+Cincinnati Masters 1999,88,Patrick Rafter,2,15, 2
+Stuttgart Masters 1999,89,Stefan Edberg,4,8, 4
+Stuttgart Masters 1999,89,Andre Agassi,9,2, 9
+Stuttgart Masters 1999,89,Andrei Chesnokov,2,10, 2
+Stuttgart Masters 1999,89,Thomas Muster,8,3, 8
+Stuttgart Masters 1999,89,Michael Chang,7,4, 7
+Stuttgart Masters 1999,89,Boris Becker,5,5, 5
+Stuttgart Masters 1999,89,Jim Courier,5,6, 5
+Stuttgart Masters 1999,89,Sergi Bruguera,2,11, 2
+Stuttgart Masters 1999,89,Guy Forget,2,12, 2
+Stuttgart Masters 1999,89,Pete Sampras,10,1, 10
+Stuttgart Masters 1999,89,Goran Ivanisevic,2,13, 2
+Stuttgart Masters 1999,89,Michael Stich,2,14, 2
+Stuttgart Masters 1999,89,Andrei Medvedev,4,9, 4
+Stuttgart Masters 1999,89,Thomas Enqvist,2,15, 2
+Stuttgart Masters 1999,89,Marcelo Rios,5,7, 5
+Paris Masters 1999,90,Stefan Edberg,4,8, 4
+Paris Masters 1999,90,Andre Agassi,10,1, 10
+Paris Masters 1999,90,Andrei Chesnokov,2,10, 2
+Paris Masters 1999,90,Thomas Muster,8,3, 8
+Paris Masters 1999,90,Michael Chang,7,4, 7
+Paris Masters 1999,90,Boris Becker,5,5, 5
+Paris Masters 1999,90,Jim Courier,5,6, 5
+Paris Masters 1999,90,Sergi Bruguera,2,11, 2
+Paris Masters 1999,90,Guy Forget,2,12, 2
+Paris Masters 1999,90,Pete Sampras,10,2, 10
+Paris Masters 1999,90,Goran Ivanisevic,2,13, 2
+Paris Masters 1999,90,Michael Stich,2,14, 2
+Paris Masters 1999,90,Andrei Medvedev,4,9, 4
+Paris Masters 1999,90,Thomas Enqvist,2,15, 2
+Paris Masters 1999,90,Marcelo Rios,5,7, 5
+Indian Wells Masters 2000,91,Stefan Edberg,4,8, 4
+Indian Wells Masters 2000,91,Andre Agassi,10,1, 10
+Indian Wells Masters 2000,91,Andrei Chesnokov,2,10, 2
+Indian Wells Masters 2000,91,Thomas Muster,8,3, 8
+Indian Wells Masters 2000,91,Michael Chang,7,4, 7
+Indian Wells Masters 2000,91,Boris Becker,5,5, 5
+Indian Wells Masters 2000,91,Jim Courier,5,6, 5
+Indian Wells Masters 2000,91,Sergi Bruguera,2,11, 2
+Indian Wells Masters 2000,91,Guy Forget,2,12, 2
+Indian Wells Masters 2000,91,Pete Sampras,10,2, 10
+Indian Wells Masters 2000,91,Goran Ivanisevic,2,13, 2
+Indian Wells Masters 2000,91,Michael Stich,2,14, 2
+Indian Wells Masters 2000,91,Andrei Medvedev,4,9, 4
+Indian Wells Masters 2000,91,Thomas Enqvist,2,15, 2
+Indian Wells Masters 2000,91,Marcelo Rios,5,7, 5
+Miami Masters 2000,92,Stefan Edberg,4,8, 4
+Miami Masters 2000,92,Andre Agassi,10,2, 10
+Miami Masters 2000,92,Andrei Chesnokov,2,10, 2
+Miami Masters 2000,92,Thomas Muster,8,3, 8
+Miami Masters 2000,92,Michael Chang,7,4, 7
+Miami Masters 2000,92,Boris Becker,5,5, 5
+Miami Masters 2000,92,Jim Courier,5,6, 5
+Miami Masters 2000,92,Sergi Bruguera,2,11, 2
+Miami Masters 2000,92,Guy Forget,2,12, 2
+Miami Masters 2000,92,Pete Sampras,11,1, 11
+Miami Masters 2000,92,Goran Ivanisevic,2,13, 2
+Miami Masters 2000,92,Michael Stich,2,14, 2
+Miami Masters 2000,92,Andrei Medvedev,4,9, 4
+Miami Masters 2000,92,Thomas Enqvist,2,15, 2
+Miami Masters 2000,92,Marcelo Rios,5,7, 5
+Monte Carlo Masters 2000,93,Stefan Edberg,4,8, 4
+Monte Carlo Masters 2000,93,Andre Agassi,10,2, 10
+Monte Carlo Masters 2000,93,Andrei Chesnokov,2,10, 2
+Monte Carlo Masters 2000,93,Thomas Muster,8,3, 8
+Monte Carlo Masters 2000,93,Michael Chang,7,4, 7
+Monte Carlo Masters 2000,93,Boris Becker,5,5, 5
+Monte Carlo Masters 2000,93,Jim Courier,5,6, 5
+Monte Carlo Masters 2000,93,Sergi Bruguera,2,11, 2
+Monte Carlo Masters 2000,93,Guy Forget,2,12, 2
+Monte Carlo Masters 2000,93,Pete Sampras,11,1, 11
+Monte Carlo Masters 2000,93,Goran Ivanisevic,2,13, 2
+Monte Carlo Masters 2000,93,Michael Stich,2,14, 2
+Monte Carlo Masters 2000,93,Andrei Medvedev,4,9, 4
+Monte Carlo Masters 2000,93,Thomas Enqvist,2,15, 2
+Monte Carlo Masters 2000,93,Marcelo Rios,5,7, 5
+Rome Masters 2000,94,Stefan Edberg,4,8, 4
+Rome Masters 2000,94,Andre Agassi,10,2, 10
+Rome Masters 2000,94,Andrei Chesnokov,2,10, 2
+Rome Masters 2000,94,Thomas Muster,8,3, 8
+Rome Masters 2000,94,Michael Chang,7,4, 7
+Rome Masters 2000,94,Boris Becker,5,5, 5
+Rome Masters 2000,94,Jim Courier,5,6, 5
+Rome Masters 2000,94,Sergi Bruguera,2,11, 2
+Rome Masters 2000,94,Guy Forget,2,12, 2
+Rome Masters 2000,94,Pete Sampras,11,1, 11
+Rome Masters 2000,94,Goran Ivanisevic,2,13, 2
+Rome Masters 2000,94,Michael Stich,2,14, 2
+Rome Masters 2000,94,Andrei Medvedev,4,9, 4
+Rome Masters 2000,94,Thomas Enqvist,2,15, 2
+Rome Masters 2000,94,Marcelo Rios,5,7, 5
+Hamburg Masters 2000,95,Stefan Edberg,4,8, 4
+Hamburg Masters 2000,95,Andre Agassi,10,2, 10
+Hamburg Masters 2000,95,Andrei Chesnokov,2,11, 2
+Hamburg Masters 2000,95,Thomas Muster,8,3, 8
+Hamburg Masters 2000,95,Michael Chang,7,4, 7
+Hamburg Masters 2000,95,Boris Becker,5,5, 5
+Hamburg Masters 2000,95,Jim Courier,5,6, 5
+Hamburg Masters 2000,95,Sergi Bruguera,2,12, 2
+Hamburg Masters 2000,95,Guy Forget,2,13, 2
+Hamburg Masters 2000,95,Pete Sampras,11,1, 11
+Hamburg Masters 2000,95,Goran Ivanisevic,2,14, 2
+Hamburg Masters 2000,95,Michael Stich,2,15, 2
+Hamburg Masters 2000,95,Andrei Medvedev,4,9, 4
+Hamburg Masters 2000,95,Marcelo Rios,5,7, 5
+Hamburg Masters 2000,95,Gustavo Kuerten,3,10, 3
+Canada Masters 2000,96,Stefan Edberg,4,8, 4
+Canada Masters 2000,96,Andre Agassi,10,2, 10
+Canada Masters 2000,96,Andrei Chesnokov,2,11, 2
+Canada Masters 2000,96,Thomas Muster,8,3, 8
+Canada Masters 2000,96,Michael Chang,7,4, 7
+Canada Masters 2000,96,Boris Becker,5,5, 5
+Canada Masters 2000,96,Jim Courier,5,6, 5
+Canada Masters 2000,96,Sergi Bruguera,2,12, 2
+Canada Masters 2000,96,Guy Forget,2,13, 2
+Canada Masters 2000,96,Pete Sampras,11,1, 11
+Canada Masters 2000,96,Goran Ivanisevic,2,14, 2
+Canada Masters 2000,96,Michael Stich,2,15, 2
+Canada Masters 2000,96,Andrei Medvedev,4,9, 4
+Canada Masters 2000,96,Marcelo Rios,5,7, 5
+Canada Masters 2000,96,Gustavo Kuerten,3,10, 3
+Cincinnati Masters 2000,97,Stefan Edberg,4,8, 4
+Cincinnati Masters 2000,97,Andre Agassi,10,2, 10
+Cincinnati Masters 2000,97,Andrei Chesnokov,2,12, 2
+Cincinnati Masters 2000,97,Thomas Muster,8,3, 8
+Cincinnati Masters 2000,97,Michael Chang,7,4, 7
+Cincinnati Masters 2000,97,Boris Becker,5,5, 5
+Cincinnati Masters 2000,97,Jim Courier,5,6, 5
+Cincinnati Masters 2000,97,Sergi Bruguera,2,13, 2
+Cincinnati Masters 2000,97,Guy Forget,2,14, 2
+Cincinnati Masters 2000,97,Pete Sampras,11,1, 11
+Cincinnati Masters 2000,97,Goran Ivanisevic,2,15, 2
+Cincinnati Masters 2000,97,Andrei Medvedev,4,9, 4
+Cincinnati Masters 2000,97,Thomas Enqvist,3,10, 3
+Cincinnati Masters 2000,97,Marcelo Rios,5,7, 5
+Cincinnati Masters 2000,97,Gustavo Kuerten,3,11, 3
+Stuttgart Masters 2000,98,Stefan Edberg,4,8, 4
+Stuttgart Masters 2000,98,Andre Agassi,10,2, 10
+Stuttgart Masters 2000,98,Andrei Chesnokov,2,12, 2
+Stuttgart Masters 2000,98,Thomas Muster,8,3, 8
+Stuttgart Masters 2000,98,Michael Chang,7,4, 7
+Stuttgart Masters 2000,98,Boris Becker,5,5, 5
+Stuttgart Masters 2000,98,Jim Courier,5,6, 5
+Stuttgart Masters 2000,98,Sergi Bruguera,2,13, 2
+Stuttgart Masters 2000,98,Guy Forget,2,14, 2
+Stuttgart Masters 2000,98,Pete Sampras,11,1, 11
+Stuttgart Masters 2000,98,Goran Ivanisevic,2,15, 2
+Stuttgart Masters 2000,98,Andrei Medvedev,4,9, 4
+Stuttgart Masters 2000,98,Thomas Enqvist,3,10, 3
+Stuttgart Masters 2000,98,Marcelo Rios,5,7, 5
+Stuttgart Masters 2000,98,Gustavo Kuerten,3,11, 3
+Paris Masters 2000,99,Stefan Edberg,4,8, 4
+Paris Masters 2000,99,Andre Agassi,10,2, 10
+Paris Masters 2000,99,Andrei Chesnokov,2,12, 2
+Paris Masters 2000,99,Thomas Muster,8,3, 8
+Paris Masters 2000,99,Michael Chang,7,4, 7
+Paris Masters 2000,99,Boris Becker,5,5, 5
+Paris Masters 2000,99,Jim Courier,5,6, 5
+Paris Masters 2000,99,Sergi Bruguera,2,13, 2
+Paris Masters 2000,99,Guy Forget,2,14, 2
+Paris Masters 2000,99,Pete Sampras,11,1, 11
+Paris Masters 2000,99,Goran Ivanisevic,2,15, 2
+Paris Masters 2000,99,Andrei Medvedev,4,9, 4
+Paris Masters 2000,99,Thomas Enqvist,3,10, 3
+Paris Masters 2000,99,Marcelo Rios,5,7, 5
+Paris Masters 2000,99,Gustavo Kuerten,3,11, 3
+Indian Wells Masters 2001,100,Stefan Edberg,4,8, 4
+Indian Wells Masters 2001,100,Andre Agassi,11,1, 11
+Indian Wells Masters 2001,100,Andrei Chesnokov,2,12, 2
+Indian Wells Masters 2001,100,Thomas Muster,8,3, 8
+Indian Wells Masters 2001,100,Michael Chang,7,4, 7
+Indian Wells Masters 2001,100,Boris Becker,5,5, 5
+Indian Wells Masters 2001,100,Jim Courier,5,6, 5
+Indian Wells Masters 2001,100,Sergi Bruguera,2,13, 2
+Indian Wells Masters 2001,100,Guy Forget,2,14, 2
+Indian Wells Masters 2001,100,Pete Sampras,11,2, 11
+Indian Wells Masters 2001,100,Goran Ivanisevic,2,15, 2
+Indian Wells Masters 2001,100,Andrei Medvedev,4,9, 4
+Indian Wells Masters 2001,100,Thomas Enqvist,3,10, 3
+Indian Wells Masters 2001,100,Marcelo Rios,5,7, 5
+Indian Wells Masters 2001,100,Gustavo Kuerten,3,11, 3
+Miami Masters 2001,101,Stefan Edberg,4,8, 4
+Miami Masters 2001,101,Andre Agassi,12,1, 12
+Miami Masters 2001,101,Andrei Chesnokov,2,12, 2
+Miami Masters 2001,101,Thomas Muster,8,3, 8
+Miami Masters 2001,101,Michael Chang,7,4, 7
+Miami Masters 2001,101,Boris Becker,5,5, 5
+Miami Masters 2001,101,Jim Courier,5,6, 5
+Miami Masters 2001,101,Sergi Bruguera,2,13, 2
+Miami Masters 2001,101,Guy Forget,2,14, 2
+Miami Masters 2001,101,Pete Sampras,11,2, 11
+Miami Masters 2001,101,Goran Ivanisevic,2,15, 2
+Miami Masters 2001,101,Andrei Medvedev,4,9, 4
+Miami Masters 2001,101,Thomas Enqvist,3,10, 3
+Miami Masters 2001,101,Marcelo Rios,5,7, 5
+Miami Masters 2001,101,Gustavo Kuerten,3,11, 3
+Monte Carlo Masters 2001,102,Stefan Edberg,4,8, 4
+Monte Carlo Masters 2001,102,Andre Agassi,12,1, 12
+Monte Carlo Masters 2001,102,Andrei Chesnokov,2,12, 2
+Monte Carlo Masters 2001,102,Thomas Muster,8,3, 8
+Monte Carlo Masters 2001,102,Michael Chang,7,4, 7
+Monte Carlo Masters 2001,102,Boris Becker,5,5, 5
+Monte Carlo Masters 2001,102,Jim Courier,5,6, 5
+Monte Carlo Masters 2001,102,Sergi Bruguera,2,13, 2
+Monte Carlo Masters 2001,102,Guy Forget,2,14, 2
+Monte Carlo Masters 2001,102,Pete Sampras,11,2, 11
+Monte Carlo Masters 2001,102,Goran Ivanisevic,2,15, 2
+Monte Carlo Masters 2001,102,Andrei Medvedev,4,9, 4
+Monte Carlo Masters 2001,102,Thomas Enqvist,3,11, 3
+Monte Carlo Masters 2001,102,Marcelo Rios,5,7, 5
+Monte Carlo Masters 2001,102,Gustavo Kuerten,4,10, 4
+Rome Masters 2001,103,Stefan Edberg,4,8, 4
+Rome Masters 2001,103,Andre Agassi,12,1, 12
+Rome Masters 2001,103,Andrei Chesnokov,2,12, 2
+Rome Masters 2001,103,Thomas Muster,8,3, 8
+Rome Masters 2001,103,Michael Chang,7,4, 7
+Rome Masters 2001,103,Boris Becker,5,5, 5
+Rome Masters 2001,103,Jim Courier,5,6, 5
+Rome Masters 2001,103,Sergi Bruguera,2,13, 2
+Rome Masters 2001,103,Guy Forget,2,14, 2
+Rome Masters 2001,103,Pete Sampras,11,2, 11
+Rome Masters 2001,103,Goran Ivanisevic,2,15, 2
+Rome Masters 2001,103,Andrei Medvedev,4,9, 4
+Rome Masters 2001,103,Thomas Enqvist,3,11, 3
+Rome Masters 2001,103,Marcelo Rios,5,7, 5
+Rome Masters 2001,103,Gustavo Kuerten,4,10, 4
+Hamburg Masters 2001,104,Stefan Edberg,4,8, 4
+Hamburg Masters 2001,104,Andre Agassi,12,1, 12
+Hamburg Masters 2001,104,Andrei Chesnokov,2,12, 2
+Hamburg Masters 2001,104,Thomas Muster,8,3, 8
+Hamburg Masters 2001,104,Michael Chang,7,4, 7
+Hamburg Masters 2001,104,Boris Becker,5,5, 5
+Hamburg Masters 2001,104,Jim Courier,5,6, 5
+Hamburg Masters 2001,104,Sergi Bruguera,2,13, 2
+Hamburg Masters 2001,104,Guy Forget,2,14, 2
+Hamburg Masters 2001,104,Pete Sampras,11,2, 11
+Hamburg Masters 2001,104,Goran Ivanisevic,2,15, 2
+Hamburg Masters 2001,104,Andrei Medvedev,4,9, 4
+Hamburg Masters 2001,104,Thomas Enqvist,3,11, 3
+Hamburg Masters 2001,104,Marcelo Rios,5,7, 5
+Hamburg Masters 2001,104,Gustavo Kuerten,4,10, 4
+Canada Masters 2001,105,Stefan Edberg,4,8, 4
+Canada Masters 2001,105,Andre Agassi,12,1, 12
+Canada Masters 2001,105,Andrei Chesnokov,2,12, 2
+Canada Masters 2001,105,Thomas Muster,8,3, 8
+Canada Masters 2001,105,Michael Chang,7,4, 7
+Canada Masters 2001,105,Boris Becker,5,5, 5
+Canada Masters 2001,105,Jim Courier,5,6, 5
+Canada Masters 2001,105,Sergi Bruguera,2,13, 2
+Canada Masters 2001,105,Guy Forget,2,14, 2
+Canada Masters 2001,105,Pete Sampras,11,2, 11
+Canada Masters 2001,105,Goran Ivanisevic,2,15, 2
+Canada Masters 2001,105,Andrei Medvedev,4,9, 4
+Canada Masters 2001,105,Thomas Enqvist,3,11, 3
+Canada Masters 2001,105,Marcelo Rios,5,7, 5
+Canada Masters 2001,105,Gustavo Kuerten,4,10, 4
+Cincinnati Masters 2001,106,Stefan Edberg,4,9, 4
+Cincinnati Masters 2001,106,Andre Agassi,12,1, 12
+Cincinnati Masters 2001,106,Andrei Chesnokov,2,12, 2
+Cincinnati Masters 2001,106,Thomas Muster,8,3, 8
+Cincinnati Masters 2001,106,Michael Chang,7,4, 7
+Cincinnati Masters 2001,106,Boris Becker,5,5, 5
+Cincinnati Masters 2001,106,Jim Courier,5,6, 5
+Cincinnati Masters 2001,106,Sergi Bruguera,2,13, 2
+Cincinnati Masters 2001,106,Guy Forget,2,14, 2
+Cincinnati Masters 2001,106,Pete Sampras,11,2, 11
+Cincinnati Masters 2001,106,Goran Ivanisevic,2,15, 2
+Cincinnati Masters 2001,106,Andrei Medvedev,4,10, 4
+Cincinnati Masters 2001,106,Thomas Enqvist,3,11, 3
+Cincinnati Masters 2001,106,Marcelo Rios,5,7, 5
+Cincinnati Masters 2001,106,Gustavo Kuerten,5,8, 5
+Stuttgart Masters 2001,107,Stefan Edberg,4,9, 4
+Stuttgart Masters 2001,107,Andre Agassi,12,1, 12
+Stuttgart Masters 2001,107,Andrei Chesnokov,2,12, 2
+Stuttgart Masters 2001,107,Thomas Muster,8,3, 8
+Stuttgart Masters 2001,107,Michael Chang,7,4, 7
+Stuttgart Masters 2001,107,Boris Becker,5,5, 5
+Stuttgart Masters 2001,107,Jim Courier,5,6, 5
+Stuttgart Masters 2001,107,Sergi Bruguera,2,13, 2
+Stuttgart Masters 2001,107,Guy Forget,2,14, 2
+Stuttgart Masters 2001,107,Pete Sampras,11,2, 11
+Stuttgart Masters 2001,107,Goran Ivanisevic,2,15, 2
+Stuttgart Masters 2001,107,Andrei Medvedev,4,10, 4
+Stuttgart Masters 2001,107,Thomas Enqvist,3,11, 3
+Stuttgart Masters 2001,107,Marcelo Rios,5,7, 5
+Stuttgart Masters 2001,107,Gustavo Kuerten,5,8, 5
+Paris Masters 2001,108,Stefan Edberg,4,9, 4
+Paris Masters 2001,108,Andre Agassi,12,1, 12
+Paris Masters 2001,108,Andrei Chesnokov,2,12, 2
+Paris Masters 2001,108,Thomas Muster,8,3, 8
+Paris Masters 2001,108,Michael Chang,7,4, 7
+Paris Masters 2001,108,Boris Becker,5,5, 5
+Paris Masters 2001,108,Jim Courier,5,6, 5
+Paris Masters 2001,108,Sergi Bruguera,2,13, 2
+Paris Masters 2001,108,Guy Forget,2,14, 2
+Paris Masters 2001,108,Pete Sampras,11,2, 11
+Paris Masters 2001,108,Goran Ivanisevic,2,15, 2
+Paris Masters 2001,108,Andrei Medvedev,4,10, 4
+Paris Masters 2001,108,Thomas Enqvist,3,11, 3
+Paris Masters 2001,108,Marcelo Rios,5,7, 5
+Paris Masters 2001,108,Gustavo Kuerten,5,8, 5
+Indian Wells Masters 2002,109,Stefan Edberg,4,9, 4
+Indian Wells Masters 2002,109,Andre Agassi,12,1, 12
+Indian Wells Masters 2002,109,Andrei Chesnokov,2,12, 2
+Indian Wells Masters 2002,109,Thomas Muster,8,3, 8
+Indian Wells Masters 2002,109,Michael Chang,7,4, 7
+Indian Wells Masters 2002,109,Boris Becker,5,5, 5
+Indian Wells Masters 2002,109,Jim Courier,5,6, 5
+Indian Wells Masters 2002,109,Sergi Bruguera,2,13, 2
+Indian Wells Masters 2002,109,Guy Forget,2,14, 2
+Indian Wells Masters 2002,109,Pete Sampras,11,2, 11
+Indian Wells Masters 2002,109,Goran Ivanisevic,2,15, 2
+Indian Wells Masters 2002,109,Andrei Medvedev,4,10, 4
+Indian Wells Masters 2002,109,Thomas Enqvist,3,11, 3
+Indian Wells Masters 2002,109,Marcelo Rios,5,7, 5
+Indian Wells Masters 2002,109,Gustavo Kuerten,5,8, 5
+Miami Masters 2002,110,Stefan Edberg,4,9, 4
+Miami Masters 2002,110,Andre Agassi,13,1, 13
+Miami Masters 2002,110,Andrei Chesnokov,2,12, 2
+Miami Masters 2002,110,Thomas Muster,8,3, 8
+Miami Masters 2002,110,Michael Chang,7,4, 7
+Miami Masters 2002,110,Boris Becker,5,5, 5
+Miami Masters 2002,110,Jim Courier,5,6, 5
+Miami Masters 2002,110,Sergi Bruguera,2,13, 2
+Miami Masters 2002,110,Guy Forget,2,14, 2
+Miami Masters 2002,110,Pete Sampras,11,2, 11
+Miami Masters 2002,110,Goran Ivanisevic,2,15, 2
+Miami Masters 2002,110,Andrei Medvedev,4,10, 4
+Miami Masters 2002,110,Thomas Enqvist,3,11, 3
+Miami Masters 2002,110,Marcelo Rios,5,7, 5
+Miami Masters 2002,110,Gustavo Kuerten,5,8, 5
+Monte Carlo Masters 2002,111,Stefan Edberg,4,9, 4
+Monte Carlo Masters 2002,111,Andre Agassi,13,1, 13
+Monte Carlo Masters 2002,111,Andrei Chesnokov,2,12, 2
+Monte Carlo Masters 2002,111,Thomas Muster,8,3, 8
+Monte Carlo Masters 2002,111,Michael Chang,7,4, 7
+Monte Carlo Masters 2002,111,Boris Becker,5,5, 5
+Monte Carlo Masters 2002,111,Jim Courier,5,6, 5
+Monte Carlo Masters 2002,111,Sergi Bruguera,2,13, 2
+Monte Carlo Masters 2002,111,Guy Forget,2,14, 2
+Monte Carlo Masters 2002,111,Pete Sampras,11,2, 11
+Monte Carlo Masters 2002,111,Goran Ivanisevic,2,15, 2
+Monte Carlo Masters 2002,111,Andrei Medvedev,4,10, 4
+Monte Carlo Masters 2002,111,Thomas Enqvist,3,11, 3
+Monte Carlo Masters 2002,111,Marcelo Rios,5,7, 5
+Monte Carlo Masters 2002,111,Gustavo Kuerten,5,8, 5
+Rome Masters 2002,112,Stefan Edberg,4,9, 4
+Rome Masters 2002,112,Andre Agassi,14,1, 14
+Rome Masters 2002,112,Andrei Chesnokov,2,12, 2
+Rome Masters 2002,112,Thomas Muster,8,3, 8
+Rome Masters 2002,112,Michael Chang,7,4, 7
+Rome Masters 2002,112,Boris Becker,5,5, 5
+Rome Masters 2002,112,Jim Courier,5,6, 5
+Rome Masters 2002,112,Sergi Bruguera,2,13, 2
+Rome Masters 2002,112,Guy Forget,2,14, 2
+Rome Masters 2002,112,Pete Sampras,11,2, 11
+Rome Masters 2002,112,Goran Ivanisevic,2,15, 2
+Rome Masters 2002,112,Andrei Medvedev,4,10, 4
+Rome Masters 2002,112,Thomas Enqvist,3,11, 3
+Rome Masters 2002,112,Marcelo Rios,5,7, 5
+Rome Masters 2002,112,Gustavo Kuerten,5,8, 5
+Hamburg Masters 2002,113,Stefan Edberg,4,9, 4
+Hamburg Masters 2002,113,Andre Agassi,14,1, 14
+Hamburg Masters 2002,113,Andrei Chesnokov,2,12, 2
+Hamburg Masters 2002,113,Thomas Muster,8,3, 8
+Hamburg Masters 2002,113,Michael Chang,7,4, 7
+Hamburg Masters 2002,113,Boris Becker,5,5, 5
+Hamburg Masters 2002,113,Jim Courier,5,6, 5
+Hamburg Masters 2002,113,Sergi Bruguera,2,13, 2
+Hamburg Masters 2002,113,Guy Forget,2,14, 2
+Hamburg Masters 2002,113,Pete Sampras,11,2, 11
+Hamburg Masters 2002,113,Goran Ivanisevic,2,15, 2
+Hamburg Masters 2002,113,Andrei Medvedev,4,10, 4
+Hamburg Masters 2002,113,Thomas Enqvist,3,11, 3
+Hamburg Masters 2002,113,Marcelo Rios,5,7, 5
+Hamburg Masters 2002,113,Gustavo Kuerten,5,8, 5
+Canada Masters 2002,114,Stefan Edberg,4,9, 4
+Canada Masters 2002,114,Andre Agassi,14,1, 14
+Canada Masters 2002,114,Andrei Chesnokov,2,12, 2
+Canada Masters 2002,114,Thomas Muster,8,3, 8
+Canada Masters 2002,114,Michael Chang,7,4, 7
+Canada Masters 2002,114,Boris Becker,5,5, 5
+Canada Masters 2002,114,Jim Courier,5,6, 5
+Canada Masters 2002,114,Sergi Bruguera,2,13, 2
+Canada Masters 2002,114,Guy Forget,2,14, 2
+Canada Masters 2002,114,Pete Sampras,11,2, 11
+Canada Masters 2002,114,Goran Ivanisevic,2,15, 2
+Canada Masters 2002,114,Andrei Medvedev,4,10, 4
+Canada Masters 2002,114,Thomas Enqvist,3,11, 3
+Canada Masters 2002,114,Marcelo Rios,5,7, 5
+Canada Masters 2002,114,Gustavo Kuerten,5,8, 5
+Cincinnati Masters 2002,115,Stefan Edberg,4,9, 4
+Cincinnati Masters 2002,115,Andre Agassi,14,1, 14
+Cincinnati Masters 2002,115,Andrei Chesnokov,2,12, 2
+Cincinnati Masters 2002,115,Thomas Muster,8,3, 8
+Cincinnati Masters 2002,115,Michael Chang,7,4, 7
+Cincinnati Masters 2002,115,Boris Becker,5,5, 5
+Cincinnati Masters 2002,115,Jim Courier,5,6, 5
+Cincinnati Masters 2002,115,Sergi Bruguera,2,13, 2
+Cincinnati Masters 2002,115,Guy Forget,2,14, 2
+Cincinnati Masters 2002,115,Pete Sampras,11,2, 11
+Cincinnati Masters 2002,115,Goran Ivanisevic,2,15, 2
+Cincinnati Masters 2002,115,Andrei Medvedev,4,10, 4
+Cincinnati Masters 2002,115,Thomas Enqvist,3,11, 3
+Cincinnati Masters 2002,115,Marcelo Rios,5,7, 5
+Cincinnati Masters 2002,115,Gustavo Kuerten,5,8, 5
+Madrid Masters 2002,116,Stefan Edberg,4,9, 4
+Madrid Masters 2002,116,Andre Agassi,15,1, 15
+Madrid Masters 2002,116,Andrei Chesnokov,2,12, 2
+Madrid Masters 2002,116,Thomas Muster,8,3, 8
+Madrid Masters 2002,116,Michael Chang,7,4, 7
+Madrid Masters 2002,116,Boris Becker,5,5, 5
+Madrid Masters 2002,116,Jim Courier,5,6, 5
+Madrid Masters 2002,116,Sergi Bruguera,2,13, 2
+Madrid Masters 2002,116,Guy Forget,2,14, 2
+Madrid Masters 2002,116,Pete Sampras,11,2, 11
+Madrid Masters 2002,116,Goran Ivanisevic,2,15, 2
+Madrid Masters 2002,116,Andrei Medvedev,4,10, 4
+Madrid Masters 2002,116,Thomas Enqvist,3,11, 3
+Madrid Masters 2002,116,Marcelo Rios,5,7, 5
+Madrid Masters 2002,116,Gustavo Kuerten,5,8, 5
+Paris Masters 2002,117,Stefan Edberg,4,9, 4
+Paris Masters 2002,117,Andre Agassi,15,1, 15
+Paris Masters 2002,117,Andrei Chesnokov,2,13, 2
+Paris Masters 2002,117,Thomas Muster,8,3, 8
+Paris Masters 2002,117,Michael Chang,7,4, 7
+Paris Masters 2002,117,Boris Becker,5,5, 5
+Paris Masters 2002,117,Jim Courier,5,6, 5
+Paris Masters 2002,117,Sergi Bruguera,2,14, 2
+Paris Masters 2002,117,Guy Forget,2,15, 2
+Paris Masters 2002,117,Pete Sampras,11,2, 11
+Paris Masters 2002,117,Andrei Medvedev,4,10, 4
+Paris Masters 2002,117,Thomas Enqvist,3,11, 3
+Paris Masters 2002,117,Marcelo Rios,5,7, 5
+Paris Masters 2002,117,Gustavo Kuerten,5,8, 5
+Paris Masters 2002,117,Marat Safin,3,12, 3
+Indian Wells Masters 2003,118,Stefan Edberg,4,9, 4
+Indian Wells Masters 2003,118,Andre Agassi,15,1, 15
+Indian Wells Masters 2003,118,Andrei Chesnokov,2,13, 2
+Indian Wells Masters 2003,118,Thomas Muster,8,3, 8
+Indian Wells Masters 2003,118,Michael Chang,7,4, 7
+Indian Wells Masters 2003,118,Boris Becker,5,5, 5
+Indian Wells Masters 2003,118,Jim Courier,5,6, 5
+Indian Wells Masters 2003,118,Sergi Bruguera,2,14, 2
+Indian Wells Masters 2003,118,Guy Forget,2,15, 2
+Indian Wells Masters 2003,118,Pete Sampras,11,2, 11
+Indian Wells Masters 2003,118,Andrei Medvedev,4,10, 4
+Indian Wells Masters 2003,118,Thomas Enqvist,3,11, 3
+Indian Wells Masters 2003,118,Marcelo Rios,5,7, 5
+Indian Wells Masters 2003,118,Gustavo Kuerten,5,8, 5
+Indian Wells Masters 2003,118,Marat Safin,3,12, 3
+Miami Masters 2003,119,Stefan Edberg,4,9, 4
+Miami Masters 2003,119,Andre Agassi,16,1, 16
+Miami Masters 2003,119,Andrei Chesnokov,2,13, 2
+Miami Masters 2003,119,Thomas Muster,8,3, 8
+Miami Masters 2003,119,Michael Chang,7,4, 7
+Miami Masters 2003,119,Boris Becker,5,5, 5
+Miami Masters 2003,119,Jim Courier,5,6, 5
+Miami Masters 2003,119,Sergi Bruguera,2,14, 2
+Miami Masters 2003,119,Guy Forget,2,15, 2
+Miami Masters 2003,119,Pete Sampras,11,2, 11
+Miami Masters 2003,119,Andrei Medvedev,4,10, 4
+Miami Masters 2003,119,Thomas Enqvist,3,11, 3
+Miami Masters 2003,119,Marcelo Rios,5,7, 5
+Miami Masters 2003,119,Gustavo Kuerten,5,8, 5
+Miami Masters 2003,119,Marat Safin,3,12, 3
+Monte Carlo Masters 2003,120,Stefan Edberg,4,9, 4
+Monte Carlo Masters 2003,120,Andre Agassi,16,1, 16
+Monte Carlo Masters 2003,120,Andrei Chesnokov,2,14, 2
+Monte Carlo Masters 2003,120,Thomas Muster,8,3, 8
+Monte Carlo Masters 2003,120,Michael Chang,7,4, 7
+Monte Carlo Masters 2003,120,Boris Becker,5,5, 5
+Monte Carlo Masters 2003,120,Jim Courier,5,6, 5
+Monte Carlo Masters 2003,120,Sergi Bruguera,2,15, 2
+Monte Carlo Masters 2003,120,Pete Sampras,11,2, 11
+Monte Carlo Masters 2003,120,Andrei Medvedev,4,10, 4
+Monte Carlo Masters 2003,120,Thomas Enqvist,3,11, 3
+Monte Carlo Masters 2003,120,Marcelo Rios,5,7, 5
+Monte Carlo Masters 2003,120,Gustavo Kuerten,5,8, 5
+Monte Carlo Masters 2003,120,Marat Safin,3,12, 3
+Monte Carlo Masters 2003,120,Juan Carlos Ferrero,3,13, 3
+Rome Masters 2003,121,Stefan Edberg,4,9, 4
+Rome Masters 2003,121,Andre Agassi,16,1, 16
+Rome Masters 2003,121,Andrei Chesnokov,2,14, 2
+Rome Masters 2003,121,Thomas Muster,8,3, 8
+Rome Masters 2003,121,Michael Chang,7,4, 7
+Rome Masters 2003,121,Boris Becker,5,5, 5
+Rome Masters 2003,121,Jim Courier,5,6, 5
+Rome Masters 2003,121,Sergi Bruguera,2,15, 2
+Rome Masters 2003,121,Pete Sampras,11,2, 11
+Rome Masters 2003,121,Andrei Medvedev,4,10, 4
+Rome Masters 2003,121,Thomas Enqvist,3,11, 3
+Rome Masters 2003,121,Marcelo Rios,5,7, 5
+Rome Masters 2003,121,Gustavo Kuerten,5,8, 5
+Rome Masters 2003,121,Marat Safin,3,12, 3
+Rome Masters 2003,121,Juan Carlos Ferrero,3,13, 3
+Hamburg Masters 2003,122,Stefan Edberg,4,9, 4
+Hamburg Masters 2003,122,Andre Agassi,16,1, 16
+Hamburg Masters 2003,122,Andrei Chesnokov,2,14, 2
+Hamburg Masters 2003,122,Thomas Muster,8,3, 8
+Hamburg Masters 2003,122,Michael Chang,7,4, 7
+Hamburg Masters 2003,122,Boris Becker,5,5, 5
+Hamburg Masters 2003,122,Jim Courier,5,6, 5
+Hamburg Masters 2003,122,Sergi Bruguera,2,15, 2
+Hamburg Masters 2003,122,Pete Sampras,11,2, 11
+Hamburg Masters 2003,122,Andrei Medvedev,4,10, 4
+Hamburg Masters 2003,122,Thomas Enqvist,3,11, 3
+Hamburg Masters 2003,122,Marcelo Rios,5,7, 5
+Hamburg Masters 2003,122,Gustavo Kuerten,5,8, 5
+Hamburg Masters 2003,122,Marat Safin,3,12, 3
+Hamburg Masters 2003,122,Juan Carlos Ferrero,3,13, 3
+Canada Masters 2003,123,Stefan Edberg,4,9, 4
+Canada Masters 2003,123,Andre Agassi,16,1, 16
+Canada Masters 2003,123,Andrei Chesnokov,2,14, 2
+Canada Masters 2003,123,Thomas Muster,8,3, 8
+Canada Masters 2003,123,Michael Chang,7,4, 7
+Canada Masters 2003,123,Boris Becker,5,5, 5
+Canada Masters 2003,123,Jim Courier,5,6, 5
+Canada Masters 2003,123,Sergi Bruguera,2,15, 2
+Canada Masters 2003,123,Pete Sampras,11,2, 11
+Canada Masters 2003,123,Andrei Medvedev,4,10, 4
+Canada Masters 2003,123,Thomas Enqvist,3,11, 3
+Canada Masters 2003,123,Marcelo Rios,5,7, 5
+Canada Masters 2003,123,Gustavo Kuerten,5,8, 5
+Canada Masters 2003,123,Marat Safin,3,12, 3
+Canada Masters 2003,123,Juan Carlos Ferrero,3,13, 3
+Cincinnati Masters 2003,124,Stefan Edberg,4,9, 4
+Cincinnati Masters 2003,124,Andre Agassi,16,1, 16
+Cincinnati Masters 2003,124,Andrei Chesnokov,2,14, 2
+Cincinnati Masters 2003,124,Thomas Muster,8,3, 8
+Cincinnati Masters 2003,124,Michael Chang,7,4, 7
+Cincinnati Masters 2003,124,Boris Becker,5,5, 5
+Cincinnati Masters 2003,124,Jim Courier,5,6, 5
+Cincinnati Masters 2003,124,Sergi Bruguera,2,15, 2
+Cincinnati Masters 2003,124,Pete Sampras,11,2, 11
+Cincinnati Masters 2003,124,Andrei Medvedev,4,10, 4
+Cincinnati Masters 2003,124,Thomas Enqvist,3,11, 3
+Cincinnati Masters 2003,124,Marcelo Rios,5,7, 5
+Cincinnati Masters 2003,124,Gustavo Kuerten,5,8, 5
+Cincinnati Masters 2003,124,Marat Safin,3,12, 3
+Cincinnati Masters 2003,124,Juan Carlos Ferrero,3,13, 3
+Madrid Masters 2003,125,Stefan Edberg,4,9, 4
+Madrid Masters 2003,125,Andre Agassi,16,1, 16
+Madrid Masters 2003,125,Andrei Chesnokov,2,14, 2
+Madrid Masters 2003,125,Thomas Muster,8,3, 8
+Madrid Masters 2003,125,Michael Chang,7,4, 7
+Madrid Masters 2003,125,Boris Becker,5,5, 5
+Madrid Masters 2003,125,Jim Courier,5,6, 5
+Madrid Masters 2003,125,Sergi Bruguera,2,15, 2
+Madrid Masters 2003,125,Pete Sampras,11,2, 11
+Madrid Masters 2003,125,Andrei Medvedev,4,10, 4
+Madrid Masters 2003,125,Thomas Enqvist,3,12, 3
+Madrid Masters 2003,125,Marcelo Rios,5,7, 5
+Madrid Masters 2003,125,Gustavo Kuerten,5,8, 5
+Madrid Masters 2003,125,Marat Safin,3,13, 3
+Madrid Masters 2003,125,Juan Carlos Ferrero,4,11, 4
+Paris Masters 2003,126,Stefan Edberg,4,9, 4
+Paris Masters 2003,126,Andre Agassi,16,1, 16
+Paris Masters 2003,126,Andrei Chesnokov,2,14, 2
+Paris Masters 2003,126,Thomas Muster,8,3, 8
+Paris Masters 2003,126,Michael Chang,7,4, 7
+Paris Masters 2003,126,Boris Becker,5,5, 5
+Paris Masters 2003,126,Jim Courier,5,6, 5
+Paris Masters 2003,126,Sergi Bruguera,2,15, 2
+Paris Masters 2003,126,Pete Sampras,11,2, 11
+Paris Masters 2003,126,Andrei Medvedev,4,10, 4
+Paris Masters 2003,126,Thomas Enqvist,3,12, 3
+Paris Masters 2003,126,Marcelo Rios,5,7, 5
+Paris Masters 2003,126,Gustavo Kuerten,5,8, 5
+Paris Masters 2003,126,Marat Safin,3,13, 3
+Paris Masters 2003,126,Juan Carlos Ferrero,4,11, 4
+Indian Wells Masters 2004,127,Stefan Edberg,4,9, 4
+Indian Wells Masters 2004,127,Andre Agassi,16,1, 16
+Indian Wells Masters 2004,127,Andrei Chesnokov,2,14, 2
+Indian Wells Masters 2004,127,Thomas Muster,8,3, 8
+Indian Wells Masters 2004,127,Michael Chang,7,4, 7
+Indian Wells Masters 2004,127,Boris Becker,5,5, 5
+Indian Wells Masters 2004,127,Jim Courier,5,6, 5
+Indian Wells Masters 2004,127,Sergi Bruguera,2,15, 2
+Indian Wells Masters 2004,127,Pete Sampras,11,2, 11
+Indian Wells Masters 2004,127,Andrei Medvedev,4,10, 4
+Indian Wells Masters 2004,127,Thomas Enqvist,3,12, 3
+Indian Wells Masters 2004,127,Marcelo Rios,5,7, 5
+Indian Wells Masters 2004,127,Gustavo Kuerten,5,8, 5
+Indian Wells Masters 2004,127,Marat Safin,3,13, 3
+Indian Wells Masters 2004,127,Juan Carlos Ferrero,4,11, 4
+Miami Masters 2004,128,Stefan Edberg,4,9, 4
+Miami Masters 2004,128,Andre Agassi,16,1, 16
+Miami Masters 2004,128,Andrei Chesnokov,2,15, 2
+Miami Masters 2004,128,Thomas Muster,8,3, 8
+Miami Masters 2004,128,Michael Chang,7,4, 7
+Miami Masters 2004,128,Boris Becker,5,5, 5
+Miami Masters 2004,128,Jim Courier,5,6, 5
+Miami Masters 2004,128,Pete Sampras,11,2, 11
+Miami Masters 2004,128,Andrei Medvedev,4,10, 4
+Miami Masters 2004,128,Thomas Enqvist,3,12, 3
+Miami Masters 2004,128,Marcelo Rios,5,7, 5
+Miami Masters 2004,128,Gustavo Kuerten,5,8, 5
+Miami Masters 2004,128,Marat Safin,3,13, 3
+Miami Masters 2004,128,Juan Carlos Ferrero,4,11, 4
+Miami Masters 2004,128,Andy Roddick,3,14, 3
+Monte Carlo Masters 2004,129,Stefan Edberg,4,9, 4
+Monte Carlo Masters 2004,129,Andre Agassi,16,1, 16
+Monte Carlo Masters 2004,129,Andrei Chesnokov,2,15, 2
+Monte Carlo Masters 2004,129,Thomas Muster,8,3, 8
+Monte Carlo Masters 2004,129,Michael Chang,7,4, 7
+Monte Carlo Masters 2004,129,Boris Becker,5,5, 5
+Monte Carlo Masters 2004,129,Jim Courier,5,6, 5
+Monte Carlo Masters 2004,129,Pete Sampras,11,2, 11
+Monte Carlo Masters 2004,129,Andrei Medvedev,4,10, 4
+Monte Carlo Masters 2004,129,Thomas Enqvist,3,12, 3
+Monte Carlo Masters 2004,129,Marcelo Rios,5,7, 5
+Monte Carlo Masters 2004,129,Gustavo Kuerten,5,8, 5
+Monte Carlo Masters 2004,129,Marat Safin,3,13, 3
+Monte Carlo Masters 2004,129,Juan Carlos Ferrero,4,11, 4
+Monte Carlo Masters 2004,129,Andy Roddick,3,14, 3
+Rome Masters 2004,130,Stefan Edberg,4,9, 4
+Rome Masters 2004,130,Andre Agassi,16,1, 16
+Rome Masters 2004,130,Thomas Muster,8,3, 8
+Rome Masters 2004,130,Michael Chang,7,4, 7
+Rome Masters 2004,130,Boris Becker,5,5, 5
+Rome Masters 2004,130,Jim Courier,5,6, 5
+Rome Masters 2004,130,Pete Sampras,11,2, 11
+Rome Masters 2004,130,Andrei Medvedev,4,10, 4
+Rome Masters 2004,130,Thomas Enqvist,3,12, 3
+Rome Masters 2004,130,Marcelo Rios,5,7, 5
+Rome Masters 2004,130,Carlos Moya,3,13, 3
+Rome Masters 2004,130,Gustavo Kuerten,5,8, 5
+Rome Masters 2004,130,Marat Safin,3,14, 3
+Rome Masters 2004,130,Juan Carlos Ferrero,4,11, 4
+Rome Masters 2004,130,Andy Roddick,3,15, 3
+Hamburg Masters 2004,131,Stefan Edberg,4,9, 4
+Hamburg Masters 2004,131,Andre Agassi,16,1, 16
+Hamburg Masters 2004,131,Thomas Muster,8,3, 8
+Hamburg Masters 2004,131,Michael Chang,7,4, 7
+Hamburg Masters 2004,131,Boris Becker,5,5, 5
+Hamburg Masters 2004,131,Jim Courier,5,6, 5
+Hamburg Masters 2004,131,Pete Sampras,11,2, 11
+Hamburg Masters 2004,131,Andrei Medvedev,4,10, 4
+Hamburg Masters 2004,131,Thomas Enqvist,3,12, 3
+Hamburg Masters 2004,131,Marcelo Rios,5,7, 5
+Hamburg Masters 2004,131,Carlos Moya,3,13, 3
+Hamburg Masters 2004,131,Gustavo Kuerten,5,8, 5
+Hamburg Masters 2004,131,Marat Safin,3,14, 3
+Hamburg Masters 2004,131,Juan Carlos Ferrero,4,11, 4
+Hamburg Masters 2004,131,Roger Federer,3,15, 3
+Canada Masters 2004,132,Stefan Edberg,4,9, 4
+Canada Masters 2004,132,Andre Agassi,16,1, 16
+Canada Masters 2004,132,Thomas Muster,8,3, 8
+Canada Masters 2004,132,Michael Chang,7,4, 7
+Canada Masters 2004,132,Boris Becker,5,5, 5
+Canada Masters 2004,132,Jim Courier,5,6, 5
+Canada Masters 2004,132,Pete Sampras,11,2, 11
+Canada Masters 2004,132,Andrei Medvedev,4,10, 4
+Canada Masters 2004,132,Thomas Enqvist,3,13, 3
+Canada Masters 2004,132,Marcelo Rios,5,7, 5
+Canada Masters 2004,132,Carlos Moya,3,14, 3
+Canada Masters 2004,132,Gustavo Kuerten,5,8, 5
+Canada Masters 2004,132,Marat Safin,3,15, 3
+Canada Masters 2004,132,Juan Carlos Ferrero,4,11, 4
+Canada Masters 2004,132,Roger Federer,4,12, 4
+Cincinnati Masters 2004,133,Stefan Edberg,4,9, 4
+Cincinnati Masters 2004,133,Andre Agassi,17,1, 17
+Cincinnati Masters 2004,133,Thomas Muster,8,3, 8
+Cincinnati Masters 2004,133,Michael Chang,7,4, 7
+Cincinnati Masters 2004,133,Boris Becker,5,5, 5
+Cincinnati Masters 2004,133,Jim Courier,5,6, 5
+Cincinnati Masters 2004,133,Pete Sampras,11,2, 11
+Cincinnati Masters 2004,133,Andrei Medvedev,4,10, 4
+Cincinnati Masters 2004,133,Thomas Enqvist,3,13, 3
+Cincinnati Masters 2004,133,Marcelo Rios,5,7, 5
+Cincinnati Masters 2004,133,Carlos Moya,3,14, 3
+Cincinnati Masters 2004,133,Gustavo Kuerten,5,8, 5
+Cincinnati Masters 2004,133,Marat Safin,3,15, 3
+Cincinnati Masters 2004,133,Juan Carlos Ferrero,4,11, 4
+Cincinnati Masters 2004,133,Roger Federer,4,12, 4
+Madrid Masters 2004,134,Stefan Edberg,4,9, 4
+Madrid Masters 2004,134,Andre Agassi,17,1, 17
+Madrid Masters 2004,134,Thomas Muster,8,3, 8
+Madrid Masters 2004,134,Michael Chang,7,4, 7
+Madrid Masters 2004,134,Boris Becker,5,5, 5
+Madrid Masters 2004,134,Jim Courier,5,6, 5
+Madrid Masters 2004,134,Pete Sampras,11,2, 11
+Madrid Masters 2004,134,Andrei Medvedev,4,10, 4
+Madrid Masters 2004,134,Thomas Enqvist,3,14, 3
+Madrid Masters 2004,134,Marcelo Rios,5,7, 5
+Madrid Masters 2004,134,Carlos Moya,3,15, 3
+Madrid Masters 2004,134,Gustavo Kuerten,5,8, 5
+Madrid Masters 2004,134,Marat Safin,4,11, 4
+Madrid Masters 2004,134,Juan Carlos Ferrero,4,12, 4
+Madrid Masters 2004,134,Roger Federer,4,13, 4
+Paris Masters 2004,135,Stefan Edberg,4,10, 4
+Paris Masters 2004,135,Andre Agassi,17,1, 17
+Paris Masters 2004,135,Thomas Muster,8,3, 8
+Paris Masters 2004,135,Michael Chang,7,4, 7
+Paris Masters 2004,135,Boris Becker,5,5, 5
+Paris Masters 2004,135,Jim Courier,5,6, 5
+Paris Masters 2004,135,Pete Sampras,11,2, 11
+Paris Masters 2004,135,Andrei Medvedev,4,11, 4
+Paris Masters 2004,135,Thomas Enqvist,3,14, 3
+Paris Masters 2004,135,Marcelo Rios,5,7, 5
+Paris Masters 2004,135,Carlos Moya,3,15, 3
+Paris Masters 2004,135,Gustavo Kuerten,5,8, 5
+Paris Masters 2004,135,Marat Safin,5,9, 5
+Paris Masters 2004,135,Juan Carlos Ferrero,4,12, 4
+Paris Masters 2004,135,Roger Federer,4,13, 4
+Indian Wells Masters 2005,136,Stefan Edberg,4,11, 4
+Indian Wells Masters 2005,136,Andre Agassi,17,1, 17
+Indian Wells Masters 2005,136,Thomas Muster,8,3, 8
+Indian Wells Masters 2005,136,Michael Chang,7,4, 7
+Indian Wells Masters 2005,136,Boris Becker,5,5, 5
+Indian Wells Masters 2005,136,Jim Courier,5,6, 5
+Indian Wells Masters 2005,136,Pete Sampras,11,2, 11
+Indian Wells Masters 2005,136,Andrei Medvedev,4,12, 4
+Indian Wells Masters 2005,136,Thomas Enqvist,3,14, 3
+Indian Wells Masters 2005,136,Marcelo Rios,5,7, 5
+Indian Wells Masters 2005,136,Carlos Moya,3,15, 3
+Indian Wells Masters 2005,136,Gustavo Kuerten,5,8, 5
+Indian Wells Masters 2005,136,Marat Safin,5,9, 5
+Indian Wells Masters 2005,136,Juan Carlos Ferrero,4,13, 4
+Indian Wells Masters 2005,136,Roger Federer,5,10, 5
+Miami Masters 2005,137,Stefan Edberg,4,11, 4
+Miami Masters 2005,137,Andre Agassi,17,1, 17
+Miami Masters 2005,137,Thomas Muster,8,3, 8
+Miami Masters 2005,137,Michael Chang,7,4, 7
+Miami Masters 2005,137,Boris Becker,5,6, 5
+Miami Masters 2005,137,Jim Courier,5,7, 5
+Miami Masters 2005,137,Pete Sampras,11,2, 11
+Miami Masters 2005,137,Andrei Medvedev,4,12, 4
+Miami Masters 2005,137,Thomas Enqvist,3,14, 3
+Miami Masters 2005,137,Marcelo Rios,5,8, 5
+Miami Masters 2005,137,Carlos Moya,3,15, 3
+Miami Masters 2005,137,Gustavo Kuerten,5,9, 5
+Miami Masters 2005,137,Marat Safin,5,10, 5
+Miami Masters 2005,137,Juan Carlos Ferrero,4,13, 4
+Miami Masters 2005,137,Roger Federer,6,5, 6
+Monte Carlo Masters 2005,138,Stefan Edberg,4,11, 4
+Monte Carlo Masters 2005,138,Andre Agassi,17,1, 17
+Monte Carlo Masters 2005,138,Thomas Muster,8,3, 8
+Monte Carlo Masters 2005,138,Michael Chang,7,4, 7
+Monte Carlo Masters 2005,138,Boris Becker,5,6, 5
+Monte Carlo Masters 2005,138,Jim Courier,5,7, 5
+Monte Carlo Masters 2005,138,Pete Sampras,11,2, 11
+Monte Carlo Masters 2005,138,Andrei Medvedev,4,12, 4
+Monte Carlo Masters 2005,138,Thomas Enqvist,3,14, 3
+Monte Carlo Masters 2005,138,Marcelo Rios,5,8, 5
+Monte Carlo Masters 2005,138,Carlos Moya,3,15, 3
+Monte Carlo Masters 2005,138,Gustavo Kuerten,5,9, 5
+Monte Carlo Masters 2005,138,Marat Safin,5,10, 5
+Monte Carlo Masters 2005,138,Juan Carlos Ferrero,4,13, 4
+Monte Carlo Masters 2005,138,Roger Federer,6,5, 6
+Rome Masters 2005,139,Stefan Edberg,4,11, 4
+Rome Masters 2005,139,Andre Agassi,17,1, 17
+Rome Masters 2005,139,Thomas Muster,8,3, 8
+Rome Masters 2005,139,Michael Chang,7,4, 7
+Rome Masters 2005,139,Boris Becker,5,6, 5
+Rome Masters 2005,139,Jim Courier,5,7, 5
+Rome Masters 2005,139,Pete Sampras,11,2, 11
+Rome Masters 2005,139,Andrei Medvedev,4,12, 4
+Rome Masters 2005,139,Thomas Enqvist,3,14, 3
+Rome Masters 2005,139,Marcelo Rios,5,8, 5
+Rome Masters 2005,139,Carlos Moya,3,15, 3
+Rome Masters 2005,139,Gustavo Kuerten,5,9, 5
+Rome Masters 2005,139,Marat Safin,5,10, 5
+Rome Masters 2005,139,Juan Carlos Ferrero,4,13, 4
+Rome Masters 2005,139,Roger Federer,6,5, 6
+Hamburg Masters 2005,140,Stefan Edberg,4,11, 4
+Hamburg Masters 2005,140,Andre Agassi,17,1, 17
+Hamburg Masters 2005,140,Thomas Muster,8,3, 8
+Hamburg Masters 2005,140,Michael Chang,7,4, 7
+Hamburg Masters 2005,140,Boris Becker,5,6, 5
+Hamburg Masters 2005,140,Jim Courier,5,7, 5
+Hamburg Masters 2005,140,Pete Sampras,11,2, 11
+Hamburg Masters 2005,140,Andrei Medvedev,4,12, 4
+Hamburg Masters 2005,140,Thomas Enqvist,3,14, 3
+Hamburg Masters 2005,140,Marcelo Rios,5,8, 5
+Hamburg Masters 2005,140,Carlos Moya,3,15, 3
+Hamburg Masters 2005,140,Gustavo Kuerten,5,9, 5
+Hamburg Masters 2005,140,Marat Safin,5,10, 5
+Hamburg Masters 2005,140,Juan Carlos Ferrero,4,13, 4
+Hamburg Masters 2005,140,Roger Federer,7,5, 7
+Canada Masters 2005,141,Stefan Edberg,4,11, 4
+Canada Masters 2005,141,Andre Agassi,17,1, 17
+Canada Masters 2005,141,Thomas Muster,8,3, 8
+Canada Masters 2005,141,Michael Chang,7,4, 7
+Canada Masters 2005,141,Boris Becker,5,6, 5
+Canada Masters 2005,141,Jim Courier,5,7, 5
+Canada Masters 2005,141,Pete Sampras,11,2, 11
+Canada Masters 2005,141,Andrei Medvedev,4,12, 4
+Canada Masters 2005,141,Thomas Enqvist,3,14, 3
+Canada Masters 2005,141,Marcelo Rios,5,8, 5
+Canada Masters 2005,141,Carlos Moya,3,15, 3
+Canada Masters 2005,141,Gustavo Kuerten,5,9, 5
+Canada Masters 2005,141,Marat Safin,5,10, 5
+Canada Masters 2005,141,Juan Carlos Ferrero,4,13, 4
+Canada Masters 2005,141,Roger Federer,7,5, 7
+Cincinnati Masters 2005,142,Stefan Edberg,4,11, 4
+Cincinnati Masters 2005,142,Andre Agassi,17,1, 17
+Cincinnati Masters 2005,142,Thomas Muster,8,3, 8
+Cincinnati Masters 2005,142,Michael Chang,7,5, 7
+Cincinnati Masters 2005,142,Boris Becker,5,6, 5
+Cincinnati Masters 2005,142,Jim Courier,5,7, 5
+Cincinnati Masters 2005,142,Pete Sampras,11,2, 11
+Cincinnati Masters 2005,142,Andrei Medvedev,4,12, 4
+Cincinnati Masters 2005,142,Thomas Enqvist,3,14, 3
+Cincinnati Masters 2005,142,Marcelo Rios,5,8, 5
+Cincinnati Masters 2005,142,Carlos Moya,3,15, 3
+Cincinnati Masters 2005,142,Gustavo Kuerten,5,9, 5
+Cincinnati Masters 2005,142,Marat Safin,5,10, 5
+Cincinnati Masters 2005,142,Juan Carlos Ferrero,4,13, 4
+Cincinnati Masters 2005,142,Roger Federer,8,4, 8
+Madrid Masters 2005,143,Stefan Edberg,4,11, 4
+Madrid Masters 2005,143,Andre Agassi,17,1, 17
+Madrid Masters 2005,143,Thomas Muster,8,3, 8
+Madrid Masters 2005,143,Michael Chang,7,5, 7
+Madrid Masters 2005,143,Boris Becker,5,6, 5
+Madrid Masters 2005,143,Jim Courier,5,7, 5
+Madrid Masters 2005,143,Pete Sampras,11,2, 11
+Madrid Masters 2005,143,Andrei Medvedev,4,12, 4
+Madrid Masters 2005,143,Thomas Enqvist,3,15, 3
+Madrid Masters 2005,143,Marcelo Rios,5,8, 5
+Madrid Masters 2005,143,Gustavo Kuerten,5,9, 5
+Madrid Masters 2005,143,Marat Safin,5,10, 5
+Madrid Masters 2005,143,Juan Carlos Ferrero,4,13, 4
+Madrid Masters 2005,143,Roger Federer,8,4, 8
+Madrid Masters 2005,143,Rafael Nadal,4,14, 4
+Paris Masters 2005,144,Stefan Edberg,4,11, 4
+Paris Masters 2005,144,Andre Agassi,17,1, 17
+Paris Masters 2005,144,Thomas Muster,8,3, 8
+Paris Masters 2005,144,Michael Chang,7,5, 7
+Paris Masters 2005,144,Boris Becker,5,6, 5
+Paris Masters 2005,144,Jim Courier,5,7, 5
+Paris Masters 2005,144,Pete Sampras,11,2, 11
+Paris Masters 2005,144,Andrei Medvedev,4,12, 4
+Paris Masters 2005,144,Thomas Enqvist,3,15, 3
+Paris Masters 2005,144,Marcelo Rios,5,8, 5
+Paris Masters 2005,144,Gustavo Kuerten,5,9, 5
+Paris Masters 2005,144,Marat Safin,5,10, 5
+Paris Masters 2005,144,Juan Carlos Ferrero,4,13, 4
+Paris Masters 2005,144,Roger Federer,8,4, 8
+Paris Masters 2005,144,Rafael Nadal,4,14, 4
+Indian Wells Masters 2006,145,Stefan Edberg,4,11, 4
+Indian Wells Masters 2006,145,Andre Agassi,17,1, 17
+Indian Wells Masters 2006,145,Thomas Muster,8,4, 8
+Indian Wells Masters 2006,145,Michael Chang,7,5, 7
+Indian Wells Masters 2006,145,Boris Becker,5,6, 5
+Indian Wells Masters 2006,145,Jim Courier,5,7, 5
+Indian Wells Masters 2006,145,Pete Sampras,11,2, 11
+Indian Wells Masters 2006,145,Andrei Medvedev,4,12, 4
+Indian Wells Masters 2006,145,Thomas Enqvist,3,15, 3
+Indian Wells Masters 2006,145,Marcelo Rios,5,8, 5
+Indian Wells Masters 2006,145,Gustavo Kuerten,5,9, 5
+Indian Wells Masters 2006,145,Marat Safin,5,10, 5
+Indian Wells Masters 2006,145,Juan Carlos Ferrero,4,13, 4
+Indian Wells Masters 2006,145,Roger Federer,9,3, 9
+Indian Wells Masters 2006,145,Rafael Nadal,4,14, 4
+Miami Masters 2006,146,Stefan Edberg,4,11, 4
+Miami Masters 2006,146,Andre Agassi,17,1, 17
+Miami Masters 2006,146,Thomas Muster,8,4, 8
+Miami Masters 2006,146,Michael Chang,7,5, 7
+Miami Masters 2006,146,Boris Becker,5,6, 5
+Miami Masters 2006,146,Jim Courier,5,7, 5
+Miami Masters 2006,146,Pete Sampras,11,2, 11
+Miami Masters 2006,146,Andrei Medvedev,4,12, 4
+Miami Masters 2006,146,Thomas Enqvist,3,15, 3
+Miami Masters 2006,146,Marcelo Rios,5,8, 5
+Miami Masters 2006,146,Gustavo Kuerten,5,9, 5
+Miami Masters 2006,146,Marat Safin,5,10, 5
+Miami Masters 2006,146,Juan Carlos Ferrero,4,13, 4
+Miami Masters 2006,146,Roger Federer,10,3, 10
+Miami Masters 2006,146,Rafael Nadal,4,14, 4
+Monte Carlo Masters 2006,147,Stefan Edberg,4,12, 4
+Monte Carlo Masters 2006,147,Andre Agassi,17,1, 17
+Monte Carlo Masters 2006,147,Thomas Muster,8,4, 8
+Monte Carlo Masters 2006,147,Michael Chang,7,5, 7
+Monte Carlo Masters 2006,147,Boris Becker,5,6, 5
+Monte Carlo Masters 2006,147,Jim Courier,5,7, 5
+Monte Carlo Masters 2006,147,Pete Sampras,11,2, 11
+Monte Carlo Masters 2006,147,Andrei Medvedev,4,13, 4
+Monte Carlo Masters 2006,147,Thomas Enqvist,3,15, 3
+Monte Carlo Masters 2006,147,Marcelo Rios,5,8, 5
+Monte Carlo Masters 2006,147,Gustavo Kuerten,5,9, 5
+Monte Carlo Masters 2006,147,Marat Safin,5,10, 5
+Monte Carlo Masters 2006,147,Juan Carlos Ferrero,4,14, 4
+Monte Carlo Masters 2006,147,Roger Federer,10,3, 10
+Monte Carlo Masters 2006,147,Rafael Nadal,5,11, 5
+Rome Masters 2006,148,Stefan Edberg,4,12, 4
+Rome Masters 2006,148,Andre Agassi,17,1, 17
+Rome Masters 2006,148,Thomas Muster,8,4, 8
+Rome Masters 2006,148,Michael Chang,7,5, 7
+Rome Masters 2006,148,Boris Becker,5,7, 5
+Rome Masters 2006,148,Jim Courier,5,8, 5
+Rome Masters 2006,148,Pete Sampras,11,2, 11
+Rome Masters 2006,148,Andrei Medvedev,4,13, 4
+Rome Masters 2006,148,Thomas Enqvist,3,15, 3
+Rome Masters 2006,148,Marcelo Rios,5,9, 5
+Rome Masters 2006,148,Gustavo Kuerten,5,10, 5
+Rome Masters 2006,148,Marat Safin,5,11, 5
+Rome Masters 2006,148,Juan Carlos Ferrero,4,14, 4
+Rome Masters 2006,148,Roger Federer,10,3, 10
+Rome Masters 2006,148,Rafael Nadal,6,6, 6
+Hamburg Masters 2006,149,Stefan Edberg,4,12, 4
+Hamburg Masters 2006,149,Andre Agassi,17,1, 17
+Hamburg Masters 2006,149,Thomas Muster,8,4, 8
+Hamburg Masters 2006,149,Michael Chang,7,5, 7
+Hamburg Masters 2006,149,Boris Becker,5,7, 5
+Hamburg Masters 2006,149,Jim Courier,5,8, 5
+Hamburg Masters 2006,149,Pete Sampras,11,2, 11
+Hamburg Masters 2006,149,Andrei Medvedev,4,13, 4
+Hamburg Masters 2006,149,Thomas Enqvist,3,15, 3
+Hamburg Masters 2006,149,Marcelo Rios,5,9, 5
+Hamburg Masters 2006,149,Gustavo Kuerten,5,10, 5
+Hamburg Masters 2006,149,Marat Safin,5,11, 5
+Hamburg Masters 2006,149,Juan Carlos Ferrero,4,14, 4
+Hamburg Masters 2006,149,Roger Federer,10,3, 10
+Hamburg Masters 2006,149,Rafael Nadal,6,6, 6
+Canada Masters 2006,150,Stefan Edberg,4,12, 4
+Canada Masters 2006,150,Andre Agassi,17,1, 17
+Canada Masters 2006,150,Thomas Muster,8,4, 8
+Canada Masters 2006,150,Michael Chang,7,5, 7
+Canada Masters 2006,150,Boris Becker,5,7, 5
+Canada Masters 2006,150,Jim Courier,5,8, 5
+Canada Masters 2006,150,Pete Sampras,11,2, 11
+Canada Masters 2006,150,Andrei Medvedev,4,13, 4
+Canada Masters 2006,150,Thomas Enqvist,3,15, 3
+Canada Masters 2006,150,Marcelo Rios,5,9, 5
+Canada Masters 2006,150,Gustavo Kuerten,5,10, 5
+Canada Masters 2006,150,Marat Safin,5,11, 5
+Canada Masters 2006,150,Juan Carlos Ferrero,4,14, 4
+Canada Masters 2006,150,Roger Federer,11,3, 11
+Canada Masters 2006,150,Rafael Nadal,6,6, 6
+Cincinnati Masters 2006,151,Stefan Edberg,4,12, 4
+Cincinnati Masters 2006,151,Andre Agassi,17,1, 17
+Cincinnati Masters 2006,151,Thomas Muster,8,4, 8
+Cincinnati Masters 2006,151,Michael Chang,7,5, 7
+Cincinnati Masters 2006,151,Boris Becker,5,7, 5
+Cincinnati Masters 2006,151,Jim Courier,5,8, 5
+Cincinnati Masters 2006,151,Pete Sampras,11,2, 11
+Cincinnati Masters 2006,151,Andrei Medvedev,4,13, 4
+Cincinnati Masters 2006,151,Marcelo Rios,5,9, 5
+Cincinnati Masters 2006,151,Gustavo Kuerten,5,10, 5
+Cincinnati Masters 2006,151,Marat Safin,5,11, 5
+Cincinnati Masters 2006,151,Juan Carlos Ferrero,4,14, 4
+Cincinnati Masters 2006,151,Roger Federer,11,3, 11
+Cincinnati Masters 2006,151,Andy Roddick,4,15, 4
+Cincinnati Masters 2006,151,Rafael Nadal,6,6, 6
+Madrid Masters 2006,152,Stefan Edberg,4,12, 4
+Madrid Masters 2006,152,Andre Agassi,17,1, 17
+Madrid Masters 2006,152,Thomas Muster,8,4, 8
+Madrid Masters 2006,152,Michael Chang,7,5, 7
+Madrid Masters 2006,152,Boris Becker,5,7, 5
+Madrid Masters 2006,152,Jim Courier,5,8, 5
+Madrid Masters 2006,152,Pete Sampras,11,3, 11
+Madrid Masters 2006,152,Andrei Medvedev,4,13, 4
+Madrid Masters 2006,152,Marcelo Rios,5,9, 5
+Madrid Masters 2006,152,Gustavo Kuerten,5,10, 5
+Madrid Masters 2006,152,Marat Safin,5,11, 5
+Madrid Masters 2006,152,Juan Carlos Ferrero,4,14, 4
+Madrid Masters 2006,152,Roger Federer,12,2, 12
+Madrid Masters 2006,152,Andy Roddick,4,15, 4
+Madrid Masters 2006,152,Rafael Nadal,6,6, 6
+Paris Masters 2006,153,Stefan Edberg,4,12, 4
+Paris Masters 2006,153,Andre Agassi,17,1, 17
+Paris Masters 2006,153,Thomas Muster,8,4, 8
+Paris Masters 2006,153,Michael Chang,7,5, 7
+Paris Masters 2006,153,Boris Becker,5,7, 5
+Paris Masters 2006,153,Jim Courier,5,8, 5
+Paris Masters 2006,153,Pete Sampras,11,3, 11
+Paris Masters 2006,153,Andrei Medvedev,4,13, 4
+Paris Masters 2006,153,Marcelo Rios,5,9, 5
+Paris Masters 2006,153,Gustavo Kuerten,5,10, 5
+Paris Masters 2006,153,Marat Safin,5,11, 5
+Paris Masters 2006,153,Juan Carlos Ferrero,4,14, 4
+Paris Masters 2006,153,Roger Federer,12,2, 12
+Paris Masters 2006,153,Andy Roddick,4,15, 4
+Paris Masters 2006,153,Rafael Nadal,6,6, 6
+Indian Wells Masters 2007,154,Stefan Edberg,4,12, 4
+Indian Wells Masters 2007,154,Andre Agassi,17,1, 17
+Indian Wells Masters 2007,154,Thomas Muster,8,4, 8
+Indian Wells Masters 2007,154,Michael Chang,7,5, 7
+Indian Wells Masters 2007,154,Boris Becker,5,7, 5
+Indian Wells Masters 2007,154,Jim Courier,5,8, 5
+Indian Wells Masters 2007,154,Pete Sampras,11,3, 11
+Indian Wells Masters 2007,154,Andrei Medvedev,4,13, 4
+Indian Wells Masters 2007,154,Marcelo Rios,5,9, 5
+Indian Wells Masters 2007,154,Gustavo Kuerten,5,10, 5
+Indian Wells Masters 2007,154,Marat Safin,5,11, 5
+Indian Wells Masters 2007,154,Juan Carlos Ferrero,4,14, 4
+Indian Wells Masters 2007,154,Roger Federer,12,2, 12
+Indian Wells Masters 2007,154,Andy Roddick,4,15, 4
+Indian Wells Masters 2007,154,Rafael Nadal,7,6, 7
+Miami Masters 2007,155,Stefan Edberg,4,12, 4
+Miami Masters 2007,155,Andre Agassi,17,1, 17
+Miami Masters 2007,155,Thomas Muster,8,4, 8
+Miami Masters 2007,155,Michael Chang,7,5, 7
+Miami Masters 2007,155,Boris Becker,5,7, 5
+Miami Masters 2007,155,Jim Courier,5,8, 5
+Miami Masters 2007,155,Pete Sampras,11,3, 11
+Miami Masters 2007,155,Andrei Medvedev,4,13, 4
+Miami Masters 2007,155,Marcelo Rios,5,9, 5
+Miami Masters 2007,155,Gustavo Kuerten,5,10, 5
+Miami Masters 2007,155,Marat Safin,5,11, 5
+Miami Masters 2007,155,Juan Carlos Ferrero,4,14, 4
+Miami Masters 2007,155,Roger Federer,12,2, 12
+Miami Masters 2007,155,Andy Roddick,4,15, 4
+Miami Masters 2007,155,Rafael Nadal,7,6, 7
+Monte Carlo Masters 2007,156,Stefan Edberg,4,12, 4
+Monte Carlo Masters 2007,156,Andre Agassi,17,1, 17
+Monte Carlo Masters 2007,156,Thomas Muster,8,4, 8
+Monte Carlo Masters 2007,156,Michael Chang,7,6, 7
+Monte Carlo Masters 2007,156,Boris Becker,5,7, 5
+Monte Carlo Masters 2007,156,Jim Courier,5,8, 5
+Monte Carlo Masters 2007,156,Pete Sampras,11,3, 11
+Monte Carlo Masters 2007,156,Andrei Medvedev,4,13, 4
+Monte Carlo Masters 2007,156,Marcelo Rios,5,9, 5
+Monte Carlo Masters 2007,156,Gustavo Kuerten,5,10, 5
+Monte Carlo Masters 2007,156,Marat Safin,5,11, 5
+Monte Carlo Masters 2007,156,Juan Carlos Ferrero,4,14, 4
+Monte Carlo Masters 2007,156,Roger Federer,12,2, 12
+Monte Carlo Masters 2007,156,Andy Roddick,4,15, 4
+Monte Carlo Masters 2007,156,Rafael Nadal,8,5, 8
+Rome Masters 2007,157,Stefan Edberg,4,12, 4
+Rome Masters 2007,157,Andre Agassi,17,1, 17
+Rome Masters 2007,157,Thomas Muster,8,5, 8
+Rome Masters 2007,157,Michael Chang,7,6, 7
+Rome Masters 2007,157,Boris Becker,5,7, 5
+Rome Masters 2007,157,Jim Courier,5,8, 5
+Rome Masters 2007,157,Pete Sampras,11,3, 11
+Rome Masters 2007,157,Andrei Medvedev,4,13, 4
+Rome Masters 2007,157,Marcelo Rios,5,9, 5
+Rome Masters 2007,157,Gustavo Kuerten,5,10, 5
+Rome Masters 2007,157,Marat Safin,5,11, 5
+Rome Masters 2007,157,Juan Carlos Ferrero,4,14, 4
+Rome Masters 2007,157,Roger Federer,12,2, 12
+Rome Masters 2007,157,Andy Roddick,4,15, 4
+Rome Masters 2007,157,Rafael Nadal,9,4, 9
+Hamburg Masters 2007,158,Stefan Edberg,4,12, 4
+Hamburg Masters 2007,158,Andre Agassi,17,1, 17
+Hamburg Masters 2007,158,Thomas Muster,8,5, 8
+Hamburg Masters 2007,158,Michael Chang,7,6, 7
+Hamburg Masters 2007,158,Boris Becker,5,7, 5
+Hamburg Masters 2007,158,Jim Courier,5,8, 5
+Hamburg Masters 2007,158,Pete Sampras,11,3, 11
+Hamburg Masters 2007,158,Andrei Medvedev,4,13, 4
+Hamburg Masters 2007,158,Marcelo Rios,5,9, 5
+Hamburg Masters 2007,158,Gustavo Kuerten,5,10, 5
+Hamburg Masters 2007,158,Marat Safin,5,11, 5
+Hamburg Masters 2007,158,Juan Carlos Ferrero,4,14, 4
+Hamburg Masters 2007,158,Roger Federer,13,2, 13
+Hamburg Masters 2007,158,Andy Roddick,4,15, 4
+Hamburg Masters 2007,158,Rafael Nadal,9,4, 9
+Canada Masters 2007,159,Stefan Edberg,4,12, 4
+Canada Masters 2007,159,Andre Agassi,17,1, 17
+Canada Masters 2007,159,Thomas Muster,8,5, 8
+Canada Masters 2007,159,Michael Chang,7,6, 7
+Canada Masters 2007,159,Boris Becker,5,7, 5
+Canada Masters 2007,159,Jim Courier,5,8, 5
+Canada Masters 2007,159,Pete Sampras,11,3, 11
+Canada Masters 2007,159,Andrei Medvedev,4,13, 4
+Canada Masters 2007,159,Marcelo Rios,5,9, 5
+Canada Masters 2007,159,Gustavo Kuerten,5,10, 5
+Canada Masters 2007,159,Marat Safin,5,11, 5
+Canada Masters 2007,159,Juan Carlos Ferrero,4,14, 4
+Canada Masters 2007,159,Roger Federer,13,2, 13
+Canada Masters 2007,159,Andy Roddick,4,15, 4
+Canada Masters 2007,159,Rafael Nadal,9,4, 9
+Cincinnati Masters 2007,160,Stefan Edberg,4,12, 4
+Cincinnati Masters 2007,160,Andre Agassi,17,1, 17
+Cincinnati Masters 2007,160,Thomas Muster,8,5, 8
+Cincinnati Masters 2007,160,Michael Chang,7,6, 7
+Cincinnati Masters 2007,160,Boris Becker,5,7, 5
+Cincinnati Masters 2007,160,Jim Courier,5,8, 5
+Cincinnati Masters 2007,160,Pete Sampras,11,3, 11
+Cincinnati Masters 2007,160,Andrei Medvedev,4,13, 4
+Cincinnati Masters 2007,160,Marcelo Rios,5,9, 5
+Cincinnati Masters 2007,160,Gustavo Kuerten,5,10, 5
+Cincinnati Masters 2007,160,Marat Safin,5,11, 5
+Cincinnati Masters 2007,160,Juan Carlos Ferrero,4,14, 4
+Cincinnati Masters 2007,160,Roger Federer,14,2, 14
+Cincinnati Masters 2007,160,Andy Roddick,4,15, 4
+Cincinnati Masters 2007,160,Rafael Nadal,9,4, 9
+Madrid Masters 2007,161,Stefan Edberg,4,12, 4
+Madrid Masters 2007,161,Andre Agassi,17,1, 17
+Madrid Masters 2007,161,Thomas Muster,8,5, 8
+Madrid Masters 2007,161,Michael Chang,7,6, 7
+Madrid Masters 2007,161,Boris Becker,5,7, 5
+Madrid Masters 2007,161,Jim Courier,5,8, 5
+Madrid Masters 2007,161,Pete Sampras,11,3, 11
+Madrid Masters 2007,161,Andrei Medvedev,4,13, 4
+Madrid Masters 2007,161,Marcelo Rios,5,9, 5
+Madrid Masters 2007,161,Gustavo Kuerten,5,10, 5
+Madrid Masters 2007,161,Marat Safin,5,11, 5
+Madrid Masters 2007,161,Juan Carlos Ferrero,4,14, 4
+Madrid Masters 2007,161,Roger Federer,14,2, 14
+Madrid Masters 2007,161,Andy Roddick,4,15, 4
+Madrid Masters 2007,161,Rafael Nadal,9,4, 9
+Paris Masters 2007,162,Stefan Edberg,4,12, 4
+Paris Masters 2007,162,Andre Agassi,17,1, 17
+Paris Masters 2007,162,Thomas Muster,8,5, 8
+Paris Masters 2007,162,Michael Chang,7,6, 7
+Paris Masters 2007,162,Boris Becker,5,7, 5
+Paris Masters 2007,162,Jim Courier,5,8, 5
+Paris Masters 2007,162,Pete Sampras,11,3, 11
+Paris Masters 2007,162,Andrei Medvedev,4,13, 4
+Paris Masters 2007,162,Marcelo Rios,5,9, 5
+Paris Masters 2007,162,Gustavo Kuerten,5,10, 5
+Paris Masters 2007,162,Marat Safin,5,11, 5
+Paris Masters 2007,162,Juan Carlos Ferrero,4,14, 4
+Paris Masters 2007,162,Roger Federer,14,2, 14
+Paris Masters 2007,162,Andy Roddick,4,15, 4
+Paris Masters 2007,162,Rafael Nadal,9,4, 9
+Indian Wells Masters 2008,163,Stefan Edberg,4,12, 4
+Indian Wells Masters 2008,163,Andre Agassi,17,1, 17
+Indian Wells Masters 2008,163,Thomas Muster,8,5, 8
+Indian Wells Masters 2008,163,Michael Chang,7,6, 7
+Indian Wells Masters 2008,163,Boris Becker,5,7, 5
+Indian Wells Masters 2008,163,Jim Courier,5,8, 5
+Indian Wells Masters 2008,163,Pete Sampras,11,3, 11
+Indian Wells Masters 2008,163,Andrei Medvedev,4,13, 4
+Indian Wells Masters 2008,163,Marcelo Rios,5,9, 5
+Indian Wells Masters 2008,163,Gustavo Kuerten,5,10, 5
+Indian Wells Masters 2008,163,Marat Safin,5,11, 5
+Indian Wells Masters 2008,163,Juan Carlos Ferrero,4,14, 4
+Indian Wells Masters 2008,163,Roger Federer,14,2, 14
+Indian Wells Masters 2008,163,Andy Roddick,4,15, 4
+Indian Wells Masters 2008,163,Rafael Nadal,9,4, 9
+Miami Masters 2008,164,Stefan Edberg,4,12, 4
+Miami Masters 2008,164,Andre Agassi,17,1, 17
+Miami Masters 2008,164,Thomas Muster,8,5, 8
+Miami Masters 2008,164,Michael Chang,7,6, 7
+Miami Masters 2008,164,Boris Becker,5,7, 5
+Miami Masters 2008,164,Jim Courier,5,8, 5
+Miami Masters 2008,164,Pete Sampras,11,3, 11
+Miami Masters 2008,164,Andrei Medvedev,4,13, 4
+Miami Masters 2008,164,Marcelo Rios,5,9, 5
+Miami Masters 2008,164,Gustavo Kuerten,5,10, 5
+Miami Masters 2008,164,Marat Safin,5,11, 5
+Miami Masters 2008,164,Juan Carlos Ferrero,4,14, 4
+Miami Masters 2008,164,Roger Federer,14,2, 14
+Miami Masters 2008,164,Andy Roddick,4,15, 4
+Miami Masters 2008,164,Rafael Nadal,9,4, 9
+Monte Carlo Masters 2008,165,Stefan Edberg,4,12, 4
+Monte Carlo Masters 2008,165,Andre Agassi,17,1, 17
+Monte Carlo Masters 2008,165,Thomas Muster,8,5, 8
+Monte Carlo Masters 2008,165,Michael Chang,7,6, 7
+Monte Carlo Masters 2008,165,Boris Becker,5,7, 5
+Monte Carlo Masters 2008,165,Jim Courier,5,8, 5
+Monte Carlo Masters 2008,165,Pete Sampras,11,3, 11
+Monte Carlo Masters 2008,165,Andrei Medvedev,4,13, 4
+Monte Carlo Masters 2008,165,Marcelo Rios,5,9, 5
+Monte Carlo Masters 2008,165,Gustavo Kuerten,5,10, 5
+Monte Carlo Masters 2008,165,Marat Safin,5,11, 5
+Monte Carlo Masters 2008,165,Juan Carlos Ferrero,4,14, 4
+Monte Carlo Masters 2008,165,Roger Federer,14,2, 14
+Monte Carlo Masters 2008,165,Andy Roddick,4,15, 4
+Monte Carlo Masters 2008,165,Rafael Nadal,10,4, 10
+Rome Masters 2008,166,Stefan Edberg,4,12, 4
+Rome Masters 2008,166,Andre Agassi,17,1, 17
+Rome Masters 2008,166,Thomas Muster,8,5, 8
+Rome Masters 2008,166,Michael Chang,7,6, 7
+Rome Masters 2008,166,Boris Becker,5,7, 5
+Rome Masters 2008,166,Jim Courier,5,8, 5
+Rome Masters 2008,166,Pete Sampras,11,3, 11
+Rome Masters 2008,166,Andrei Medvedev,4,13, 4
+Rome Masters 2008,166,Marcelo Rios,5,9, 5
+Rome Masters 2008,166,Gustavo Kuerten,5,10, 5
+Rome Masters 2008,166,Marat Safin,5,11, 5
+Rome Masters 2008,166,Juan Carlos Ferrero,4,14, 4
+Rome Masters 2008,166,Roger Federer,14,2, 14
+Rome Masters 2008,166,Andy Roddick,4,15, 4
+Rome Masters 2008,166,Rafael Nadal,10,4, 10
+Hamburg Masters 2008,167,Stefan Edberg,4,12, 4
+Hamburg Masters 2008,167,Andre Agassi,17,1, 17
+Hamburg Masters 2008,167,Thomas Muster,8,5, 8
+Hamburg Masters 2008,167,Michael Chang,7,6, 7
+Hamburg Masters 2008,167,Boris Becker,5,7, 5
+Hamburg Masters 2008,167,Jim Courier,5,8, 5
+Hamburg Masters 2008,167,Pete Sampras,11,3, 11
+Hamburg Masters 2008,167,Andrei Medvedev,4,13, 4
+Hamburg Masters 2008,167,Marcelo Rios,5,9, 5
+Hamburg Masters 2008,167,Gustavo Kuerten,5,10, 5
+Hamburg Masters 2008,167,Marat Safin,5,11, 5
+Hamburg Masters 2008,167,Juan Carlos Ferrero,4,14, 4
+Hamburg Masters 2008,167,Roger Federer,14,2, 14
+Hamburg Masters 2008,167,Andy Roddick,4,15, 4
+Hamburg Masters 2008,167,Rafael Nadal,11,4, 11
+Canada Masters 2008,168,Stefan Edberg,4,12, 4
+Canada Masters 2008,168,Andre Agassi,17,1, 17
+Canada Masters 2008,168,Thomas Muster,8,5, 8
+Canada Masters 2008,168,Michael Chang,7,6, 7
+Canada Masters 2008,168,Boris Becker,5,7, 5
+Canada Masters 2008,168,Jim Courier,5,8, 5
+Canada Masters 2008,168,Pete Sampras,11,4, 11
+Canada Masters 2008,168,Andrei Medvedev,4,13, 4
+Canada Masters 2008,168,Marcelo Rios,5,9, 5
+Canada Masters 2008,168,Gustavo Kuerten,5,10, 5
+Canada Masters 2008,168,Marat Safin,5,11, 5
+Canada Masters 2008,168,Juan Carlos Ferrero,4,14, 4
+Canada Masters 2008,168,Roger Federer,14,2, 14
+Canada Masters 2008,168,Andy Roddick,4,15, 4
+Canada Masters 2008,168,Rafael Nadal,12,3, 12
+Cincinnati Masters 2008,169,Stefan Edberg,4,12, 4
+Cincinnati Masters 2008,169,Andre Agassi,17,1, 17
+Cincinnati Masters 2008,169,Thomas Muster,8,5, 8
+Cincinnati Masters 2008,169,Michael Chang,7,6, 7
+Cincinnati Masters 2008,169,Boris Becker,5,7, 5
+Cincinnati Masters 2008,169,Jim Courier,5,8, 5
+Cincinnati Masters 2008,169,Pete Sampras,11,4, 11
+Cincinnati Masters 2008,169,Andrei Medvedev,4,13, 4
+Cincinnati Masters 2008,169,Marcelo Rios,5,9, 5
+Cincinnati Masters 2008,169,Gustavo Kuerten,5,10, 5
+Cincinnati Masters 2008,169,Marat Safin,5,11, 5
+Cincinnati Masters 2008,169,Juan Carlos Ferrero,4,14, 4
+Cincinnati Masters 2008,169,Roger Federer,14,2, 14
+Cincinnati Masters 2008,169,Andy Roddick,4,15, 4
+Cincinnati Masters 2008,169,Rafael Nadal,12,3, 12
+Madrid Masters 2008,170,Stefan Edberg,4,12, 4
+Madrid Masters 2008,170,Andre Agassi,17,1, 17
+Madrid Masters 2008,170,Thomas Muster,8,5, 8
+Madrid Masters 2008,170,Michael Chang,7,6, 7
+Madrid Masters 2008,170,Boris Becker,5,7, 5
+Madrid Masters 2008,170,Jim Courier,5,8, 5
+Madrid Masters 2008,170,Pete Sampras,11,4, 11
+Madrid Masters 2008,170,Andrei Medvedev,4,13, 4
+Madrid Masters 2008,170,Marcelo Rios,5,9, 5
+Madrid Masters 2008,170,Gustavo Kuerten,5,10, 5
+Madrid Masters 2008,170,Marat Safin,5,11, 5
+Madrid Masters 2008,170,Juan Carlos Ferrero,4,14, 4
+Madrid Masters 2008,170,Roger Federer,14,2, 14
+Madrid Masters 2008,170,Andy Roddick,4,15, 4
+Madrid Masters 2008,170,Rafael Nadal,12,3, 12
+Paris Masters 2008,171,Stefan Edberg,4,12, 4
+Paris Masters 2008,171,Andre Agassi,17,1, 17
+Paris Masters 2008,171,Thomas Muster,8,5, 8
+Paris Masters 2008,171,Michael Chang,7,6, 7
+Paris Masters 2008,171,Boris Becker,5,7, 5
+Paris Masters 2008,171,Jim Courier,5,8, 5
+Paris Masters 2008,171,Pete Sampras,11,4, 11
+Paris Masters 2008,171,Andrei Medvedev,4,13, 4
+Paris Masters 2008,171,Marcelo Rios,5,9, 5
+Paris Masters 2008,171,Gustavo Kuerten,5,10, 5
+Paris Masters 2008,171,Marat Safin,5,11, 5
+Paris Masters 2008,171,Juan Carlos Ferrero,4,14, 4
+Paris Masters 2008,171,Roger Federer,14,2, 14
+Paris Masters 2008,171,Andy Roddick,4,15, 4
+Paris Masters 2008,171,Rafael Nadal,12,3, 12
+Indian Wells Masters 2009,172,Stefan Edberg,4,12, 4
+Indian Wells Masters 2009,172,Andre Agassi,17,1, 17
+Indian Wells Masters 2009,172,Thomas Muster,8,5, 8
+Indian Wells Masters 2009,172,Michael Chang,7,6, 7
+Indian Wells Masters 2009,172,Boris Becker,5,7, 5
+Indian Wells Masters 2009,172,Jim Courier,5,8, 5
+Indian Wells Masters 2009,172,Pete Sampras,11,4, 11
+Indian Wells Masters 2009,172,Andrei Medvedev,4,13, 4
+Indian Wells Masters 2009,172,Marcelo Rios,5,9, 5
+Indian Wells Masters 2009,172,Gustavo Kuerten,5,10, 5
+Indian Wells Masters 2009,172,Marat Safin,5,11, 5
+Indian Wells Masters 2009,172,Juan Carlos Ferrero,4,14, 4
+Indian Wells Masters 2009,172,Roger Federer,14,2, 14
+Indian Wells Masters 2009,172,Andy Roddick,4,15, 4
+Indian Wells Masters 2009,172,Rafael Nadal,13,3, 13
+Miami Masters 2009,173,Stefan Edberg,4,12, 4
+Miami Masters 2009,173,Andre Agassi,17,1, 17
+Miami Masters 2009,173,Thomas Muster,8,5, 8
+Miami Masters 2009,173,Michael Chang,7,6, 7
+Miami Masters 2009,173,Boris Becker,5,7, 5
+Miami Masters 2009,173,Jim Courier,5,8, 5
+Miami Masters 2009,173,Pete Sampras,11,4, 11
+Miami Masters 2009,173,Andrei Medvedev,4,13, 4
+Miami Masters 2009,173,Marcelo Rios,5,9, 5
+Miami Masters 2009,173,Gustavo Kuerten,5,10, 5
+Miami Masters 2009,173,Marat Safin,5,11, 5
+Miami Masters 2009,173,Juan Carlos Ferrero,4,14, 4
+Miami Masters 2009,173,Roger Federer,14,2, 14
+Miami Masters 2009,173,Andy Roddick,4,15, 4
+Miami Masters 2009,173,Rafael Nadal,13,3, 13
+Monte Carlo Masters 2009,174,Stefan Edberg,4,12, 4
+Monte Carlo Masters 2009,174,Andre Agassi,17,1, 17
+Monte Carlo Masters 2009,174,Thomas Muster,8,5, 8
+Monte Carlo Masters 2009,174,Michael Chang,7,6, 7
+Monte Carlo Masters 2009,174,Boris Becker,5,7, 5
+Monte Carlo Masters 2009,174,Jim Courier,5,8, 5
+Monte Carlo Masters 2009,174,Pete Sampras,11,4, 11
+Monte Carlo Masters 2009,174,Andrei Medvedev,4,13, 4
+Monte Carlo Masters 2009,174,Marcelo Rios,5,9, 5
+Monte Carlo Masters 2009,174,Gustavo Kuerten,5,10, 5
+Monte Carlo Masters 2009,174,Marat Safin,5,11, 5
+Monte Carlo Masters 2009,174,Juan Carlos Ferrero,4,14, 4
+Monte Carlo Masters 2009,174,Roger Federer,14,2, 14
+Monte Carlo Masters 2009,174,Andy Roddick,4,15, 4
+Monte Carlo Masters 2009,174,Rafael Nadal,14,3, 14
+Rome Masters 2009,175,Stefan Edberg,4,12, 4
+Rome Masters 2009,175,Andre Agassi,17,1, 17
+Rome Masters 2009,175,Thomas Muster,8,5, 8
+Rome Masters 2009,175,Michael Chang,7,6, 7
+Rome Masters 2009,175,Boris Becker,5,7, 5
+Rome Masters 2009,175,Jim Courier,5,8, 5
+Rome Masters 2009,175,Pete Sampras,11,4, 11
+Rome Masters 2009,175,Andrei Medvedev,4,13, 4
+Rome Masters 2009,175,Marcelo Rios,5,9, 5
+Rome Masters 2009,175,Gustavo Kuerten,5,10, 5
+Rome Masters 2009,175,Marat Safin,5,11, 5
+Rome Masters 2009,175,Juan Carlos Ferrero,4,14, 4
+Rome Masters 2009,175,Roger Federer,14,3, 14
+Rome Masters 2009,175,Andy Roddick,4,15, 4
+Rome Masters 2009,175,Rafael Nadal,15,2, 15
+Madrid Masters 2009,176,Stefan Edberg,4,12, 4
+Madrid Masters 2009,176,Andre Agassi,17,1, 17
+Madrid Masters 2009,176,Thomas Muster,8,5, 8
+Madrid Masters 2009,176,Michael Chang,7,6, 7
+Madrid Masters 2009,176,Boris Becker,5,7, 5
+Madrid Masters 2009,176,Jim Courier,5,8, 5
+Madrid Masters 2009,176,Pete Sampras,11,4, 11
+Madrid Masters 2009,176,Andrei Medvedev,4,13, 4
+Madrid Masters 2009,176,Marcelo Rios,5,9, 5
+Madrid Masters 2009,176,Gustavo Kuerten,5,10, 5
+Madrid Masters 2009,176,Marat Safin,5,11, 5
+Madrid Masters 2009,176,Juan Carlos Ferrero,4,14, 4
+Madrid Masters 2009,176,Roger Federer,15,2, 15
+Madrid Masters 2009,176,Andy Roddick,4,15, 4
+Madrid Masters 2009,176,Rafael Nadal,15,3, 15
+Canada Masters 2009,177,Stefan Edberg,4,12, 4
+Canada Masters 2009,177,Andre Agassi,17,1, 17
+Canada Masters 2009,177,Thomas Muster,8,5, 8
+Canada Masters 2009,177,Michael Chang,7,6, 7
+Canada Masters 2009,177,Boris Becker,5,7, 5
+Canada Masters 2009,177,Jim Courier,5,8, 5
+Canada Masters 2009,177,Pete Sampras,11,4, 11
+Canada Masters 2009,177,Andrei Medvedev,4,13, 4
+Canada Masters 2009,177,Marcelo Rios,5,9, 5
+Canada Masters 2009,177,Gustavo Kuerten,5,10, 5
+Canada Masters 2009,177,Marat Safin,5,11, 5
+Canada Masters 2009,177,Juan Carlos Ferrero,4,14, 4
+Canada Masters 2009,177,Roger Federer,15,2, 15
+Canada Masters 2009,177,Andy Roddick,4,15, 4
+Canada Masters 2009,177,Rafael Nadal,15,3, 15
+Cincinnati Masters 2009,178,Stefan Edberg,4,12, 4
+Cincinnati Masters 2009,178,Andre Agassi,17,1, 17
+Cincinnati Masters 2009,178,Thomas Muster,8,5, 8
+Cincinnati Masters 2009,178,Michael Chang,7,6, 7
+Cincinnati Masters 2009,178,Boris Becker,5,7, 5
+Cincinnati Masters 2009,178,Jim Courier,5,8, 5
+Cincinnati Masters 2009,178,Pete Sampras,11,4, 11
+Cincinnati Masters 2009,178,Andrei Medvedev,4,13, 4
+Cincinnati Masters 2009,178,Marcelo Rios,5,9, 5
+Cincinnati Masters 2009,178,Gustavo Kuerten,5,10, 5
+Cincinnati Masters 2009,178,Marat Safin,5,11, 5
+Cincinnati Masters 2009,178,Juan Carlos Ferrero,4,14, 4
+Cincinnati Masters 2009,178,Roger Federer,16,2, 16
+Cincinnati Masters 2009,178,Andy Roddick,4,15, 4
+Cincinnati Masters 2009,178,Rafael Nadal,15,3, 15
+Shanghai Masters 2009,179,Stefan Edberg,4,12, 4
+Shanghai Masters 2009,179,Andre Agassi,17,1, 17
+Shanghai Masters 2009,179,Thomas Muster,8,5, 8
+Shanghai Masters 2009,179,Michael Chang,7,6, 7
+Shanghai Masters 2009,179,Boris Becker,5,7, 5
+Shanghai Masters 2009,179,Jim Courier,5,8, 5
+Shanghai Masters 2009,179,Pete Sampras,11,4, 11
+Shanghai Masters 2009,179,Andrei Medvedev,4,13, 4
+Shanghai Masters 2009,179,Marcelo Rios,5,9, 5
+Shanghai Masters 2009,179,Gustavo Kuerten,5,10, 5
+Shanghai Masters 2009,179,Marat Safin,5,11, 5
+Shanghai Masters 2009,179,Juan Carlos Ferrero,4,14, 4
+Shanghai Masters 2009,179,Roger Federer,16,2, 16
+Shanghai Masters 2009,179,Andy Roddick,4,15, 4
+Shanghai Masters 2009,179,Rafael Nadal,15,3, 15
+Paris Masters 2009,180,Stefan Edberg,4,13, 4
+Paris Masters 2009,180,Andre Agassi,17,1, 17
+Paris Masters 2009,180,Thomas Muster,8,5, 8
+Paris Masters 2009,180,Michael Chang,7,6, 7
+Paris Masters 2009,180,Boris Becker,5,7, 5
+Paris Masters 2009,180,Jim Courier,5,8, 5
+Paris Masters 2009,180,Pete Sampras,11,4, 11
+Paris Masters 2009,180,Andrei Medvedev,4,14, 4
+Paris Masters 2009,180,Marcelo Rios,5,9, 5
+Paris Masters 2009,180,Gustavo Kuerten,5,10, 5
+Paris Masters 2009,180,Marat Safin,5,11, 5
+Paris Masters 2009,180,Juan Carlos Ferrero,4,15, 4
+Paris Masters 2009,180,Roger Federer,16,2, 16
+Paris Masters 2009,180,Rafael Nadal,15,3, 15
+Paris Masters 2009,180,Novak Djokovic,5,12, 5
+Indian Wells Masters 2010,181,Stefan Edberg,4,13, 4
+Indian Wells Masters 2010,181,Andre Agassi,17,1, 17
+Indian Wells Masters 2010,181,Thomas Muster,8,5, 8
+Indian Wells Masters 2010,181,Michael Chang,7,6, 7
+Indian Wells Masters 2010,181,Boris Becker,5,7, 5
+Indian Wells Masters 2010,181,Jim Courier,5,8, 5
+Indian Wells Masters 2010,181,Pete Sampras,11,4, 11
+Indian Wells Masters 2010,181,Andrei Medvedev,4,14, 4
+Indian Wells Masters 2010,181,Marcelo Rios,5,9, 5
+Indian Wells Masters 2010,181,Gustavo Kuerten,5,10, 5
+Indian Wells Masters 2010,181,Marat Safin,5,11, 5
+Indian Wells Masters 2010,181,Juan Carlos Ferrero,4,15, 4
+Indian Wells Masters 2010,181,Roger Federer,16,2, 16
+Indian Wells Masters 2010,181,Rafael Nadal,15,3, 15
+Indian Wells Masters 2010,181,Novak Djokovic,5,12, 5
+Miami Masters 2010,182,Stefan Edberg,4,14, 4
+Miami Masters 2010,182,Andre Agassi,17,1, 17
+Miami Masters 2010,182,Thomas Muster,8,5, 8
+Miami Masters 2010,182,Michael Chang,7,6, 7
+Miami Masters 2010,182,Boris Becker,5,7, 5
+Miami Masters 2010,182,Jim Courier,5,8, 5
+Miami Masters 2010,182,Pete Sampras,11,4, 11
+Miami Masters 2010,182,Andrei Medvedev,4,15, 4
+Miami Masters 2010,182,Marcelo Rios,5,9, 5
+Miami Masters 2010,182,Gustavo Kuerten,5,10, 5
+Miami Masters 2010,182,Marat Safin,5,11, 5
+Miami Masters 2010,182,Roger Federer,16,2, 16
+Miami Masters 2010,182,Andy Roddick,5,12, 5
+Miami Masters 2010,182,Rafael Nadal,15,3, 15
+Miami Masters 2010,182,Novak Djokovic,5,13, 5
+Monte Carlo Masters 2010,183,Stefan Edberg,4,14, 4
+Monte Carlo Masters 2010,183,Andre Agassi,17,1, 17
+Monte Carlo Masters 2010,183,Thomas Muster,8,5, 8
+Monte Carlo Masters 2010,183,Michael Chang,7,6, 7
+Monte Carlo Masters 2010,183,Boris Becker,5,7, 5
+Monte Carlo Masters 2010,183,Jim Courier,5,8, 5
+Monte Carlo Masters 2010,183,Pete Sampras,11,4, 11
+Monte Carlo Masters 2010,183,Andrei Medvedev,4,15, 4
+Monte Carlo Masters 2010,183,Marcelo Rios,5,9, 5
+Monte Carlo Masters 2010,183,Gustavo Kuerten,5,10, 5
+Monte Carlo Masters 2010,183,Marat Safin,5,11, 5
+Monte Carlo Masters 2010,183,Roger Federer,16,2, 16
+Monte Carlo Masters 2010,183,Andy Roddick,5,12, 5
+Monte Carlo Masters 2010,183,Rafael Nadal,16,3, 16
+Monte Carlo Masters 2010,183,Novak Djokovic,5,13, 5
+Rome Masters 2010,184,Stefan Edberg,4,14, 4
+Rome Masters 2010,184,Andre Agassi,17,1, 17
+Rome Masters 2010,184,Thomas Muster,8,5, 8
+Rome Masters 2010,184,Michael Chang,7,6, 7
+Rome Masters 2010,184,Boris Becker,5,7, 5
+Rome Masters 2010,184,Jim Courier,5,8, 5
+Rome Masters 2010,184,Pete Sampras,11,4, 11
+Rome Masters 2010,184,Andrei Medvedev,4,15, 4
+Rome Masters 2010,184,Marcelo Rios,5,9, 5
+Rome Masters 2010,184,Gustavo Kuerten,5,10, 5
+Rome Masters 2010,184,Marat Safin,5,11, 5
+Rome Masters 2010,184,Roger Federer,16,3, 16
+Rome Masters 2010,184,Andy Roddick,5,12, 5
+Rome Masters 2010,184,Rafael Nadal,17,2, 17
+Rome Masters 2010,184,Novak Djokovic,5,13, 5
+Madrid Masters 2010,185,Stefan Edberg,4,14, 4
+Madrid Masters 2010,185,Andre Agassi,17,2, 17
+Madrid Masters 2010,185,Thomas Muster,8,5, 8
+Madrid Masters 2010,185,Michael Chang,7,6, 7
+Madrid Masters 2010,185,Boris Becker,5,7, 5
+Madrid Masters 2010,185,Jim Courier,5,8, 5
+Madrid Masters 2010,185,Pete Sampras,11,4, 11
+Madrid Masters 2010,185,Andrei Medvedev,4,15, 4
+Madrid Masters 2010,185,Marcelo Rios,5,9, 5
+Madrid Masters 2010,185,Gustavo Kuerten,5,10, 5
+Madrid Masters 2010,185,Marat Safin,5,11, 5
+Madrid Masters 2010,185,Roger Federer,16,3, 16
+Madrid Masters 2010,185,Andy Roddick,5,12, 5
+Madrid Masters 2010,185,Rafael Nadal,18,1, 18
+Madrid Masters 2010,185,Novak Djokovic,5,13, 5
+Canada Masters 2010,186,Stefan Edberg,4,15, 4
+Canada Masters 2010,186,Andre Agassi,17,2, 17
+Canada Masters 2010,186,Thomas Muster,8,5, 8
+Canada Masters 2010,186,Michael Chang,7,6, 7
+Canada Masters 2010,186,Boris Becker,5,7, 5
+Canada Masters 2010,186,Jim Courier,5,8, 5
+Canada Masters 2010,186,Pete Sampras,11,4, 11
+Canada Masters 2010,186,Marcelo Rios,5,9, 5
+Canada Masters 2010,186,Gustavo Kuerten,5,10, 5
+Canada Masters 2010,186,Marat Safin,5,11, 5
+Canada Masters 2010,186,Roger Federer,16,3, 16
+Canada Masters 2010,186,Andy Roddick,5,12, 5
+Canada Masters 2010,186,Rafael Nadal,18,1, 18
+Canada Masters 2010,186,Novak Djokovic,5,13, 5
+Canada Masters 2010,186,Andy Murray,5,14, 5
+Cincinnati Masters 2010,187,Stefan Edberg,4,15, 4
+Cincinnati Masters 2010,187,Andre Agassi,17,2, 17
+Cincinnati Masters 2010,187,Thomas Muster,8,5, 8
+Cincinnati Masters 2010,187,Michael Chang,7,6, 7
+Cincinnati Masters 2010,187,Boris Becker,5,7, 5
+Cincinnati Masters 2010,187,Jim Courier,5,8, 5
+Cincinnati Masters 2010,187,Pete Sampras,11,4, 11
+Cincinnati Masters 2010,187,Marcelo Rios,5,9, 5
+Cincinnati Masters 2010,187,Gustavo Kuerten,5,10, 5
+Cincinnati Masters 2010,187,Marat Safin,5,11, 5
+Cincinnati Masters 2010,187,Roger Federer,17,3, 17
+Cincinnati Masters 2010,187,Andy Roddick,5,12, 5
+Cincinnati Masters 2010,187,Rafael Nadal,18,1, 18
+Cincinnati Masters 2010,187,Novak Djokovic,5,13, 5
+Cincinnati Masters 2010,187,Andy Murray,5,14, 5
+Shanghai Masters 2010,188,Stefan Edberg,4,15, 4
+Shanghai Masters 2010,188,Andre Agassi,17,2, 17
+Shanghai Masters 2010,188,Thomas Muster,8,5, 8
+Shanghai Masters 2010,188,Michael Chang,7,6, 7
+Shanghai Masters 2010,188,Boris Becker,5,8, 5
+Shanghai Masters 2010,188,Jim Courier,5,9, 5
+Shanghai Masters 2010,188,Pete Sampras,11,4, 11
+Shanghai Masters 2010,188,Marcelo Rios,5,10, 5
+Shanghai Masters 2010,188,Gustavo Kuerten,5,11, 5
+Shanghai Masters 2010,188,Marat Safin,5,12, 5
+Shanghai Masters 2010,188,Roger Federer,17,3, 17
+Shanghai Masters 2010,188,Andy Roddick,5,13, 5
+Shanghai Masters 2010,188,Rafael Nadal,18,1, 18
+Shanghai Masters 2010,188,Novak Djokovic,5,14, 5
+Shanghai Masters 2010,188,Andy Murray,6,7, 6
+Paris Masters 2010,189,Stefan Edberg,4,15, 4
+Paris Masters 2010,189,Andre Agassi,17,2, 17
+Paris Masters 2010,189,Thomas Muster,8,5, 8
+Paris Masters 2010,189,Michael Chang,7,6, 7
+Paris Masters 2010,189,Boris Becker,5,8, 5
+Paris Masters 2010,189,Jim Courier,5,9, 5
+Paris Masters 2010,189,Pete Sampras,11,4, 11
+Paris Masters 2010,189,Marcelo Rios,5,10, 5
+Paris Masters 2010,189,Gustavo Kuerten,5,11, 5
+Paris Masters 2010,189,Marat Safin,5,12, 5
+Paris Masters 2010,189,Roger Federer,17,3, 17
+Paris Masters 2010,189,Andy Roddick,5,13, 5
+Paris Masters 2010,189,Rafael Nadal,18,1, 18
+Paris Masters 2010,189,Novak Djokovic,5,14, 5
+Paris Masters 2010,189,Andy Murray,6,7, 6
+Indian Wells Masters 2011,190,Stefan Edberg,4,15, 4
+Indian Wells Masters 2011,190,Andre Agassi,17,2, 17
+Indian Wells Masters 2011,190,Thomas Muster,8,5, 8
+Indian Wells Masters 2011,190,Michael Chang,7,6, 7
+Indian Wells Masters 2011,190,Boris Becker,5,9, 5
+Indian Wells Masters 2011,190,Jim Courier,5,10, 5
+Indian Wells Masters 2011,190,Pete Sampras,11,4, 11
+Indian Wells Masters 2011,190,Marcelo Rios,5,11, 5
+Indian Wells Masters 2011,190,Gustavo Kuerten,5,12, 5
+Indian Wells Masters 2011,190,Marat Safin,5,13, 5
+Indian Wells Masters 2011,190,Roger Federer,17,3, 17
+Indian Wells Masters 2011,190,Andy Roddick,5,14, 5
+Indian Wells Masters 2011,190,Rafael Nadal,18,1, 18
+Indian Wells Masters 2011,190,Novak Djokovic,6,7, 6
+Indian Wells Masters 2011,190,Andy Murray,6,8, 6
+Miami Masters 2011,191,Stefan Edberg,4,15, 4
+Miami Masters 2011,191,Andre Agassi,17,2, 17
+Miami Masters 2011,191,Thomas Muster,8,5, 8
+Miami Masters 2011,191,Michael Chang,7,6, 7
+Miami Masters 2011,191,Boris Becker,5,9, 5
+Miami Masters 2011,191,Jim Courier,5,10, 5
+Miami Masters 2011,191,Pete Sampras,11,4, 11
+Miami Masters 2011,191,Marcelo Rios,5,11, 5
+Miami Masters 2011,191,Gustavo Kuerten,5,12, 5
+Miami Masters 2011,191,Marat Safin,5,13, 5
+Miami Masters 2011,191,Roger Federer,17,3, 17
+Miami Masters 2011,191,Andy Roddick,5,14, 5
+Miami Masters 2011,191,Rafael Nadal,18,1, 18
+Miami Masters 2011,191,Novak Djokovic,7,7, 7
+Miami Masters 2011,191,Andy Murray,6,8, 6
+Monte Carlo Masters 2011,192,Stefan Edberg,4,15, 4
+Monte Carlo Masters 2011,192,Andre Agassi,17,2, 17
+Monte Carlo Masters 2011,192,Thomas Muster,8,5, 8
+Monte Carlo Masters 2011,192,Michael Chang,7,6, 7
+Monte Carlo Masters 2011,192,Boris Becker,5,9, 5
+Monte Carlo Masters 2011,192,Jim Courier,5,10, 5
+Monte Carlo Masters 2011,192,Pete Sampras,11,4, 11
+Monte Carlo Masters 2011,192,Marcelo Rios,5,11, 5
+Monte Carlo Masters 2011,192,Gustavo Kuerten,5,12, 5
+Monte Carlo Masters 2011,192,Marat Safin,5,13, 5
+Monte Carlo Masters 2011,192,Roger Federer,17,3, 17
+Monte Carlo Masters 2011,192,Andy Roddick,5,14, 5
+Monte Carlo Masters 2011,192,Rafael Nadal,19,1, 19
+Monte Carlo Masters 2011,192,Novak Djokovic,7,7, 7
+Monte Carlo Masters 2011,192,Andy Murray,6,8, 6
+Madrid Masters 2011,193,Stefan Edberg,4,15, 4
+Madrid Masters 2011,193,Andre Agassi,17,2, 17
+Madrid Masters 2011,193,Thomas Muster,8,5, 8
+Madrid Masters 2011,193,Michael Chang,7,7, 7
+Madrid Masters 2011,193,Boris Becker,5,9, 5
+Madrid Masters 2011,193,Jim Courier,5,10, 5
+Madrid Masters 2011,193,Pete Sampras,11,4, 11
+Madrid Masters 2011,193,Marcelo Rios,5,11, 5
+Madrid Masters 2011,193,Gustavo Kuerten,5,12, 5
+Madrid Masters 2011,193,Marat Safin,5,13, 5
+Madrid Masters 2011,193,Roger Federer,17,3, 17
+Madrid Masters 2011,193,Andy Roddick,5,14, 5
+Madrid Masters 2011,193,Rafael Nadal,19,1, 19
+Madrid Masters 2011,193,Novak Djokovic,8,6, 8
+Madrid Masters 2011,193,Andy Murray,6,8, 6
+Rome Masters 2011,194,Stefan Edberg,4,15, 4
+Rome Masters 2011,194,Andre Agassi,17,2, 17
+Rome Masters 2011,194,Thomas Muster,8,6, 8
+Rome Masters 2011,194,Michael Chang,7,7, 7
+Rome Masters 2011,194,Boris Becker,5,9, 5
+Rome Masters 2011,194,Jim Courier,5,10, 5
+Rome Masters 2011,194,Pete Sampras,11,4, 11
+Rome Masters 2011,194,Marcelo Rios,5,11, 5
+Rome Masters 2011,194,Gustavo Kuerten,5,12, 5
+Rome Masters 2011,194,Marat Safin,5,13, 5
+Rome Masters 2011,194,Roger Federer,17,3, 17
+Rome Masters 2011,194,Andy Roddick,5,14, 5
+Rome Masters 2011,194,Rafael Nadal,19,1, 19
+Rome Masters 2011,194,Novak Djokovic,9,5, 9
+Rome Masters 2011,194,Andy Murray,6,8, 6
+Canada Masters 2011,195,Stefan Edberg,4,15, 4
+Canada Masters 2011,195,Andre Agassi,17,2, 17
+Canada Masters 2011,195,Thomas Muster,8,6, 8
+Canada Masters 2011,195,Michael Chang,7,7, 7
+Canada Masters 2011,195,Boris Becker,5,9, 5
+Canada Masters 2011,195,Jim Courier,5,10, 5
+Canada Masters 2011,195,Pete Sampras,11,4, 11
+Canada Masters 2011,195,Marcelo Rios,5,11, 5
+Canada Masters 2011,195,Gustavo Kuerten,5,12, 5
+Canada Masters 2011,195,Marat Safin,5,13, 5
+Canada Masters 2011,195,Roger Federer,17,3, 17
+Canada Masters 2011,195,Andy Roddick,5,14, 5
+Canada Masters 2011,195,Rafael Nadal,19,1, 19
+Canada Masters 2011,195,Novak Djokovic,10,5, 10
+Canada Masters 2011,195,Andy Murray,6,8, 6
+Cincinnati Masters 2011,196,Stefan Edberg,4,15, 4
+Cincinnati Masters 2011,196,Andre Agassi,17,2, 17
+Cincinnati Masters 2011,196,Thomas Muster,8,6, 8
+Cincinnati Masters 2011,196,Michael Chang,7,7, 7
+Cincinnati Masters 2011,196,Boris Becker,5,9, 5
+Cincinnati Masters 2011,196,Jim Courier,5,10, 5
+Cincinnati Masters 2011,196,Pete Sampras,11,4, 11
+Cincinnati Masters 2011,196,Marcelo Rios,5,11, 5
+Cincinnati Masters 2011,196,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2011,196,Marat Safin,5,13, 5
+Cincinnati Masters 2011,196,Roger Federer,17,3, 17
+Cincinnati Masters 2011,196,Andy Roddick,5,14, 5
+Cincinnati Masters 2011,196,Rafael Nadal,19,1, 19
+Cincinnati Masters 2011,196,Novak Djokovic,10,5, 10
+Cincinnati Masters 2011,196,Andy Murray,7,8, 7
+Shanghai Masters 2011,197,Stefan Edberg,4,15, 4
+Shanghai Masters 2011,197,Andre Agassi,17,2, 17
+Shanghai Masters 2011,197,Thomas Muster,8,6, 8
+Shanghai Masters 2011,197,Michael Chang,7,8, 7
+Shanghai Masters 2011,197,Boris Becker,5,9, 5
+Shanghai Masters 2011,197,Jim Courier,5,10, 5
+Shanghai Masters 2011,197,Pete Sampras,11,4, 11
+Shanghai Masters 2011,197,Marcelo Rios,5,11, 5
+Shanghai Masters 2011,197,Gustavo Kuerten,5,12, 5
+Shanghai Masters 2011,197,Marat Safin,5,13, 5
+Shanghai Masters 2011,197,Roger Federer,17,3, 17
+Shanghai Masters 2011,197,Andy Roddick,5,14, 5
+Shanghai Masters 2011,197,Rafael Nadal,19,1, 19
+Shanghai Masters 2011,197,Novak Djokovic,10,5, 10
+Shanghai Masters 2011,197,Andy Murray,8,7, 8
+Paris Masters 2011,198,Stefan Edberg,4,15, 4
+Paris Masters 2011,198,Andre Agassi,17,3, 17
+Paris Masters 2011,198,Thomas Muster,8,6, 8
+Paris Masters 2011,198,Michael Chang,7,8, 7
+Paris Masters 2011,198,Boris Becker,5,9, 5
+Paris Masters 2011,198,Jim Courier,5,10, 5
+Paris Masters 2011,198,Pete Sampras,11,4, 11
+Paris Masters 2011,198,Marcelo Rios,5,11, 5
+Paris Masters 2011,198,Gustavo Kuerten,5,12, 5
+Paris Masters 2011,198,Marat Safin,5,13, 5
+Paris Masters 2011,198,Roger Federer,18,2, 18
+Paris Masters 2011,198,Andy Roddick,5,14, 5
+Paris Masters 2011,198,Rafael Nadal,19,1, 19
+Paris Masters 2011,198,Novak Djokovic,10,5, 10
+Paris Masters 2011,198,Andy Murray,8,7, 8
+Indian Wells Masters 2012,199,Stefan Edberg,4,15, 4
+Indian Wells Masters 2012,199,Andre Agassi,17,3, 17
+Indian Wells Masters 2012,199,Thomas Muster,8,6, 8
+Indian Wells Masters 2012,199,Michael Chang,7,8, 7
+Indian Wells Masters 2012,199,Boris Becker,5,9, 5
+Indian Wells Masters 2012,199,Jim Courier,5,10, 5
+Indian Wells Masters 2012,199,Pete Sampras,11,4, 11
+Indian Wells Masters 2012,199,Marcelo Rios,5,11, 5
+Indian Wells Masters 2012,199,Gustavo Kuerten,5,12, 5
+Indian Wells Masters 2012,199,Marat Safin,5,13, 5
+Indian Wells Masters 2012,199,Roger Federer,19,1, 19
+Indian Wells Masters 2012,199,Andy Roddick,5,14, 5
+Indian Wells Masters 2012,199,Rafael Nadal,19,2, 19
+Indian Wells Masters 2012,199,Novak Djokovic,10,5, 10
+Indian Wells Masters 2012,199,Andy Murray,8,7, 8
+Miami Masters 2012,200,Stefan Edberg,4,15, 4
+Miami Masters 2012,200,Andre Agassi,17,3, 17
+Miami Masters 2012,200,Thomas Muster,8,6, 8
+Miami Masters 2012,200,Michael Chang,7,8, 7
+Miami Masters 2012,200,Boris Becker,5,9, 5
+Miami Masters 2012,200,Jim Courier,5,10, 5
+Miami Masters 2012,200,Pete Sampras,11,4, 11
+Miami Masters 2012,200,Marcelo Rios,5,11, 5
+Miami Masters 2012,200,Gustavo Kuerten,5,12, 5
+Miami Masters 2012,200,Marat Safin,5,13, 5
+Miami Masters 2012,200,Roger Federer,19,1, 19
+Miami Masters 2012,200,Andy Roddick,5,14, 5
+Miami Masters 2012,200,Rafael Nadal,19,2, 19
+Miami Masters 2012,200,Novak Djokovic,11,5, 11
+Miami Masters 2012,200,Andy Murray,8,7, 8
+Monte Carlo Masters 2012,201,Stefan Edberg,4,15, 4
+Monte Carlo Masters 2012,201,Andre Agassi,17,3, 17
+Monte Carlo Masters 2012,201,Thomas Muster,8,6, 8
+Monte Carlo Masters 2012,201,Michael Chang,7,8, 7
+Monte Carlo Masters 2012,201,Boris Becker,5,9, 5
+Monte Carlo Masters 2012,201,Jim Courier,5,10, 5
+Monte Carlo Masters 2012,201,Pete Sampras,11,4, 11
+Monte Carlo Masters 2012,201,Marcelo Rios,5,11, 5
+Monte Carlo Masters 2012,201,Gustavo Kuerten,5,12, 5
+Monte Carlo Masters 2012,201,Marat Safin,5,13, 5
+Monte Carlo Masters 2012,201,Roger Federer,19,2, 19
+Monte Carlo Masters 2012,201,Andy Roddick,5,14, 5
+Monte Carlo Masters 2012,201,Rafael Nadal,20,1, 20
+Monte Carlo Masters 2012,201,Novak Djokovic,11,5, 11
+Monte Carlo Masters 2012,201,Andy Murray,8,7, 8
+Madrid Masters 2012,202,Stefan Edberg,4,15, 4
+Madrid Masters 2012,202,Andre Agassi,17,3, 17
+Madrid Masters 2012,202,Thomas Muster,8,6, 8
+Madrid Masters 2012,202,Michael Chang,7,8, 7
+Madrid Masters 2012,202,Boris Becker,5,9, 5
+Madrid Masters 2012,202,Jim Courier,5,10, 5
+Madrid Masters 2012,202,Pete Sampras,11,4, 11
+Madrid Masters 2012,202,Marcelo Rios,5,11, 5
+Madrid Masters 2012,202,Gustavo Kuerten,5,12, 5
+Madrid Masters 2012,202,Marat Safin,5,13, 5
+Madrid Masters 2012,202,Roger Federer,20,1, 20
+Madrid Masters 2012,202,Andy Roddick,5,14, 5
+Madrid Masters 2012,202,Rafael Nadal,20,2, 20
+Madrid Masters 2012,202,Novak Djokovic,11,5, 11
+Madrid Masters 2012,202,Andy Murray,8,7, 8
+Rome Masters 2012,203,Stefan Edberg,4,15, 4
+Rome Masters 2012,203,Andre Agassi,17,3, 17
+Rome Masters 2012,203,Thomas Muster,8,6, 8
+Rome Masters 2012,203,Michael Chang,7,8, 7
+Rome Masters 2012,203,Boris Becker,5,9, 5
+Rome Masters 2012,203,Jim Courier,5,10, 5
+Rome Masters 2012,203,Pete Sampras,11,4, 11
+Rome Masters 2012,203,Marcelo Rios,5,11, 5
+Rome Masters 2012,203,Gustavo Kuerten,5,12, 5
+Rome Masters 2012,203,Marat Safin,5,13, 5
+Rome Masters 2012,203,Roger Federer,20,2, 20
+Rome Masters 2012,203,Andy Roddick,5,14, 5
+Rome Masters 2012,203,Rafael Nadal,21,1, 21
+Rome Masters 2012,203,Novak Djokovic,11,5, 11
+Rome Masters 2012,203,Andy Murray,8,7, 8
+Canada Masters 2012,204,Stefan Edberg,4,15, 4
+Canada Masters 2012,204,Andre Agassi,17,3, 17
+Canada Masters 2012,204,Thomas Muster,8,6, 8
+Canada Masters 2012,204,Michael Chang,7,8, 7
+Canada Masters 2012,204,Boris Becker,5,9, 5
+Canada Masters 2012,204,Jim Courier,5,10, 5
+Canada Masters 2012,204,Pete Sampras,11,5, 11
+Canada Masters 2012,204,Marcelo Rios,5,11, 5
+Canada Masters 2012,204,Gustavo Kuerten,5,12, 5
+Canada Masters 2012,204,Marat Safin,5,13, 5
+Canada Masters 2012,204,Roger Federer,20,2, 20
+Canada Masters 2012,204,Andy Roddick,5,14, 5
+Canada Masters 2012,204,Rafael Nadal,21,1, 21
+Canada Masters 2012,204,Novak Djokovic,12,4, 12
+Canada Masters 2012,204,Andy Murray,8,7, 8
+Cincinnati Masters 2012,205,Stefan Edberg,4,15, 4
+Cincinnati Masters 2012,205,Andre Agassi,17,3, 17
+Cincinnati Masters 2012,205,Thomas Muster,8,6, 8
+Cincinnati Masters 2012,205,Michael Chang,7,8, 7
+Cincinnati Masters 2012,205,Boris Becker,5,9, 5
+Cincinnati Masters 2012,205,Jim Courier,5,10, 5
+Cincinnati Masters 2012,205,Pete Sampras,11,5, 11
+Cincinnati Masters 2012,205,Marcelo Rios,5,11, 5
+Cincinnati Masters 2012,205,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2012,205,Marat Safin,5,13, 5
+Cincinnati Masters 2012,205,Roger Federer,21,1, 21
+Cincinnati Masters 2012,205,Andy Roddick,5,14, 5
+Cincinnati Masters 2012,205,Rafael Nadal,21,2, 21
+Cincinnati Masters 2012,205,Novak Djokovic,12,4, 12
+Cincinnati Masters 2012,205,Andy Murray,8,7, 8
+Shanghai Masters 2012,206,Stefan Edberg,4,15, 4
+Shanghai Masters 2012,206,Andre Agassi,17,3, 17
+Shanghai Masters 2012,206,Thomas Muster,8,6, 8
+Shanghai Masters 2012,206,Michael Chang,7,8, 7
+Shanghai Masters 2012,206,Boris Becker,5,9, 5
+Shanghai Masters 2012,206,Jim Courier,5,10, 5
+Shanghai Masters 2012,206,Pete Sampras,11,5, 11
+Shanghai Masters 2012,206,Marcelo Rios,5,11, 5
+Shanghai Masters 2012,206,Gustavo Kuerten,5,12, 5
+Shanghai Masters 2012,206,Marat Safin,5,13, 5
+Shanghai Masters 2012,206,Roger Federer,21,1, 21
+Shanghai Masters 2012,206,Andy Roddick,5,14, 5
+Shanghai Masters 2012,206,Rafael Nadal,21,2, 21
+Shanghai Masters 2012,206,Novak Djokovic,13,4, 13
+Shanghai Masters 2012,206,Andy Murray,8,7, 8
+Paris Masters 2012,207,Stefan Edberg,4,15, 4
+Paris Masters 2012,207,Andre Agassi,17,3, 17
+Paris Masters 2012,207,Thomas Muster,8,6, 8
+Paris Masters 2012,207,Michael Chang,7,8, 7
+Paris Masters 2012,207,Boris Becker,5,9, 5
+Paris Masters 2012,207,Jim Courier,5,10, 5
+Paris Masters 2012,207,Pete Sampras,11,5, 11
+Paris Masters 2012,207,Marcelo Rios,5,11, 5
+Paris Masters 2012,207,Gustavo Kuerten,5,12, 5
+Paris Masters 2012,207,Marat Safin,5,13, 5
+Paris Masters 2012,207,Roger Federer,21,1, 21
+Paris Masters 2012,207,Andy Roddick,5,14, 5
+Paris Masters 2012,207,Rafael Nadal,21,2, 21
+Paris Masters 2012,207,Novak Djokovic,13,4, 13
+Paris Masters 2012,207,Andy Murray,8,7, 8
+Indian Wells Masters 2013,208,Stefan Edberg,4,15, 4
+Indian Wells Masters 2013,208,Andre Agassi,17,3, 17
+Indian Wells Masters 2013,208,Thomas Muster,8,6, 8
+Indian Wells Masters 2013,208,Michael Chang,7,8, 7
+Indian Wells Masters 2013,208,Boris Becker,5,9, 5
+Indian Wells Masters 2013,208,Jim Courier,5,10, 5
+Indian Wells Masters 2013,208,Pete Sampras,11,5, 11
+Indian Wells Masters 2013,208,Marcelo Rios,5,11, 5
+Indian Wells Masters 2013,208,Gustavo Kuerten,5,12, 5
+Indian Wells Masters 2013,208,Marat Safin,5,13, 5
+Indian Wells Masters 2013,208,Roger Federer,21,2, 21
+Indian Wells Masters 2013,208,Andy Roddick,5,14, 5
+Indian Wells Masters 2013,208,Rafael Nadal,22,1, 22
+Indian Wells Masters 2013,208,Novak Djokovic,13,4, 13
+Indian Wells Masters 2013,208,Andy Murray,8,7, 8
+Miami Masters 2013,209,Stefan Edberg,4,15, 4
+Miami Masters 2013,209,Andre Agassi,17,3, 17
+Miami Masters 2013,209,Thomas Muster,8,7, 8
+Miami Masters 2013,209,Michael Chang,7,8, 7
+Miami Masters 2013,209,Boris Becker,5,9, 5
+Miami Masters 2013,209,Jim Courier,5,10, 5
+Miami Masters 2013,209,Pete Sampras,11,5, 11
+Miami Masters 2013,209,Marcelo Rios,5,11, 5
+Miami Masters 2013,209,Gustavo Kuerten,5,12, 5
+Miami Masters 2013,209,Marat Safin,5,13, 5
+Miami Masters 2013,209,Roger Federer,21,2, 21
+Miami Masters 2013,209,Andy Roddick,5,14, 5
+Miami Masters 2013,209,Rafael Nadal,22,1, 22
+Miami Masters 2013,209,Novak Djokovic,13,4, 13
+Miami Masters 2013,209,Andy Murray,9,6, 9
+Monte Carlo Masters 2013,210,Stefan Edberg,4,15, 4
+Monte Carlo Masters 2013,210,Andre Agassi,17,3, 17
+Monte Carlo Masters 2013,210,Thomas Muster,8,7, 8
+Monte Carlo Masters 2013,210,Michael Chang,7,8, 7
+Monte Carlo Masters 2013,210,Boris Becker,5,9, 5
+Monte Carlo Masters 2013,210,Jim Courier,5,10, 5
+Monte Carlo Masters 2013,210,Pete Sampras,11,5, 11
+Monte Carlo Masters 2013,210,Marcelo Rios,5,11, 5
+Monte Carlo Masters 2013,210,Gustavo Kuerten,5,12, 5
+Monte Carlo Masters 2013,210,Marat Safin,5,13, 5
+Monte Carlo Masters 2013,210,Roger Federer,21,2, 21
+Monte Carlo Masters 2013,210,Andy Roddick,5,14, 5
+Monte Carlo Masters 2013,210,Rafael Nadal,22,1, 22
+Monte Carlo Masters 2013,210,Novak Djokovic,14,4, 14
+Monte Carlo Masters 2013,210,Andy Murray,9,6, 9
+Madrid Masters 2013,211,Stefan Edberg,4,15, 4
+Madrid Masters 2013,211,Andre Agassi,17,3, 17
+Madrid Masters 2013,211,Thomas Muster,8,7, 8
+Madrid Masters 2013,211,Michael Chang,7,8, 7
+Madrid Masters 2013,211,Boris Becker,5,9, 5
+Madrid Masters 2013,211,Jim Courier,5,10, 5
+Madrid Masters 2013,211,Pete Sampras,11,5, 11
+Madrid Masters 2013,211,Marcelo Rios,5,11, 5
+Madrid Masters 2013,211,Gustavo Kuerten,5,12, 5
+Madrid Masters 2013,211,Marat Safin,5,13, 5
+Madrid Masters 2013,211,Roger Federer,21,2, 21
+Madrid Masters 2013,211,Andy Roddick,5,14, 5
+Madrid Masters 2013,211,Rafael Nadal,23,1, 23
+Madrid Masters 2013,211,Novak Djokovic,14,4, 14
+Madrid Masters 2013,211,Andy Murray,9,6, 9
+Rome Masters 2013,212,Stefan Edberg,4,15, 4
+Rome Masters 2013,212,Andre Agassi,17,3, 17
+Rome Masters 2013,212,Thomas Muster,8,7, 8
+Rome Masters 2013,212,Michael Chang,7,8, 7
+Rome Masters 2013,212,Boris Becker,5,9, 5
+Rome Masters 2013,212,Jim Courier,5,10, 5
+Rome Masters 2013,212,Pete Sampras,11,5, 11
+Rome Masters 2013,212,Marcelo Rios,5,11, 5
+Rome Masters 2013,212,Gustavo Kuerten,5,12, 5
+Rome Masters 2013,212,Marat Safin,5,13, 5
+Rome Masters 2013,212,Roger Federer,21,2, 21
+Rome Masters 2013,212,Andy Roddick,5,14, 5
+Rome Masters 2013,212,Rafael Nadal,24,1, 24
+Rome Masters 2013,212,Novak Djokovic,14,4, 14
+Rome Masters 2013,212,Andy Murray,9,6, 9
+Canada Masters 2013,213,Stefan Edberg,4,15, 4
+Canada Masters 2013,213,Andre Agassi,17,3, 17
+Canada Masters 2013,213,Thomas Muster,8,7, 8
+Canada Masters 2013,213,Michael Chang,7,8, 7
+Canada Masters 2013,213,Boris Becker,5,9, 5
+Canada Masters 2013,213,Jim Courier,5,10, 5
+Canada Masters 2013,213,Pete Sampras,11,5, 11
+Canada Masters 2013,213,Marcelo Rios,5,11, 5
+Canada Masters 2013,213,Gustavo Kuerten,5,12, 5
+Canada Masters 2013,213,Marat Safin,5,13, 5
+Canada Masters 2013,213,Roger Federer,21,2, 21
+Canada Masters 2013,213,Andy Roddick,5,14, 5
+Canada Masters 2013,213,Rafael Nadal,25,1, 25
+Canada Masters 2013,213,Novak Djokovic,14,4, 14
+Canada Masters 2013,213,Andy Murray,9,6, 9
+Cincinnati Masters 2013,214,Stefan Edberg,4,15, 4
+Cincinnati Masters 2013,214,Andre Agassi,17,3, 17
+Cincinnati Masters 2013,214,Thomas Muster,8,7, 8
+Cincinnati Masters 2013,214,Michael Chang,7,8, 7
+Cincinnati Masters 2013,214,Boris Becker,5,9, 5
+Cincinnati Masters 2013,214,Jim Courier,5,10, 5
+Cincinnati Masters 2013,214,Pete Sampras,11,5, 11
+Cincinnati Masters 2013,214,Marcelo Rios,5,11, 5
+Cincinnati Masters 2013,214,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2013,214,Marat Safin,5,13, 5
+Cincinnati Masters 2013,214,Roger Federer,21,2, 21
+Cincinnati Masters 2013,214,Andy Roddick,5,14, 5
+Cincinnati Masters 2013,214,Rafael Nadal,26,1, 26
+Cincinnati Masters 2013,214,Novak Djokovic,14,4, 14
+Cincinnati Masters 2013,214,Andy Murray,9,6, 9
+Shanghai Masters 2013,215,Stefan Edberg,4,15, 4
+Shanghai Masters 2013,215,Andre Agassi,17,3, 17
+Shanghai Masters 2013,215,Thomas Muster,8,7, 8
+Shanghai Masters 2013,215,Michael Chang,7,8, 7
+Shanghai Masters 2013,215,Boris Becker,5,9, 5
+Shanghai Masters 2013,215,Jim Courier,5,10, 5
+Shanghai Masters 2013,215,Pete Sampras,11,5, 11
+Shanghai Masters 2013,215,Marcelo Rios,5,11, 5
+Shanghai Masters 2013,215,Gustavo Kuerten,5,12, 5
+Shanghai Masters 2013,215,Marat Safin,5,13, 5
+Shanghai Masters 2013,215,Roger Federer,21,2, 21
+Shanghai Masters 2013,215,Andy Roddick,5,14, 5
+Shanghai Masters 2013,215,Rafael Nadal,26,1, 26
+Shanghai Masters 2013,215,Novak Djokovic,15,4, 15
+Shanghai Masters 2013,215,Andy Murray,9,6, 9
+Paris Masters 2013,216,Stefan Edberg,4,15, 4
+Paris Masters 2013,216,Andre Agassi,17,3, 17
+Paris Masters 2013,216,Thomas Muster,8,7, 8
+Paris Masters 2013,216,Michael Chang,7,8, 7
+Paris Masters 2013,216,Boris Becker,5,9, 5
+Paris Masters 2013,216,Jim Courier,5,10, 5
+Paris Masters 2013,216,Pete Sampras,11,5, 11
+Paris Masters 2013,216,Marcelo Rios,5,11, 5
+Paris Masters 2013,216,Gustavo Kuerten,5,12, 5
+Paris Masters 2013,216,Marat Safin,5,13, 5
+Paris Masters 2013,216,Roger Federer,21,2, 21
+Paris Masters 2013,216,Andy Roddick,5,14, 5
+Paris Masters 2013,216,Rafael Nadal,26,1, 26
+Paris Masters 2013,216,Novak Djokovic,16,4, 16
+Paris Masters 2013,216,Andy Murray,9,6, 9
+Indian Wells Masters 2014,217,Stefan Edberg,4,15, 4
+Indian Wells Masters 2014,217,Andre Agassi,17,3, 17
+Indian Wells Masters 2014,217,Thomas Muster,8,7, 8
+Indian Wells Masters 2014,217,Michael Chang,7,8, 7
+Indian Wells Masters 2014,217,Boris Becker,5,9, 5
+Indian Wells Masters 2014,217,Jim Courier,5,10, 5
+Indian Wells Masters 2014,217,Pete Sampras,11,5, 11
+Indian Wells Masters 2014,217,Marcelo Rios,5,11, 5
+Indian Wells Masters 2014,217,Gustavo Kuerten,5,12, 5
+Indian Wells Masters 2014,217,Marat Safin,5,13, 5
+Indian Wells Masters 2014,217,Roger Federer,21,2, 21
+Indian Wells Masters 2014,217,Andy Roddick,5,14, 5
+Indian Wells Masters 2014,217,Rafael Nadal,26,1, 26
+Indian Wells Masters 2014,217,Novak Djokovic,17,4, 17
+Indian Wells Masters 2014,217,Andy Murray,9,6, 9
+Miami Masters 2014,218,Stefan Edberg,4,15, 4
+Miami Masters 2014,218,Andre Agassi,17,4, 17
+Miami Masters 2014,218,Thomas Muster,8,7, 8
+Miami Masters 2014,218,Michael Chang,7,8, 7
+Miami Masters 2014,218,Boris Becker,5,9, 5
+Miami Masters 2014,218,Jim Courier,5,10, 5
+Miami Masters 2014,218,Pete Sampras,11,5, 11
+Miami Masters 2014,218,Marcelo Rios,5,11, 5
+Miami Masters 2014,218,Gustavo Kuerten,5,12, 5
+Miami Masters 2014,218,Marat Safin,5,13, 5
+Miami Masters 2014,218,Roger Federer,21,2, 21
+Miami Masters 2014,218,Andy Roddick,5,14, 5
+Miami Masters 2014,218,Rafael Nadal,26,1, 26
+Miami Masters 2014,218,Novak Djokovic,18,3, 18
+Miami Masters 2014,218,Andy Murray,9,6, 9
+Monte Carlo Masters 2014,219,Stefan Edberg,4,15, 4
+Monte Carlo Masters 2014,219,Andre Agassi,17,4, 17
+Monte Carlo Masters 2014,219,Thomas Muster,8,7, 8
+Monte Carlo Masters 2014,219,Michael Chang,7,8, 7
+Monte Carlo Masters 2014,219,Boris Becker,5,9, 5
+Monte Carlo Masters 2014,219,Jim Courier,5,10, 5
+Monte Carlo Masters 2014,219,Pete Sampras,11,5, 11
+Monte Carlo Masters 2014,219,Marcelo Rios,5,11, 5
+Monte Carlo Masters 2014,219,Gustavo Kuerten,5,12, 5
+Monte Carlo Masters 2014,219,Marat Safin,5,13, 5
+Monte Carlo Masters 2014,219,Roger Federer,21,2, 21
+Monte Carlo Masters 2014,219,Andy Roddick,5,14, 5
+Monte Carlo Masters 2014,219,Rafael Nadal,26,1, 26
+Monte Carlo Masters 2014,219,Novak Djokovic,18,3, 18
+Monte Carlo Masters 2014,219,Andy Murray,9,6, 9
+Madrid Masters 2014,220,Stefan Edberg,4,15, 4
+Madrid Masters 2014,220,Andre Agassi,17,4, 17
+Madrid Masters 2014,220,Thomas Muster,8,7, 8
+Madrid Masters 2014,220,Michael Chang,7,8, 7
+Madrid Masters 2014,220,Boris Becker,5,9, 5
+Madrid Masters 2014,220,Jim Courier,5,10, 5
+Madrid Masters 2014,220,Pete Sampras,11,5, 11
+Madrid Masters 2014,220,Marcelo Rios,5,11, 5
+Madrid Masters 2014,220,Gustavo Kuerten,5,12, 5
+Madrid Masters 2014,220,Marat Safin,5,13, 5
+Madrid Masters 2014,220,Roger Federer,21,2, 21
+Madrid Masters 2014,220,Andy Roddick,5,14, 5
+Madrid Masters 2014,220,Rafael Nadal,27,1, 27
+Madrid Masters 2014,220,Novak Djokovic,18,3, 18
+Madrid Masters 2014,220,Andy Murray,9,6, 9
+Rome Masters 2014,221,Stefan Edberg,4,15, 4
+Rome Masters 2014,221,Andre Agassi,17,4, 17
+Rome Masters 2014,221,Thomas Muster,8,7, 8
+Rome Masters 2014,221,Michael Chang,7,8, 7
+Rome Masters 2014,221,Boris Becker,5,9, 5
+Rome Masters 2014,221,Jim Courier,5,10, 5
+Rome Masters 2014,221,Pete Sampras,11,5, 11
+Rome Masters 2014,221,Marcelo Rios,5,11, 5
+Rome Masters 2014,221,Gustavo Kuerten,5,12, 5
+Rome Masters 2014,221,Marat Safin,5,13, 5
+Rome Masters 2014,221,Roger Federer,21,2, 21
+Rome Masters 2014,221,Andy Roddick,5,14, 5
+Rome Masters 2014,221,Rafael Nadal,27,1, 27
+Rome Masters 2014,221,Novak Djokovic,19,3, 19
+Rome Masters 2014,221,Andy Murray,9,6, 9
+Canada Masters 2014,222,Stefan Edberg,4,15, 4
+Canada Masters 2014,222,Andre Agassi,17,4, 17
+Canada Masters 2014,222,Thomas Muster,8,7, 8
+Canada Masters 2014,222,Michael Chang,7,8, 7
+Canada Masters 2014,222,Boris Becker,5,9, 5
+Canada Masters 2014,222,Jim Courier,5,10, 5
+Canada Masters 2014,222,Pete Sampras,11,5, 11
+Canada Masters 2014,222,Marcelo Rios,5,11, 5
+Canada Masters 2014,222,Gustavo Kuerten,5,12, 5
+Canada Masters 2014,222,Marat Safin,5,13, 5
+Canada Masters 2014,222,Roger Federer,21,2, 21
+Canada Masters 2014,222,Andy Roddick,5,14, 5
+Canada Masters 2014,222,Rafael Nadal,27,1, 27
+Canada Masters 2014,222,Novak Djokovic,19,3, 19
+Canada Masters 2014,222,Andy Murray,9,6, 9
+Cincinnati Masters 2014,223,Stefan Edberg,4,15, 4
+Cincinnati Masters 2014,223,Andre Agassi,17,4, 17
+Cincinnati Masters 2014,223,Thomas Muster,8,7, 8
+Cincinnati Masters 2014,223,Michael Chang,7,8, 7
+Cincinnati Masters 2014,223,Boris Becker,5,9, 5
+Cincinnati Masters 2014,223,Jim Courier,5,10, 5
+Cincinnati Masters 2014,223,Pete Sampras,11,5, 11
+Cincinnati Masters 2014,223,Marcelo Rios,5,11, 5
+Cincinnati Masters 2014,223,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2014,223,Marat Safin,5,13, 5
+Cincinnati Masters 2014,223,Roger Federer,22,2, 22
+Cincinnati Masters 2014,223,Andy Roddick,5,14, 5
+Cincinnati Masters 2014,223,Rafael Nadal,27,1, 27
+Cincinnati Masters 2014,223,Novak Djokovic,19,3, 19
+Cincinnati Masters 2014,223,Andy Murray,9,6, 9
+Shanghai Masters 2014,224,Stefan Edberg,4,15, 4
+Shanghai Masters 2014,224,Andre Agassi,17,4, 17
+Shanghai Masters 2014,224,Thomas Muster,8,7, 8
+Shanghai Masters 2014,224,Michael Chang,7,8, 7
+Shanghai Masters 2014,224,Boris Becker,5,9, 5
+Shanghai Masters 2014,224,Jim Courier,5,10, 5
+Shanghai Masters 2014,224,Pete Sampras,11,5, 11
+Shanghai Masters 2014,224,Marcelo Rios,5,11, 5
+Shanghai Masters 2014,224,Gustavo Kuerten,5,12, 5
+Shanghai Masters 2014,224,Marat Safin,5,13, 5
+Shanghai Masters 2014,224,Roger Federer,23,2, 23
+Shanghai Masters 2014,224,Andy Roddick,5,14, 5
+Shanghai Masters 2014,224,Rafael Nadal,27,1, 27
+Shanghai Masters 2014,224,Novak Djokovic,19,3, 19
+Shanghai Masters 2014,224,Andy Murray,9,6, 9
+Paris Masters 2014,225,Stefan Edberg,4,15, 4
+Paris Masters 2014,225,Andre Agassi,17,4, 17
+Paris Masters 2014,225,Thomas Muster,8,7, 8
+Paris Masters 2014,225,Michael Chang,7,8, 7
+Paris Masters 2014,225,Boris Becker,5,9, 5
+Paris Masters 2014,225,Jim Courier,5,10, 5
+Paris Masters 2014,225,Pete Sampras,11,5, 11
+Paris Masters 2014,225,Marcelo Rios,5,11, 5
+Paris Masters 2014,225,Gustavo Kuerten,5,12, 5
+Paris Masters 2014,225,Marat Safin,5,13, 5
+Paris Masters 2014,225,Roger Federer,23,2, 23
+Paris Masters 2014,225,Andy Roddick,5,14, 5
+Paris Masters 2014,225,Rafael Nadal,27,1, 27
+Paris Masters 2014,225,Novak Djokovic,20,3, 20
+Paris Masters 2014,225,Andy Murray,9,6, 9
+Indian Wells Masters 2015,226,Stefan Edberg,4,15, 4
+Indian Wells Masters 2015,226,Andre Agassi,17,4, 17
+Indian Wells Masters 2015,226,Thomas Muster,8,7, 8
+Indian Wells Masters 2015,226,Michael Chang,7,8, 7
+Indian Wells Masters 2015,226,Boris Becker,5,9, 5
+Indian Wells Masters 2015,226,Jim Courier,5,10, 5
+Indian Wells Masters 2015,226,Pete Sampras,11,5, 11
+Indian Wells Masters 2015,226,Marcelo Rios,5,11, 5
+Indian Wells Masters 2015,226,Gustavo Kuerten,5,12, 5
+Indian Wells Masters 2015,226,Marat Safin,5,13, 5
+Indian Wells Masters 2015,226,Roger Federer,23,2, 23
+Indian Wells Masters 2015,226,Andy Roddick,5,14, 5
+Indian Wells Masters 2015,226,Rafael Nadal,27,1, 27
+Indian Wells Masters 2015,226,Novak Djokovic,21,3, 21
+Indian Wells Masters 2015,226,Andy Murray,9,6, 9
+Miami Masters 2015,227,Stefan Edberg,4,15, 4
+Miami Masters 2015,227,Andre Agassi,17,4, 17
+Miami Masters 2015,227,Thomas Muster,8,7, 8
+Miami Masters 2015,227,Michael Chang,7,8, 7
+Miami Masters 2015,227,Boris Becker,5,9, 5
+Miami Masters 2015,227,Jim Courier,5,10, 5
+Miami Masters 2015,227,Pete Sampras,11,5, 11
+Miami Masters 2015,227,Marcelo Rios,5,11, 5
+Miami Masters 2015,227,Gustavo Kuerten,5,12, 5
+Miami Masters 2015,227,Marat Safin,5,13, 5
+Miami Masters 2015,227,Roger Federer,23,2, 23
+Miami Masters 2015,227,Andy Roddick,5,14, 5
+Miami Masters 2015,227,Rafael Nadal,27,1, 27
+Miami Masters 2015,227,Novak Djokovic,22,3, 22
+Miami Masters 2015,227,Andy Murray,9,6, 9
+Monte Carlo Masters 2015,228,Stefan Edberg,4,15, 4
+Monte Carlo Masters 2015,228,Andre Agassi,17,4, 17
+Monte Carlo Masters 2015,228,Thomas Muster,8,7, 8
+Monte Carlo Masters 2015,228,Michael Chang,7,8, 7
+Monte Carlo Masters 2015,228,Boris Becker,5,9, 5
+Monte Carlo Masters 2015,228,Jim Courier,5,10, 5
+Monte Carlo Masters 2015,228,Pete Sampras,11,5, 11
+Monte Carlo Masters 2015,228,Marcelo Rios,5,11, 5
+Monte Carlo Masters 2015,228,Gustavo Kuerten,5,12, 5
+Monte Carlo Masters 2015,228,Marat Safin,5,13, 5
+Monte Carlo Masters 2015,228,Roger Federer,23,2, 23
+Monte Carlo Masters 2015,228,Andy Roddick,5,14, 5
+Monte Carlo Masters 2015,228,Rafael Nadal,27,1, 27
+Monte Carlo Masters 2015,228,Novak Djokovic,23,3, 23
+Monte Carlo Masters 2015,228,Andy Murray,9,6, 9
+Madrid Masters 2015,229,Stefan Edberg,4,15, 4
+Madrid Masters 2015,229,Andre Agassi,17,4, 17
+Madrid Masters 2015,229,Thomas Muster,8,7, 8
+Madrid Masters 2015,229,Michael Chang,7,8, 7
+Madrid Masters 2015,229,Boris Becker,5,9, 5
+Madrid Masters 2015,229,Jim Courier,5,10, 5
+Madrid Masters 2015,229,Pete Sampras,11,5, 11
+Madrid Masters 2015,229,Marcelo Rios,5,11, 5
+Madrid Masters 2015,229,Gustavo Kuerten,5,12, 5
+Madrid Masters 2015,229,Marat Safin,5,13, 5
+Madrid Masters 2015,229,Roger Federer,23,2, 23
+Madrid Masters 2015,229,Andy Roddick,5,14, 5
+Madrid Masters 2015,229,Rafael Nadal,27,1, 27
+Madrid Masters 2015,229,Novak Djokovic,23,3, 23
+Madrid Masters 2015,229,Andy Murray,10,6, 10
+Rome Masters 2015,230,Stefan Edberg,4,15, 4
+Rome Masters 2015,230,Andre Agassi,17,4, 17
+Rome Masters 2015,230,Thomas Muster,8,7, 8
+Rome Masters 2015,230,Michael Chang,7,8, 7
+Rome Masters 2015,230,Boris Becker,5,9, 5
+Rome Masters 2015,230,Jim Courier,5,10, 5
+Rome Masters 2015,230,Pete Sampras,11,5, 11
+Rome Masters 2015,230,Marcelo Rios,5,11, 5
+Rome Masters 2015,230,Gustavo Kuerten,5,12, 5
+Rome Masters 2015,230,Marat Safin,5,13, 5
+Rome Masters 2015,230,Roger Federer,23,3, 23
+Rome Masters 2015,230,Andy Roddick,5,14, 5
+Rome Masters 2015,230,Rafael Nadal,27,1, 27
+Rome Masters 2015,230,Novak Djokovic,24,2, 24
+Rome Masters 2015,230,Andy Murray,10,6, 10
+Canada Masters 2015,231,Stefan Edberg,4,15, 4
+Canada Masters 2015,231,Andre Agassi,17,4, 17
+Canada Masters 2015,231,Thomas Muster,8,7, 8
+Canada Masters 2015,231,Michael Chang,7,8, 7
+Canada Masters 2015,231,Boris Becker,5,9, 5
+Canada Masters 2015,231,Jim Courier,5,10, 5
+Canada Masters 2015,231,Pete Sampras,11,5, 11
+Canada Masters 2015,231,Marcelo Rios,5,11, 5
+Canada Masters 2015,231,Gustavo Kuerten,5,12, 5
+Canada Masters 2015,231,Marat Safin,5,13, 5
+Canada Masters 2015,231,Roger Federer,23,3, 23
+Canada Masters 2015,231,Andy Roddick,5,14, 5
+Canada Masters 2015,231,Rafael Nadal,27,1, 27
+Canada Masters 2015,231,Novak Djokovic,24,2, 24
+Canada Masters 2015,231,Andy Murray,11,6, 11
+Cincinnati Masters 2015,232,Stefan Edberg,4,15, 4
+Cincinnati Masters 2015,232,Andre Agassi,17,4, 17
+Cincinnati Masters 2015,232,Thomas Muster,8,7, 8
+Cincinnati Masters 2015,232,Michael Chang,7,8, 7
+Cincinnati Masters 2015,232,Boris Becker,5,9, 5
+Cincinnati Masters 2015,232,Jim Courier,5,10, 5
+Cincinnati Masters 2015,232,Pete Sampras,11,5, 11
+Cincinnati Masters 2015,232,Marcelo Rios,5,11, 5
+Cincinnati Masters 2015,232,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2015,232,Marat Safin,5,13, 5
+Cincinnati Masters 2015,232,Roger Federer,24,2, 24
+Cincinnati Masters 2015,232,Andy Roddick,5,14, 5
+Cincinnati Masters 2015,232,Rafael Nadal,27,1, 27
+Cincinnati Masters 2015,232,Novak Djokovic,24,3, 24
+Cincinnati Masters 2015,232,Andy Murray,11,6, 11
+Shanghai Masters 2015,233,Stefan Edberg,4,15, 4
+Shanghai Masters 2015,233,Andre Agassi,17,4, 17
+Shanghai Masters 2015,233,Thomas Muster,8,7, 8
+Shanghai Masters 2015,233,Michael Chang,7,8, 7
+Shanghai Masters 2015,233,Boris Becker,5,9, 5
+Shanghai Masters 2015,233,Jim Courier,5,10, 5
+Shanghai Masters 2015,233,Pete Sampras,11,5, 11
+Shanghai Masters 2015,233,Marcelo Rios,5,11, 5
+Shanghai Masters 2015,233,Gustavo Kuerten,5,12, 5
+Shanghai Masters 2015,233,Marat Safin,5,13, 5
+Shanghai Masters 2015,233,Roger Federer,24,3, 24
+Shanghai Masters 2015,233,Andy Roddick,5,14, 5
+Shanghai Masters 2015,233,Rafael Nadal,27,1, 27
+Shanghai Masters 2015,233,Novak Djokovic,25,2, 25
+Shanghai Masters 2015,233,Andy Murray,11,6, 11
+Paris Masters 2015,234,Stefan Edberg,4,15, 4
+Paris Masters 2015,234,Andre Agassi,17,4, 17
+Paris Masters 2015,234,Thomas Muster,8,7, 8
+Paris Masters 2015,234,Michael Chang,7,8, 7
+Paris Masters 2015,234,Boris Becker,5,9, 5
+Paris Masters 2015,234,Jim Courier,5,10, 5
+Paris Masters 2015,234,Pete Sampras,11,5, 11
+Paris Masters 2015,234,Marcelo Rios,5,11, 5
+Paris Masters 2015,234,Gustavo Kuerten,5,12, 5
+Paris Masters 2015,234,Marat Safin,5,13, 5
+Paris Masters 2015,234,Roger Federer,24,3, 24
+Paris Masters 2015,234,Andy Roddick,5,14, 5
+Paris Masters 2015,234,Rafael Nadal,27,1, 27
+Paris Masters 2015,234,Novak Djokovic,26,2, 26
+Paris Masters 2015,234,Andy Murray,11,6, 11
+Indian Wells Masters 2016,235,Stefan Edberg,4,15, 4
+Indian Wells Masters 2016,235,Andre Agassi,17,4, 17
+Indian Wells Masters 2016,235,Thomas Muster,8,7, 8
+Indian Wells Masters 2016,235,Michael Chang,7,8, 7
+Indian Wells Masters 2016,235,Boris Becker,5,9, 5
+Indian Wells Masters 2016,235,Jim Courier,5,10, 5
+Indian Wells Masters 2016,235,Pete Sampras,11,5, 11
+Indian Wells Masters 2016,235,Marcelo Rios,5,11, 5
+Indian Wells Masters 2016,235,Gustavo Kuerten,5,12, 5
+Indian Wells Masters 2016,235,Marat Safin,5,13, 5
+Indian Wells Masters 2016,235,Roger Federer,24,3, 24
+Indian Wells Masters 2016,235,Andy Roddick,5,14, 5
+Indian Wells Masters 2016,235,Rafael Nadal,27,1, 27
+Indian Wells Masters 2016,235,Novak Djokovic,27,2, 27
+Indian Wells Masters 2016,235,Andy Murray,11,6, 11
+Miami Masters 2016,236,Stefan Edberg,4,15, 4
+Miami Masters 2016,236,Andre Agassi,17,4, 17
+Miami Masters 2016,236,Thomas Muster,8,7, 8
+Miami Masters 2016,236,Michael Chang,7,8, 7
+Miami Masters 2016,236,Boris Becker,5,9, 5
+Miami Masters 2016,236,Jim Courier,5,10, 5
+Miami Masters 2016,236,Pete Sampras,11,5, 11
+Miami Masters 2016,236,Marcelo Rios,5,11, 5
+Miami Masters 2016,236,Gustavo Kuerten,5,12, 5
+Miami Masters 2016,236,Marat Safin,5,13, 5
+Miami Masters 2016,236,Roger Federer,24,3, 24
+Miami Masters 2016,236,Andy Roddick,5,14, 5
+Miami Masters 2016,236,Rafael Nadal,27,2, 27
+Miami Masters 2016,236,Novak Djokovic,28,1, 28
+Miami Masters 2016,236,Andy Murray,11,6, 11
+Monte Carlo Masters 2016,237,Stefan Edberg,4,15, 4
+Monte Carlo Masters 2016,237,Andre Agassi,17,4, 17
+Monte Carlo Masters 2016,237,Thomas Muster,8,7, 8
+Monte Carlo Masters 2016,237,Michael Chang,7,8, 7
+Monte Carlo Masters 2016,237,Boris Becker,5,9, 5
+Monte Carlo Masters 2016,237,Jim Courier,5,10, 5
+Monte Carlo Masters 2016,237,Pete Sampras,11,5, 11
+Monte Carlo Masters 2016,237,Marcelo Rios,5,11, 5
+Monte Carlo Masters 2016,237,Gustavo Kuerten,5,12, 5
+Monte Carlo Masters 2016,237,Marat Safin,5,13, 5
+Monte Carlo Masters 2016,237,Roger Federer,24,3, 24
+Monte Carlo Masters 2016,237,Andy Roddick,5,14, 5
+Monte Carlo Masters 2016,237,Rafael Nadal,28,1, 28
+Monte Carlo Masters 2016,237,Novak Djokovic,28,2, 28
+Monte Carlo Masters 2016,237,Andy Murray,11,6, 11
+Madrid Masters 2016,238,Stefan Edberg,4,15, 4
+Madrid Masters 2016,238,Andre Agassi,17,4, 17
+Madrid Masters 2016,238,Thomas Muster,8,7, 8
+Madrid Masters 2016,238,Michael Chang,7,8, 7
+Madrid Masters 2016,238,Boris Becker,5,9, 5
+Madrid Masters 2016,238,Jim Courier,5,10, 5
+Madrid Masters 2016,238,Pete Sampras,11,5, 11
+Madrid Masters 2016,238,Marcelo Rios,5,11, 5
+Madrid Masters 2016,238,Gustavo Kuerten,5,12, 5
+Madrid Masters 2016,238,Marat Safin,5,13, 5
+Madrid Masters 2016,238,Roger Federer,24,3, 24
+Madrid Masters 2016,238,Andy Roddick,5,14, 5
+Madrid Masters 2016,238,Rafael Nadal,28,2, 28
+Madrid Masters 2016,238,Novak Djokovic,29,1, 29
+Madrid Masters 2016,238,Andy Murray,11,6, 11
+Rome Masters 2016,239,Stefan Edberg,4,15, 4
+Rome Masters 2016,239,Andre Agassi,17,4, 17
+Rome Masters 2016,239,Thomas Muster,8,7, 8
+Rome Masters 2016,239,Michael Chang,7,8, 7
+Rome Masters 2016,239,Boris Becker,5,9, 5
+Rome Masters 2016,239,Jim Courier,5,10, 5
+Rome Masters 2016,239,Pete Sampras,11,6, 11
+Rome Masters 2016,239,Marcelo Rios,5,11, 5
+Rome Masters 2016,239,Gustavo Kuerten,5,12, 5
+Rome Masters 2016,239,Marat Safin,5,13, 5
+Rome Masters 2016,239,Roger Federer,24,3, 24
+Rome Masters 2016,239,Andy Roddick,5,14, 5
+Rome Masters 2016,239,Rafael Nadal,28,2, 28
+Rome Masters 2016,239,Novak Djokovic,29,1, 29
+Rome Masters 2016,239,Andy Murray,12,5, 12
+Canada Masters 2016,240,Stefan Edberg,4,15, 4
+Canada Masters 2016,240,Andre Agassi,17,4, 17
+Canada Masters 2016,240,Thomas Muster,8,7, 8
+Canada Masters 2016,240,Michael Chang,7,8, 7
+Canada Masters 2016,240,Boris Becker,5,9, 5
+Canada Masters 2016,240,Jim Courier,5,10, 5
+Canada Masters 2016,240,Pete Sampras,11,6, 11
+Canada Masters 2016,240,Marcelo Rios,5,11, 5
+Canada Masters 2016,240,Gustavo Kuerten,5,12, 5
+Canada Masters 2016,240,Marat Safin,5,13, 5
+Canada Masters 2016,240,Roger Federer,24,3, 24
+Canada Masters 2016,240,Andy Roddick,5,14, 5
+Canada Masters 2016,240,Rafael Nadal,28,2, 28
+Canada Masters 2016,240,Novak Djokovic,30,1, 30
+Canada Masters 2016,240,Andy Murray,12,5, 12
+Cincinnati Masters 2016,241,Stefan Edberg,4,15, 4
+Cincinnati Masters 2016,241,Andre Agassi,17,4, 17
+Cincinnati Masters 2016,241,Thomas Muster,8,7, 8
+Cincinnati Masters 2016,241,Michael Chang,7,8, 7
+Cincinnati Masters 2016,241,Boris Becker,5,9, 5
+Cincinnati Masters 2016,241,Jim Courier,5,10, 5
+Cincinnati Masters 2016,241,Pete Sampras,11,6, 11
+Cincinnati Masters 2016,241,Marcelo Rios,5,11, 5
+Cincinnati Masters 2016,241,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2016,241,Marat Safin,5,13, 5
+Cincinnati Masters 2016,241,Roger Federer,24,3, 24
+Cincinnati Masters 2016,241,Andy Roddick,5,14, 5
+Cincinnati Masters 2016,241,Rafael Nadal,28,2, 28
+Cincinnati Masters 2016,241,Novak Djokovic,30,1, 30
+Cincinnati Masters 2016,241,Andy Murray,12,5, 12
+Shanghai Masters 2016,242,Stefan Edberg,4,15, 4
+Shanghai Masters 2016,242,Andre Agassi,17,4, 17
+Shanghai Masters 2016,242,Thomas Muster,8,7, 8
+Shanghai Masters 2016,242,Michael Chang,7,8, 7
+Shanghai Masters 2016,242,Boris Becker,5,9, 5
+Shanghai Masters 2016,242,Jim Courier,5,10, 5
+Shanghai Masters 2016,242,Pete Sampras,11,6, 11
+Shanghai Masters 2016,242,Marcelo Rios,5,11, 5
+Shanghai Masters 2016,242,Gustavo Kuerten,5,12, 5
+Shanghai Masters 2016,242,Marat Safin,5,13, 5
+Shanghai Masters 2016,242,Roger Federer,24,3, 24
+Shanghai Masters 2016,242,Andy Roddick,5,14, 5
+Shanghai Masters 2016,242,Rafael Nadal,28,2, 28
+Shanghai Masters 2016,242,Novak Djokovic,30,1, 30
+Shanghai Masters 2016,242,Andy Murray,13,5, 13
+Paris Masters 2016,243,Stefan Edberg,4,15, 4
+Paris Masters 2016,243,Andre Agassi,17,4, 17
+Paris Masters 2016,243,Thomas Muster,8,7, 8
+Paris Masters 2016,243,Michael Chang,7,8, 7
+Paris Masters 2016,243,Boris Becker,5,9, 5
+Paris Masters 2016,243,Jim Courier,5,10, 5
+Paris Masters 2016,243,Pete Sampras,11,6, 11
+Paris Masters 2016,243,Marcelo Rios,5,11, 5
+Paris Masters 2016,243,Gustavo Kuerten,5,12, 5
+Paris Masters 2016,243,Marat Safin,5,13, 5
+Paris Masters 2016,243,Roger Federer,24,3, 24
+Paris Masters 2016,243,Andy Roddick,5,14, 5
+Paris Masters 2016,243,Rafael Nadal,28,2, 28
+Paris Masters 2016,243,Novak Djokovic,30,1, 30
+Paris Masters 2016,243,Andy Murray,14,5, 14
+Indian Wells Masters 2017,244,Stefan Edberg,4,15, 4
+Indian Wells Masters 2017,244,Andre Agassi,17,4, 17
+Indian Wells Masters 2017,244,Thomas Muster,8,7, 8
+Indian Wells Masters 2017,244,Michael Chang,7,8, 7
+Indian Wells Masters 2017,244,Boris Becker,5,9, 5
+Indian Wells Masters 2017,244,Jim Courier,5,10, 5
+Indian Wells Masters 2017,244,Pete Sampras,11,6, 11
+Indian Wells Masters 2017,244,Marcelo Rios,5,11, 5
+Indian Wells Masters 2017,244,Gustavo Kuerten,5,12, 5
+Indian Wells Masters 2017,244,Marat Safin,5,13, 5
+Indian Wells Masters 2017,244,Roger Federer,25,3, 25
+Indian Wells Masters 2017,244,Andy Roddick,5,14, 5
+Indian Wells Masters 2017,244,Rafael Nadal,28,2, 28
+Indian Wells Masters 2017,244,Novak Djokovic,30,1, 30
+Indian Wells Masters 2017,244,Andy Murray,14,5, 14
+Miami Masters 2017,245,Stefan Edberg,4,15, 4
+Miami Masters 2017,245,Andre Agassi,17,4, 17
+Miami Masters 2017,245,Thomas Muster,8,7, 8
+Miami Masters 2017,245,Michael Chang,7,8, 7
+Miami Masters 2017,245,Boris Becker,5,9, 5
+Miami Masters 2017,245,Jim Courier,5,10, 5
+Miami Masters 2017,245,Pete Sampras,11,6, 11
+Miami Masters 2017,245,Marcelo Rios,5,11, 5
+Miami Masters 2017,245,Gustavo Kuerten,5,12, 5
+Miami Masters 2017,245,Marat Safin,5,13, 5
+Miami Masters 2017,245,Roger Federer,26,3, 26
+Miami Masters 2017,245,Andy Roddick,5,14, 5
+Miami Masters 2017,245,Rafael Nadal,28,2, 28
+Miami Masters 2017,245,Novak Djokovic,30,1, 30
+Miami Masters 2017,245,Andy Murray,14,5, 14
+Monte Carlo Masters 2017,246,Stefan Edberg,4,15, 4
+Monte Carlo Masters 2017,246,Andre Agassi,17,4, 17
+Monte Carlo Masters 2017,246,Thomas Muster,8,7, 8
+Monte Carlo Masters 2017,246,Michael Chang,7,8, 7
+Monte Carlo Masters 2017,246,Boris Becker,5,9, 5
+Monte Carlo Masters 2017,246,Jim Courier,5,10, 5
+Monte Carlo Masters 2017,246,Pete Sampras,11,6, 11
+Monte Carlo Masters 2017,246,Marcelo Rios,5,11, 5
+Monte Carlo Masters 2017,246,Gustavo Kuerten,5,12, 5
+Monte Carlo Masters 2017,246,Marat Safin,5,13, 5
+Monte Carlo Masters 2017,246,Roger Federer,26,3, 26
+Monte Carlo Masters 2017,246,Andy Roddick,5,14, 5
+Monte Carlo Masters 2017,246,Rafael Nadal,29,2, 29
+Monte Carlo Masters 2017,246,Novak Djokovic,30,1, 30
+Monte Carlo Masters 2017,246,Andy Murray,14,5, 14
+Madrid Masters 2017,247,Stefan Edberg,4,15, 4
+Madrid Masters 2017,247,Andre Agassi,17,4, 17
+Madrid Masters 2017,247,Thomas Muster,8,7, 8
+Madrid Masters 2017,247,Michael Chang,7,8, 7
+Madrid Masters 2017,247,Boris Becker,5,9, 5
+Madrid Masters 2017,247,Jim Courier,5,10, 5
+Madrid Masters 2017,247,Pete Sampras,11,6, 11
+Madrid Masters 2017,247,Marcelo Rios,5,11, 5
+Madrid Masters 2017,247,Gustavo Kuerten,5,12, 5
+Madrid Masters 2017,247,Marat Safin,5,13, 5
+Madrid Masters 2017,247,Roger Federer,26,3, 26
+Madrid Masters 2017,247,Andy Roddick,5,14, 5
+Madrid Masters 2017,247,Rafael Nadal,30,1, 30
+Madrid Masters 2017,247,Novak Djokovic,30,2, 30
+Madrid Masters 2017,247,Andy Murray,14,5, 14
+Rome Masters 2017,248,Stefan Edberg,4,15, 4
+Rome Masters 2017,248,Andre Agassi,17,4, 17
+Rome Masters 2017,248,Thomas Muster,8,7, 8
+Rome Masters 2017,248,Michael Chang,7,8, 7
+Rome Masters 2017,248,Boris Becker,5,9, 5
+Rome Masters 2017,248,Jim Courier,5,10, 5
+Rome Masters 2017,248,Pete Sampras,11,6, 11
+Rome Masters 2017,248,Marcelo Rios,5,11, 5
+Rome Masters 2017,248,Gustavo Kuerten,5,12, 5
+Rome Masters 2017,248,Marat Safin,5,13, 5
+Rome Masters 2017,248,Roger Federer,26,3, 26
+Rome Masters 2017,248,Andy Roddick,5,14, 5
+Rome Masters 2017,248,Rafael Nadal,30,1, 30
+Rome Masters 2017,248,Novak Djokovic,30,2, 30
+Rome Masters 2017,248,Andy Murray,14,5, 14
+Canada Masters 2017,249,Stefan Edberg,4,15, 4
+Canada Masters 2017,249,Andre Agassi,17,4, 17
+Canada Masters 2017,249,Thomas Muster,8,7, 8
+Canada Masters 2017,249,Michael Chang,7,8, 7
+Canada Masters 2017,249,Boris Becker,5,9, 5
+Canada Masters 2017,249,Jim Courier,5,10, 5
+Canada Masters 2017,249,Pete Sampras,11,6, 11
+Canada Masters 2017,249,Marcelo Rios,5,11, 5
+Canada Masters 2017,249,Gustavo Kuerten,5,12, 5
+Canada Masters 2017,249,Marat Safin,5,13, 5
+Canada Masters 2017,249,Roger Federer,26,3, 26
+Canada Masters 2017,249,Andy Roddick,5,14, 5
+Canada Masters 2017,249,Rafael Nadal,30,1, 30
+Canada Masters 2017,249,Novak Djokovic,30,2, 30
+Canada Masters 2017,249,Andy Murray,14,5, 14
+Cincinnati Masters 2017,250,Stefan Edberg,4,15, 4
+Cincinnati Masters 2017,250,Andre Agassi,17,4, 17
+Cincinnati Masters 2017,250,Thomas Muster,8,7, 8
+Cincinnati Masters 2017,250,Michael Chang,7,8, 7
+Cincinnati Masters 2017,250,Boris Becker,5,9, 5
+Cincinnati Masters 2017,250,Jim Courier,5,10, 5
+Cincinnati Masters 2017,250,Pete Sampras,11,6, 11
+Cincinnati Masters 2017,250,Marcelo Rios,5,11, 5
+Cincinnati Masters 2017,250,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2017,250,Marat Safin,5,13, 5
+Cincinnati Masters 2017,250,Roger Federer,26,3, 26
+Cincinnati Masters 2017,250,Andy Roddick,5,14, 5
+Cincinnati Masters 2017,250,Rafael Nadal,30,1, 30
+Cincinnati Masters 2017,250,Novak Djokovic,30,2, 30
+Cincinnati Masters 2017,250,Andy Murray,14,5, 14
+Shanghai Masters 2017,251,Stefan Edberg,4,15, 4
+Shanghai Masters 2017,251,Andre Agassi,17,4, 17
+Shanghai Masters 2017,251,Thomas Muster,8,7, 8
+Shanghai Masters 2017,251,Michael Chang,7,8, 7
+Shanghai Masters 2017,251,Boris Becker,5,9, 5
+Shanghai Masters 2017,251,Jim Courier,5,10, 5
+Shanghai Masters 2017,251,Pete Sampras,11,6, 11
+Shanghai Masters 2017,251,Marcelo Rios,5,11, 5
+Shanghai Masters 2017,251,Gustavo Kuerten,5,12, 5
+Shanghai Masters 2017,251,Marat Safin,5,13, 5
+Shanghai Masters 2017,251,Roger Federer,27,3, 27
+Shanghai Masters 2017,251,Andy Roddick,5,14, 5
+Shanghai Masters 2017,251,Rafael Nadal,30,1, 30
+Shanghai Masters 2017,251,Novak Djokovic,30,2, 30
+Shanghai Masters 2017,251,Andy Murray,14,5, 14
+Paris Masters 2017,252,Stefan Edberg,4,15, 4
+Paris Masters 2017,252,Andre Agassi,17,4, 17
+Paris Masters 2017,252,Thomas Muster,8,7, 8
+Paris Masters 2017,252,Michael Chang,7,8, 7
+Paris Masters 2017,252,Boris Becker,5,9, 5
+Paris Masters 2017,252,Jim Courier,5,10, 5
+Paris Masters 2017,252,Pete Sampras,11,6, 11
+Paris Masters 2017,252,Marcelo Rios,5,11, 5
+Paris Masters 2017,252,Gustavo Kuerten,5,12, 5
+Paris Masters 2017,252,Marat Safin,5,13, 5
+Paris Masters 2017,252,Roger Federer,27,3, 27
+Paris Masters 2017,252,Andy Roddick,5,14, 5
+Paris Masters 2017,252,Rafael Nadal,30,1, 30
+Paris Masters 2017,252,Novak Djokovic,30,2, 30
+Paris Masters 2017,252,Andy Murray,14,5, 14
+Indian Wells Masters 2018,253,Stefan Edberg,4,15, 4
+Indian Wells Masters 2018,253,Andre Agassi,17,4, 17
+Indian Wells Masters 2018,253,Thomas Muster,8,7, 8
+Indian Wells Masters 2018,253,Michael Chang,7,8, 7
+Indian Wells Masters 2018,253,Boris Becker,5,9, 5
+Indian Wells Masters 2018,253,Jim Courier,5,10, 5
+Indian Wells Masters 2018,253,Pete Sampras,11,6, 11
+Indian Wells Masters 2018,253,Marcelo Rios,5,11, 5
+Indian Wells Masters 2018,253,Gustavo Kuerten,5,12, 5
+Indian Wells Masters 2018,253,Marat Safin,5,13, 5
+Indian Wells Masters 2018,253,Roger Federer,27,3, 27
+Indian Wells Masters 2018,253,Andy Roddick,5,14, 5
+Indian Wells Masters 2018,253,Rafael Nadal,30,1, 30
+Indian Wells Masters 2018,253,Novak Djokovic,30,2, 30
+Indian Wells Masters 2018,253,Andy Murray,14,5, 14
+Miami Masters 2018,254,Stefan Edberg,4,15, 4
+Miami Masters 2018,254,Andre Agassi,17,4, 17
+Miami Masters 2018,254,Thomas Muster,8,7, 8
+Miami Masters 2018,254,Michael Chang,7,8, 7
+Miami Masters 2018,254,Boris Becker,5,9, 5
+Miami Masters 2018,254,Jim Courier,5,10, 5
+Miami Masters 2018,254,Pete Sampras,11,6, 11
+Miami Masters 2018,254,Marcelo Rios,5,11, 5
+Miami Masters 2018,254,Gustavo Kuerten,5,12, 5
+Miami Masters 2018,254,Marat Safin,5,13, 5
+Miami Masters 2018,254,Roger Federer,27,3, 27
+Miami Masters 2018,254,Andy Roddick,5,14, 5
+Miami Masters 2018,254,Rafael Nadal,30,1, 30
+Miami Masters 2018,254,Novak Djokovic,30,2, 30
+Miami Masters 2018,254,Andy Murray,14,5, 14
+Monte Carlo Masters 2018,255,Stefan Edberg,4,15, 4
+Monte Carlo Masters 2018,255,Andre Agassi,17,4, 17
+Monte Carlo Masters 2018,255,Thomas Muster,8,7, 8
+Monte Carlo Masters 2018,255,Michael Chang,7,8, 7
+Monte Carlo Masters 2018,255,Boris Becker,5,9, 5
+Monte Carlo Masters 2018,255,Jim Courier,5,10, 5
+Monte Carlo Masters 2018,255,Pete Sampras,11,6, 11
+Monte Carlo Masters 2018,255,Marcelo Rios,5,11, 5
+Monte Carlo Masters 2018,255,Gustavo Kuerten,5,12, 5
+Monte Carlo Masters 2018,255,Marat Safin,5,13, 5
+Monte Carlo Masters 2018,255,Roger Federer,27,3, 27
+Monte Carlo Masters 2018,255,Andy Roddick,5,14, 5
+Monte Carlo Masters 2018,255,Rafael Nadal,31,1, 31
+Monte Carlo Masters 2018,255,Novak Djokovic,30,2, 30
+Monte Carlo Masters 2018,255,Andy Murray,14,5, 14
+Madrid Masters 2018,256,Stefan Edberg,4,15, 4
+Madrid Masters 2018,256,Andre Agassi,17,4, 17
+Madrid Masters 2018,256,Thomas Muster,8,7, 8
+Madrid Masters 2018,256,Michael Chang,7,8, 7
+Madrid Masters 2018,256,Boris Becker,5,9, 5
+Madrid Masters 2018,256,Jim Courier,5,10, 5
+Madrid Masters 2018,256,Pete Sampras,11,6, 11
+Madrid Masters 2018,256,Marcelo Rios,5,11, 5
+Madrid Masters 2018,256,Gustavo Kuerten,5,12, 5
+Madrid Masters 2018,256,Marat Safin,5,13, 5
+Madrid Masters 2018,256,Roger Federer,27,3, 27
+Madrid Masters 2018,256,Andy Roddick,5,14, 5
+Madrid Masters 2018,256,Rafael Nadal,31,1, 31
+Madrid Masters 2018,256,Novak Djokovic,30,2, 30
+Madrid Masters 2018,256,Andy Murray,14,5, 14
+Rome Masters 2018,257,Stefan Edberg,4,15, 4
+Rome Masters 2018,257,Andre Agassi,17,4, 17
+Rome Masters 2018,257,Thomas Muster,8,7, 8
+Rome Masters 2018,257,Michael Chang,7,8, 7
+Rome Masters 2018,257,Boris Becker,5,9, 5
+Rome Masters 2018,257,Jim Courier,5,10, 5
+Rome Masters 2018,257,Pete Sampras,11,6, 11
+Rome Masters 2018,257,Marcelo Rios,5,11, 5
+Rome Masters 2018,257,Gustavo Kuerten,5,12, 5
+Rome Masters 2018,257,Marat Safin,5,13, 5
+Rome Masters 2018,257,Roger Federer,27,3, 27
+Rome Masters 2018,257,Andy Roddick,5,14, 5
+Rome Masters 2018,257,Rafael Nadal,32,1, 32
+Rome Masters 2018,257,Novak Djokovic,30,2, 30
+Rome Masters 2018,257,Andy Murray,14,5, 14
+Canada Masters 2018,258,Stefan Edberg,4,15, 4
+Canada Masters 2018,258,Andre Agassi,17,4, 17
+Canada Masters 2018,258,Thomas Muster,8,7, 8
+Canada Masters 2018,258,Michael Chang,7,8, 7
+Canada Masters 2018,258,Boris Becker,5,9, 5
+Canada Masters 2018,258,Jim Courier,5,10, 5
+Canada Masters 2018,258,Pete Sampras,11,6, 11
+Canada Masters 2018,258,Marcelo Rios,5,11, 5
+Canada Masters 2018,258,Gustavo Kuerten,5,12, 5
+Canada Masters 2018,258,Marat Safin,5,13, 5
+Canada Masters 2018,258,Roger Federer,27,3, 27
+Canada Masters 2018,258,Andy Roddick,5,14, 5
+Canada Masters 2018,258,Rafael Nadal,33,1, 33
+Canada Masters 2018,258,Novak Djokovic,30,2, 30
+Canada Masters 2018,258,Andy Murray,14,5, 14
+Cincinnati Masters 2018,259,Stefan Edberg,4,15, 4
+Cincinnati Masters 2018,259,Andre Agassi,17,4, 17
+Cincinnati Masters 2018,259,Thomas Muster,8,7, 8
+Cincinnati Masters 2018,259,Michael Chang,7,8, 7
+Cincinnati Masters 2018,259,Boris Becker,5,9, 5
+Cincinnati Masters 2018,259,Jim Courier,5,10, 5
+Cincinnati Masters 2018,259,Pete Sampras,11,6, 11
+Cincinnati Masters 2018,259,Marcelo Rios,5,11, 5
+Cincinnati Masters 2018,259,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2018,259,Marat Safin,5,13, 5
+Cincinnati Masters 2018,259,Roger Federer,27,3, 27
+Cincinnati Masters 2018,259,Andy Roddick,5,14, 5
+Cincinnati Masters 2018,259,Rafael Nadal,33,1, 33
+Cincinnati Masters 2018,259,Novak Djokovic,31,2, 31
+Cincinnati Masters 2018,259,Andy Murray,14,5, 14
+Shanghai Masters 2018,260,Stefan Edberg,4,15, 4
+Shanghai Masters 2018,260,Andre Agassi,17,4, 17
+Shanghai Masters 2018,260,Thomas Muster,8,7, 8
+Shanghai Masters 2018,260,Michael Chang,7,8, 7
+Shanghai Masters 2018,260,Boris Becker,5,9, 5
+Shanghai Masters 2018,260,Jim Courier,5,10, 5
+Shanghai Masters 2018,260,Pete Sampras,11,6, 11
+Shanghai Masters 2018,260,Marcelo Rios,5,11, 5
+Shanghai Masters 2018,260,Gustavo Kuerten,5,12, 5
+Shanghai Masters 2018,260,Marat Safin,5,13, 5
+Shanghai Masters 2018,260,Roger Federer,27,3, 27
+Shanghai Masters 2018,260,Andy Roddick,5,14, 5
+Shanghai Masters 2018,260,Rafael Nadal,33,1, 33
+Shanghai Masters 2018,260,Novak Djokovic,32,2, 32
+Shanghai Masters 2018,260,Andy Murray,14,5, 14
+Paris Masters 2018,261,Stefan Edberg,4,15, 4
+Paris Masters 2018,261,Andre Agassi,17,4, 17
+Paris Masters 2018,261,Thomas Muster,8,7, 8
+Paris Masters 2018,261,Michael Chang,7,8, 7
+Paris Masters 2018,261,Boris Becker,5,9, 5
+Paris Masters 2018,261,Jim Courier,5,10, 5
+Paris Masters 2018,261,Pete Sampras,11,6, 11
+Paris Masters 2018,261,Marcelo Rios,5,11, 5
+Paris Masters 2018,261,Gustavo Kuerten,5,12, 5
+Paris Masters 2018,261,Marat Safin,5,13, 5
+Paris Masters 2018,261,Roger Federer,27,3, 27
+Paris Masters 2018,261,Andy Roddick,5,14, 5
+Paris Masters 2018,261,Rafael Nadal,33,1, 33
+Paris Masters 2018,261,Novak Djokovic,32,2, 32
+Paris Masters 2018,261,Andy Murray,14,5, 14
+Indian Wells Masters 2019,262,Stefan Edberg,4,15, 4
+Indian Wells Masters 2019,262,Andre Agassi,17,4, 17
+Indian Wells Masters 2019,262,Thomas Muster,8,7, 8
+Indian Wells Masters 2019,262,Michael Chang,7,8, 7
+Indian Wells Masters 2019,262,Boris Becker,5,9, 5
+Indian Wells Masters 2019,262,Jim Courier,5,10, 5
+Indian Wells Masters 2019,262,Pete Sampras,11,6, 11
+Indian Wells Masters 2019,262,Marcelo Rios,5,11, 5
+Indian Wells Masters 2019,262,Gustavo Kuerten,5,12, 5
+Indian Wells Masters 2019,262,Marat Safin,5,13, 5
+Indian Wells Masters 2019,262,Roger Federer,27,3, 27
+Indian Wells Masters 2019,262,Andy Roddick,5,14, 5
+Indian Wells Masters 2019,262,Rafael Nadal,33,1, 33
+Indian Wells Masters 2019,262,Novak Djokovic,32,2, 32
+Indian Wells Masters 2019,262,Andy Murray,14,5, 14
+Miami Masters 2019,263,Stefan Edberg,4,15, 4
+Miami Masters 2019,263,Andre Agassi,17,4, 17
+Miami Masters 2019,263,Thomas Muster,8,7, 8
+Miami Masters 2019,263,Michael Chang,7,8, 7
+Miami Masters 2019,263,Boris Becker,5,9, 5
+Miami Masters 2019,263,Jim Courier,5,10, 5
+Miami Masters 2019,263,Pete Sampras,11,6, 11
+Miami Masters 2019,263,Marcelo Rios,5,11, 5
+Miami Masters 2019,263,Gustavo Kuerten,5,12, 5
+Miami Masters 2019,263,Marat Safin,5,13, 5
+Miami Masters 2019,263,Roger Federer,28,3, 28
+Miami Masters 2019,263,Andy Roddick,5,14, 5
+Miami Masters 2019,263,Rafael Nadal,33,1, 33
+Miami Masters 2019,263,Novak Djokovic,32,2, 32
+Miami Masters 2019,263,Andy Murray,14,5, 14
+Monte Carlo Masters 2019,264,Stefan Edberg,4,15, 4
+Monte Carlo Masters 2019,264,Andre Agassi,17,4, 17
+Monte Carlo Masters 2019,264,Thomas Muster,8,7, 8
+Monte Carlo Masters 2019,264,Michael Chang,7,8, 7
+Monte Carlo Masters 2019,264,Boris Becker,5,9, 5
+Monte Carlo Masters 2019,264,Jim Courier,5,10, 5
+Monte Carlo Masters 2019,264,Pete Sampras,11,6, 11
+Monte Carlo Masters 2019,264,Marcelo Rios,5,11, 5
+Monte Carlo Masters 2019,264,Gustavo Kuerten,5,12, 5
+Monte Carlo Masters 2019,264,Marat Safin,5,13, 5
+Monte Carlo Masters 2019,264,Roger Federer,28,3, 28
+Monte Carlo Masters 2019,264,Andy Roddick,5,14, 5
+Monte Carlo Masters 2019,264,Rafael Nadal,33,1, 33
+Monte Carlo Masters 2019,264,Novak Djokovic,32,2, 32
+Monte Carlo Masters 2019,264,Andy Murray,14,5, 14
+Madrid Masters 2019,265,Stefan Edberg,4,15, 4
+Madrid Masters 2019,265,Andre Agassi,17,4, 17
+Madrid Masters 2019,265,Thomas Muster,8,7, 8
+Madrid Masters 2019,265,Michael Chang,7,8, 7
+Madrid Masters 2019,265,Boris Becker,5,9, 5
+Madrid Masters 2019,265,Jim Courier,5,10, 5
+Madrid Masters 2019,265,Pete Sampras,11,6, 11
+Madrid Masters 2019,265,Marcelo Rios,5,11, 5
+Madrid Masters 2019,265,Gustavo Kuerten,5,12, 5
+Madrid Masters 2019,265,Marat Safin,5,13, 5
+Madrid Masters 2019,265,Roger Federer,28,3, 28
+Madrid Masters 2019,265,Andy Roddick,5,14, 5
+Madrid Masters 2019,265,Rafael Nadal,33,1, 33
+Madrid Masters 2019,265,Novak Djokovic,33,2, 33
+Madrid Masters 2019,265,Andy Murray,14,5, 14
+Rome Masters 2019,266,Stefan Edberg,4,15, 4
+Rome Masters 2019,266,Andre Agassi,17,4, 17
+Rome Masters 2019,266,Thomas Muster,8,7, 8
+Rome Masters 2019,266,Michael Chang,7,8, 7
+Rome Masters 2019,266,Boris Becker,5,9, 5
+Rome Masters 2019,266,Jim Courier,5,10, 5
+Rome Masters 2019,266,Pete Sampras,11,6, 11
+Rome Masters 2019,266,Marcelo Rios,5,11, 5
+Rome Masters 2019,266,Gustavo Kuerten,5,12, 5
+Rome Masters 2019,266,Marat Safin,5,13, 5
+Rome Masters 2019,266,Roger Federer,28,3, 28
+Rome Masters 2019,266,Andy Roddick,5,14, 5
+Rome Masters 2019,266,Rafael Nadal,34,1, 34
+Rome Masters 2019,266,Novak Djokovic,33,2, 33
+Rome Masters 2019,266,Andy Murray,14,5, 14
+Canada Masters 2019,267,Stefan Edberg,4,15, 4
+Canada Masters 2019,267,Andre Agassi,17,4, 17
+Canada Masters 2019,267,Thomas Muster,8,7, 8
+Canada Masters 2019,267,Michael Chang,7,8, 7
+Canada Masters 2019,267,Boris Becker,5,9, 5
+Canada Masters 2019,267,Jim Courier,5,10, 5
+Canada Masters 2019,267,Pete Sampras,11,6, 11
+Canada Masters 2019,267,Marcelo Rios,5,11, 5
+Canada Masters 2019,267,Gustavo Kuerten,5,12, 5
+Canada Masters 2019,267,Marat Safin,5,13, 5
+Canada Masters 2019,267,Roger Federer,28,3, 28
+Canada Masters 2019,267,Andy Roddick,5,14, 5
+Canada Masters 2019,267,Rafael Nadal,35,1, 35
+Canada Masters 2019,267,Novak Djokovic,33,2, 33
+Canada Masters 2019,267,Andy Murray,14,5, 14
+Cincinnati Masters 2019,268,Stefan Edberg,4,15, 4
+Cincinnati Masters 2019,268,Andre Agassi,17,4, 17
+Cincinnati Masters 2019,268,Thomas Muster,8,7, 8
+Cincinnati Masters 2019,268,Michael Chang,7,8, 7
+Cincinnati Masters 2019,268,Boris Becker,5,9, 5
+Cincinnati Masters 2019,268,Jim Courier,5,10, 5
+Cincinnati Masters 2019,268,Pete Sampras,11,6, 11
+Cincinnati Masters 2019,268,Marcelo Rios,5,11, 5
+Cincinnati Masters 2019,268,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2019,268,Marat Safin,5,13, 5
+Cincinnati Masters 2019,268,Roger Federer,28,3, 28
+Cincinnati Masters 2019,268,Andy Roddick,5,14, 5
+Cincinnati Masters 2019,268,Rafael Nadal,35,1, 35
+Cincinnati Masters 2019,268,Novak Djokovic,33,2, 33
+Cincinnati Masters 2019,268,Andy Murray,14,5, 14
+Shanghai Masters 2019,269,Stefan Edberg,4,15, 4
+Shanghai Masters 2019,269,Andre Agassi,17,4, 17
+Shanghai Masters 2019,269,Thomas Muster,8,7, 8
+Shanghai Masters 2019,269,Michael Chang,7,8, 7
+Shanghai Masters 2019,269,Boris Becker,5,9, 5
+Shanghai Masters 2019,269,Jim Courier,5,10, 5
+Shanghai Masters 2019,269,Pete Sampras,11,6, 11
+Shanghai Masters 2019,269,Marcelo Rios,5,11, 5
+Shanghai Masters 2019,269,Gustavo Kuerten,5,12, 5
+Shanghai Masters 2019,269,Marat Safin,5,13, 5
+Shanghai Masters 2019,269,Roger Federer,28,3, 28
+Shanghai Masters 2019,269,Andy Roddick,5,14, 5
+Shanghai Masters 2019,269,Rafael Nadal,35,1, 35
+Shanghai Masters 2019,269,Novak Djokovic,33,2, 33
+Shanghai Masters 2019,269,Andy Murray,14,5, 14
+Paris Masters 2019,270,Stefan Edberg,4,15, 4
+Paris Masters 2019,270,Andre Agassi,17,4, 17
+Paris Masters 2019,270,Thomas Muster,8,7, 8
+Paris Masters 2019,270,Michael Chang,7,8, 7
+Paris Masters 2019,270,Boris Becker,5,9, 5
+Paris Masters 2019,270,Jim Courier,5,10, 5
+Paris Masters 2019,270,Pete Sampras,11,6, 11
+Paris Masters 2019,270,Marcelo Rios,5,11, 5
+Paris Masters 2019,270,Gustavo Kuerten,5,12, 5
+Paris Masters 2019,270,Marat Safin,5,13, 5
+Paris Masters 2019,270,Roger Federer,28,3, 28
+Paris Masters 2019,270,Andy Roddick,5,14, 5
+Paris Masters 2019,270,Rafael Nadal,35,1, 35
+Paris Masters 2019,270,Novak Djokovic,34,2, 34
+Paris Masters 2019,270,Andy Murray,14,5, 14
+Cincinnati Masters 2020,271,Stefan Edberg,4,15, 4
+Cincinnati Masters 2020,271,Andre Agassi,17,4, 17
+Cincinnati Masters 2020,271,Thomas Muster,8,7, 8
+Cincinnati Masters 2020,271,Michael Chang,7,8, 7
+Cincinnati Masters 2020,271,Boris Becker,5,9, 5
+Cincinnati Masters 2020,271,Jim Courier,5,10, 5
+Cincinnati Masters 2020,271,Pete Sampras,11,6, 11
+Cincinnati Masters 2020,271,Marcelo Rios,5,11, 5
+Cincinnati Masters 2020,271,Gustavo Kuerten,5,12, 5
+Cincinnati Masters 2020,271,Marat Safin,5,13, 5
+Cincinnati Masters 2020,271,Roger Federer,28,3, 28
+Cincinnati Masters 2020,271,Andy Roddick,5,14, 5
+Cincinnati Masters 2020,271,Rafael Nadal,35,1, 35
+Cincinnati Masters 2020,271,Novak Djokovic,35,2, 35
+Cincinnati Masters 2020,271,Andy Murray,14,5, 14
+Rome Masters 2020,272,Stefan Edberg,4,15, 4
+Rome Masters 2020,272,Andre Agassi,17,4, 17
+Rome Masters 2020,272,Thomas Muster,8,7, 8
+Rome Masters 2020,272,Michael Chang,7,8, 7
+Rome Masters 2020,272,Boris Becker,5,9, 5
+Rome Masters 2020,272,Jim Courier,5,10, 5
+Rome Masters 2020,272,Pete Sampras,11,6, 11
+Rome Masters 2020,272,Marcelo Rios,5,11, 5
+Rome Masters 2020,272,Gustavo Kuerten,5,12, 5
+Rome Masters 2020,272,Marat Safin,5,13, 5
+Rome Masters 2020,272,Roger Federer,28,3, 28
+Rome Masters 2020,272,Andy Roddick,5,14, 5
+Rome Masters 2020,272,Rafael Nadal,35,2, 35
+Rome Masters 2020,272,Novak Djokovic,36,1, 36
+Rome Masters 2020,272,Andy Murray,14,5, 14
+Paris Masters 2020,273,Stefan Edberg,4,15, 4
+Paris Masters 2020,273,Andre Agassi,17,4, 17
+Paris Masters 2020,273,Thomas Muster,8,7, 8
+Paris Masters 2020,273,Michael Chang,7,8, 7
+Paris Masters 2020,273,Boris Becker,5,9, 5
+Paris Masters 2020,273,Jim Courier,5,10, 5
+Paris Masters 2020,273,Pete Sampras,11,6, 11
+Paris Masters 2020,273,Marcelo Rios,5,11, 5
+Paris Masters 2020,273,Gustavo Kuerten,5,12, 5
+Paris Masters 2020,273,Marat Safin,5,13, 5
+Paris Masters 2020,273,Roger Federer,28,3, 28
+Paris Masters 2020,273,Andy Roddick,5,14, 5
+Paris Masters 2020,273,Rafael Nadal,35,2, 35
+Paris Masters 2020,273,Novak Djokovic,36,1, 36
+Paris Masters 2020,273,Andy Murray,14,5, 14
+Miami Masters 2021,274,Stefan Edberg,4,15, 4
+Miami Masters 2021,274,Andre Agassi,17,4, 17
+Miami Masters 2021,274,Thomas Muster,8,7, 8
+Miami Masters 2021,274,Michael Chang,7,8, 7
+Miami Masters 2021,274,Boris Becker,5,9, 5
+Miami Masters 2021,274,Jim Courier,5,10, 5
+Miami Masters 2021,274,Pete Sampras,11,6, 11
+Miami Masters 2021,274,Marcelo Rios,5,11, 5
+Miami Masters 2021,274,Gustavo Kuerten,5,12, 5
+Miami Masters 2021,274,Marat Safin,5,13, 5
+Miami Masters 2021,274,Roger Federer,28,3, 28
+Miami Masters 2021,274,Andy Roddick,5,14, 5
+Miami Masters 2021,274,Rafael Nadal,35,2, 35
+Miami Masters 2021,274,Novak Djokovic,36,1, 36
+Miami Masters 2021,274,Andy Murray,14,5, 14
