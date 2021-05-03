@@ -1,4 +1,4 @@
-This repository is a spin-off of the https://github.com/Tennismylife/Tennis-R-ecord-Tracker that we can consider as a 'Main'
+This repository is a spin-off of the [Tennis-R-ecord-Tracker](https://github.com/Tennismylife/Tennis-R-ecord-Tracker) that we can consider as a 'Main'
 
 In particular here we can find a pretty cool way to plot the data from TML Database as an animate gif (or mp4 if you prefer to)
 
